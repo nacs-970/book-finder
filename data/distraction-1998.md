@@ -1,0 +1,7 @@
+title: Distraction
+description: It's November 2044, an election year, and the state of the Union is a farce. The government is broke, the cities are privately owned, and the military is shaking down citizens in the streets. Washington has become a circus and no one knows that better than Oscar Valparaiso. A political spin doctor, Oscar has always made things look good. Now he wants to make a difference. But Oscar has a skeleton in his closet. His only ally: Dr. Greta Penninger, a gifted neurologist at the bleeding edge of the neural revolution. Together they're out to spread a very dangerous idea whose time has come. And so have their enemies: every technofanatic, government goon, and laptop assassin in America. Oscar and Greta might not survive to change the world, but they'll put a new spin on it. From the Paperback edition.
+rating: 3.392857142857143
+rating_count: 14
+pages: 489
+release_date: 1998-12-01
+genres: Science fiction

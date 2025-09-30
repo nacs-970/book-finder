@@ -1,0 +1,9 @@
+title: The Mountain in the Sea
+description: Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future. When Dr. Ha Nguyen--a pioneering marine biologist with a very specific, cephalopod-focused résumé--is offered the chance to travel to the remote Con Dao Archipelago to investigate a highly intelligent, dangerous octopus species, she doesn't pause long enough to look at the fine print. She will be the only scientist to have access to these octopuses, who just may hold the key to extrahuman intelligence. DIANIMA--a transnational tech corporation best known for its groundbreaking work in artificial intelligence, including having developed the world's first true android--has purchased the islands, evacuated their population, and sealed the archipelago off from the world. That android, along with a battle-tested security officer, will form the entirety of Nguyen's team as she attempts to understand the octopuses' sophisticated communications. But she may not have much time. Forces larger and more powerful than DIANIMA want access to the octopuses and are ruthless and innovative in their pursuit. And meanwhile, of course, the octopuses themselves may have something to say about it. A near-future thriller about the nature of intelligence, Ray Nayler's The Mountain in the Sea is at once a dazzling literary debut and a mind-blowing inquiry into some of humanity's most alluring questions.
+rating: 4.064814814814815
+rating_count: 216
+pages: 464
+release_date: 2022-01-01
+genres: Fiction, Science fiction, Dystopian, Androids, Fantasy, Classics, Adventure, Young Adult, War
+moods: challenging, informative, tense, dark, emotional, hopeful, inspiring, sad, Adventurous, mysterious, reflective, funny
+paces: fast, slow, medium

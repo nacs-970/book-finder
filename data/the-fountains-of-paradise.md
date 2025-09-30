@@ -1,0 +1,9 @@
+title: The Fountains of Paradise
+description: In the 22nd century visionary scientist Vannevar Morgan conceives the most grandiose engineering project of all time, and one which will revolutionize the future of humankind in space: a Space Elevator, 36,000 kilometers high, anchored to an equatorial island in the Indian Ocean.
+rating: 3.7
+rating_count: 65
+pages: 257
+release_date: 1979-01-01
+genres: Science fiction, Classics, Space, Fantasy, Interplanetary voyages, Fiction
+moods: reflective, emotional, challenging, inspiring, hopeful, Adventurous
+paces: slow

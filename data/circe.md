@@ -1,0 +1,9 @@
+title: Circe
+description: "Circe" by Madeline Miller is a mesmerizing reimagining of the Greek mythological character, Circe. Banished to a remote island for defying the gods, Circe's journey unfolds through enchanting prose as she discovers her own power and identity. With vivid storytelling and encounters with legendary figures, including Odysseus, the novel explores themes of strength, transformation, and belonging. "Circe" is a captivating blend of mythology and human emotion that offers an unforgettable reading experience.
+rating: 4.24282223579719
+rating_count: 1637
+pages: 409
+release_date: 2018-01-01
+genres: Fantasy, Classics, Young Adult, Adventure, Fiction, Mythology, Young Adult Fiction, Historical Fiction, Magic, General, Fantasy fiction, Retellings, greek mythology
+moods: inspiring, reflective, Adventurous, emotional, dark, funny, hopeful, sad, challenging, mysterious, tense, lighthearted, informative, relaxing, medium-paced
+paces: medium, slow, fast

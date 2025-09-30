@@ -1,0 +1,21 @@
+title: The Gods Themselves
+description: The year is 2100 A.D.…
+
+And Man no longer stands alone in the universe.
+
+Now there are other worlds, other living beings. Alien beings who mate in threes and live on pure energy. New breeds of humans who have created their own environment and freed themselves from every social and sexual taboo.
+
+Yes, it is the future of new worlds, ever-changing worlds. And yet among them there is still Earth.
+
+Earth, where Man still strives to be the best. To advance himself beyond all other beings and their worlds. And this final, glorious step in mankind’s technical progress has been achieved: the discovery of an unlimited, non-polluting energy source.
+
+But what seems to be progress may, in reality, end in complete tragedy.
+
+Earth’s unlimited energy source is about to trigger unlimited destruction—and the end of a universe.
+rating: 4.005434782608695
+rating_count: 184
+pages: 288
+release_date: 1972-01-01
+genres: Science fiction, Classics, Fantasy, Aliens, Space, Adventure, Fiction in English, Fiction, Spanish, Audio book
+moods: tense, mysterious, reflective, Adventurous, challenging
+paces: fast, medium

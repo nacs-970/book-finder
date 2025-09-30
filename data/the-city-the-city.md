@@ -1,0 +1,9 @@
+title: The City & The City
+description: When the body of a murdered woman is found in the extraordinary, decaying city of Beszel, somewhere at the edge of Europe, it looks like a routine case for Inspector Tyador Borlú of the Extreme Crime Squad. But as he probes, the evidence begins to point to conspiracies far stranger, and more deadly, than anything he could have imagined. Soon his work puts him and those he cares for in danger. Borlú must travel to the only metropolis on Earth as strange as his own, across a border like no other. With shades of Kafka and Philip K. Dick, Raymond Chandler and 1984, the multi-award winning The City & The City by China Miéville is a murder mystery taken to dazzling metaphysical and artistic heights.
+rating: 3.979041916167665
+rating_count: 334
+pages: 384
+release_date: 2009-01-01
+genres: Fantasy, Science fiction, Dystopian, Murder, Mystery, Detective and mystery stories, Fiction, Cities and towns, Read 2025
+moods: Adventurous, dark, mysterious, tense, challenging
+paces: medium, fast

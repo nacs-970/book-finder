@@ -1,0 +1,9 @@
+title: The Vor Game
+description: This edition is the first generally available printing of this book in hardcover. The Vor Game, won the Hugo for Best Novel of 1990. It continues Miles' story as he graduates from the Imperial Military Academy. Introduction by Jo Walton. Dustjacket art by Robert M. Brown and design by Alice N. S. Lewis. Edited by Suford Lewis.
+rating: 4.0576923076923075
+rating_count: 104
+pages: 343
+release_date: 1990-01-01
+genres: Fiction, Science fiction, Fantasy, Adventure, Space, War, Popular literature
+moods: Adventurous, funny
+paces: fast, medium

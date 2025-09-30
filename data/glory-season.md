@@ -1,0 +1,7 @@
+title: Glory Season
+description: Long ago, the Founding Mothers left old Earth and the Phylum Worlds, seeking a hidden place to reforge human destiny. Through genetic wizardry, they have altered human sexual patterns. For most of the year, any child born on the planet Stratos is a clone of her mother, identical to all the sisters in her veritable clan. Only in summer are 'vars' conceived - old-fashioned, gene-mixed girls, and even sometimes boys - each one garishly, ignobly unique. Maia, one lonely young var, grows up knowing she must summon all her skill to win a place in this world run by and for high-caste clanswomen, a world far gentler than those of the old Phylum . . . except for those rare seasons of change, when the planet seems to call its people forth to glory. Rich in texture, universal in theme, monumental in scope, GLORY SEASON is a saga of remarkable passion and drama, set in a faraway place and time but shining light upon issues vexing our own confused era.
+rating: 3.375
+rating_count: 16
+pages: 600
+release_date: 1993-01-01
+genres: Science fiction, Fantasy, Dystopian, Classics, Fiction

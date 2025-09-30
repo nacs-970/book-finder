@@ -1,0 +1,7 @@
+title: Project Pope
+description: Robot believers at the far end of the galaxy endeavor to create a true religion, but their efforts could be shattered by a shocking revelation Far in the future, on the remote planet End of Nothing, sentient robots are engaged in a remarkable enterprise. They call their project Vatican-17: an endeavor to create a truly universal religion presided over by a pope, whose extreme godliness and infallible artificial intelligence are fed by telepathic human Listeners who psychically delve into the mysteries of the universe. But the great and holy mission could be compromised by one shocking revelation that threatens to inspire serious crises of faith among the spiritual, truth-seeking robotic acolytes while tearing them into warring religious factions. For the Listener Mary is claiming that she has just discovered Heaven. There are those among the Clifford D. Simak faithful who consider Project Pope his masterpiece. But whether the crowning literary achievement of a multiple Hugo and Nebula Award–winning science fiction Grand Master or merely another brilliant novel of speculative fiction to stand among his many, Simak’s breathtaking search for God in the machine ingeniously blends science and spirituality in a truly miraculous way that few science fiction writers, if any, have been able to accomplish.
+rating: 2.5
+rating_count: 2
+pages: 287
+release_date: 1981-01-01
+genres: Science fiction, Fantasy, Classics, Fiction

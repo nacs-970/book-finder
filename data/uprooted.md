@@ -1,0 +1,15 @@
+title: Uprooted
+description: Agnieszka loves her valley home, her quiet village, the forests and the bright shining river. But the corrupted Wood stands on the border, full of malevolent power, and its shadow lies over her life.
+
+Her people rely on the cold, driven wizard known only as the Dragon to keep its powers at bay. But he demands a terrible price for his help: one young woman handed over to serve him for ten years, a fate almost as terrible as falling to the Wood.
+
+The next choosing is fast approaching, and Agnieszka is afraid. She knows—everyone knows—that the Dragon will take Kasia: beautiful, graceful, brave Kasia, all the things Agnieszka isn’t, and her dearest friend in the world. And there is no way to save her.
+
+But Agnieszka fears the wrong things. For when the Dragon comes, it is not Kasia he will choose.
+rating: 3.957165109034268
+rating_count: 642
+pages: 438
+release_date: 2015-01-01
+genres: Fantasy, Young Adult, Adventure, Magic, Fairy tales, Folklore, Fiction, Friendship, Science fiction, Romance
+moods: hopeful, mysterious, sad, tense, Adventurous, emotional, funny, Magical, depressing, Somber, dark, reflective, lighthearted, challenging, informative, inspiring, medium-paced
+paces: medium, fast, slow

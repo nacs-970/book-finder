@@ -1,0 +1,9 @@
+title: Snow Crash
+description: In Snow Crash, Neal Stephenson rewires the cyberpunk genre, throwing you headfirst into a chaotic, corporatized future where governments have collapsed, the Metaverse reigns supreme, and everything—literally everything—is for sale. Hiro Protagonist, katana-wielding hacker and the world’s most overqualified pizza delivery guy, stumbles onto a digital virus that’s more than just code—it’s a weapon that targets minds, threatening the virtual and real worlds alike. With the help of a badass skateboarding courier named Y.T., Hiro races through a world of hyper-capitalist dystopia, ancient Sumerian mythology, and corporate warfare to stop an apocalypse no one else even sees coming. Wild, prophetic, and way too real, Snow Crash doesn’t just predict the future—it builds it.
+rating: 3.998046875
+rating_count: 1024
+pages: 448
+release_date: 1992-01-01
+genres: Science fiction, Fantasy, Dystopian, Classics, Adventure, cyberpunk, Fiction, Suspense, Computer programmers, Hard Science Fiction, Science Fiction & Fantasy, 1735854309580, Contemporary
+moods: Adventurous, dark, funny, lighthearted, informative, inspiring, tense, mysterious, reflective, challenging, suspenseful, Feel-Good, scary, medium-paced
+paces: fast, medium, slow

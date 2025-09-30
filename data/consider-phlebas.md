@@ -1,0 +1,9 @@
+title: Consider Phlebas
+description: Consider Phlebas is perhaps one of the lesser-known, but nevertheless the first, of the revelationary late Iain M. Banks' science fiction books. Consider Phlebas introduces us to the complex world of the mind-controlling, ubiquitous utopia of the Culture, which contrasts to their mortal sentient enemies. Iain Banks creates an imaginative and encapsulating premise to keep the reader hooked for more, with hints of science fiction and alien humour to liven a deadly race against an omnipotent foe.
+rating: 3.591463414634146
+rating_count: 492
+pages: 544
+release_date: 1987-01-01
+genres: Science fiction, Space, Fantasy, Adventure, War, Aliens, Classics, Fiction, Space warfare, Imaginary wars and battles
+moods: Adventurous, tense, emotional, reflective, dark, funny, informative, mysterious, hopeful, medium-paced
+paces: fast, medium, slow

@@ -1,0 +1,11 @@
+title: Beyond the Blue Event Horizon
+description: Heechee Saga #2
+
+“In book two of the Heechee Saga, Robinette Broadhead is on his way to making a fortune by bankrolling an expedition to the Food Factory--a Heechee spaceship that can graze the cometary cloud and transfor the basic elements of the universe into untold quantities of food. But even as he gambles on the breakthrough technology, he is wracked with the guilt of losing his wife, poised forever at the "event horizon" of a black hole where Robin had abandoned her. As more and more information comes back from the expedition, Robin grows ever hopeful that he can rescue his beloved Gelle-Klara Moynlin. After three and a years, the factory is discovered to work, and a human is found aboard. Robin's suffering may be just about over…”
+
+From Goodreads
+rating: 3.625
+rating_count: 48
+pages: 324
+release_date: 1980-01-01
+genres: Science fiction, Fantasy, Adventure, Space, Aliens, Classics

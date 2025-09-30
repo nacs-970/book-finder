@@ -1,0 +1,9 @@
+title: The Windup Girl
+description: What Happens when bio-terrorism becomes a tool for corporate profits? And what happens when said bio-terrorism forces humanity to the cusp of post-human evolution? In The Windup Girl, award-winning author Paolo Bacigalupi returns to the world of "The Calorie Man"( Theodore Sturgeon Memorial Award-winner, Hugo Award nominee, 2006) and "Yellow Card Man" (Hugo Award nominee, 2007) in order to address these questions.
+rating: 3.683774834437086
+rating_count: 302
+pages: 359
+release_date: 2001-09-01
+genres: Science fiction, Dystopian, Fantasy, Young Adult, Fiction, Thriller
+moods: challenging, dark, tense, slow-paced, Adventurous, sad
+paces: medium

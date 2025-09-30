@@ -1,0 +1,9 @@
+title: Little Brother
+description: Interrogated for days by the Department of Homeland Security in the aftermath of a terrorist attack on San Francisco, 17-year-old Marcus is released into what is now a police state and decides to use his expertise in computer hacking to set things right.
+rating: 3.882608695652174
+rating_count: 230
+pages: 386
+release_date: 2008-01-01
+genres: Fiction, Young Adult, Dystopian, Science fiction, Adventure, Fantasy, War, Young Adult Fiction, Juvenile Fiction, General, Civil rights, Civil disobedience
+moods: challenging, dark, informative, Adventurous, tense
+paces: fast, medium

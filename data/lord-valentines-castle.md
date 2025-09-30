@@ -1,0 +1,6 @@
+title: Lord Valentine's Castle
+description: In this epic, “[a] brilliant concept of the imagination,” an amnesiac wanderer rediscovers his destiny as ruler of a vast planet (Chicago Sun-Times). Valentine, a drifter who remembers nothing except his name, finds himself on the fringes of a great city. Joining a motley troupe of jugglers and acrobats, he travels with them across the magical planet of Majipoor. All the while, he hopes to meet someone who can help him retrieve his past. Then Valentine begins to dream—and to receive messages in those dreams. Messages that tell him he is a lord, a king turned out of his castle. Now his travels have a purpose: to return to his home, discover what enemy took his memory, and claim the destiny that awaits him. “An imaginative fusion of action, sorcery, and science fiction.” —The New York Times Book Review “Absorbing . . . a wildly imaginative universe.” —People
+rating: 3.6666666666666665
+rating_count: 27
+release_date: 1980-11-01
+genres: Fiction, Fantasy, Science fiction, Adventure, Classics

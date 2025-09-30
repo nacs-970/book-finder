@@ -1,0 +1,9 @@
+title: A Closed and Common Orbit
+description: A Publishers Weekly "Best Books of 2017" pick! Nominated for the 2017 Hugo Award for Best Novel! Shortlisted for the 2017 Arthur C. Clarke Award! Winner of the Prix Julia-Verlanger! Embark on an exciting, adventurous, and dangerous journey through the galaxy with the motley crew of the spaceship Wayfarer in this fun and heart-warming space opera—the sequel to the acclaimed The Long Way to a Small, Angry Planet. Lovelace was once merely a ship’s artificial intelligence. When she wakes up in a new body, following a total system shut-down and reboot, she has no memory of what came before. As Lovelace learns to negotiate the universe and discover who she is, she makes friends with Pepper, an excitable engineer, who’s determined to help her learn and grow. Together, Pepper and Lovey will discover that no matter how vast space is, two people can fill it together. The Long Way to a Small, Angry Planet introduced readers to the incredible world of Rosemary Harper, a young woman with a restless soul and secrets to keep. When she joined the crew of the Wayfarer, an intergalactic ship, she got more than she bargained for—and learned to live with, and love, her rag-tag collection of crewmates. A Closed and Common Orbit is the stand-alone sequel to that beloved debut novel, and is perfect for fans of Firefly, Joss Whedon, Mass Effect, and Star Wars.
+rating: 4.317490494296578
+rating_count: 526
+pages: 384
+release_date: 2016-01-01
+genres: Science fiction, Space, LGBTQ, Fantasy, Aliens, Adventure, Young Adult, Fiction, Space Opera, Interplanetary voyages, Science Fiction & Fantasy, Queer
+moods: Adventurous, emotional, hopeful, reflective, sad, tense, funny, inspiring, lighthearted, relaxing, dark, 1735855253997, medium-paced
+paces: medium, slow

@@ -1,0 +1,11 @@
+title: Piranesi
+description: Piranesi’s house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others. Within the labyrinth of halls an ocean is imprisoned; waves thunder up staircases, rooms are flooded in an instant. But Piranesi is not afraid; he understands the tides as he understands the pattern of the labyrinth itself. He lives to explore the house.
+
+There is one other person in the house—a man called The Other, who visits Piranesi twice a week and asks for help with research into A Great and Secret Knowledge. But as Piranesi explores, evidence emerges of another person, and a terrible truth begins to unravel, revealing a world beyond the one Piranesi has always known.
+rating: 4.249353169469599
+rating_count: 1546
+pages: 272
+release_date: 2019-04-08
+genres: Fantasy, Science fiction, Fiction, Mystery, speculative fiction, Magic Realism, Magic, Literary, Magical Realism, General, Fiction / Literary, Fiction / Fantasy / General, Fiction / Fantasy / Dark Fantasy, Fiction / Magical Realism, Fiction / General, Literary Fiction, Genre Fiction, Fantasy fiction, Adult Fiction, Curiosities and wonders, Dark Fantasy; Fantasy; Fiction; Literary; Magical Realism, 1738521820253
+moods: dark, mysterious, Adventurous, reflective, challenging, hopeful, emotional, inspiring, tense, relaxing, sad, funny, lighthearted, slow paced, informative, fascinating, Slow Burn, Contemplative, melancholy, suspenseful, Feel-Good, Heartfelt, Mind-Bending
+paces: medium, fast, slow

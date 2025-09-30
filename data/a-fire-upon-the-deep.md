@@ -1,0 +1,10 @@
+title: A Fire Upon the Deep
+description: Thousands of years in the future, humanity is no longer alone in a universe where a mind's potential is determined by its location in space, from superintelligent entities in the Transcend, to the limited minds of the Unthinking Depths, where only simple creatures, and technology, can function. Nobody knows what strange force partitioned space into these "regions of thought," but when the warring Straumli realm use an ancient Transcendent artifact as a weapon, they unwittingly unleash an awesome power that destroys thousands of worlds and enslaves all natural and artificial intelligence.
+
+Fleeing this galactic threat, Ravna crash lands on a strange world with a ship-hold full of cryogenically frozen children, the only survivors from a destroyed space-lab. They are taken captive by the Tines, an alien race with a harsh medieval culture, and used as pawns in a ruthless power struggle.
+rating: 3.991638795986622
+rating_count: 299
+release_date: 1992-01-01
+genres: Science fiction, Fantasy, Space, Aliens, Adventure, War, Classics, Fiction, Life on other planets
+moods: Adventurous, mysterious
+paces: medium

@@ -1,0 +1,15 @@
+title: Six Wakes
+description: In this Hugo nominated science fiction thriller by Mur Lafferty, a crew of clones awakens aboard a space ship to find they're being hunted-and any one of them could be the killer.
+
+Maria Arena awakens in a cloning vat streaked with drying blood. She has no memory of how she died. This is new; before, when she had awakened as a new clone, her first memory was of how she died.
+
+Maria's vat is one of seven, each one holding the clone of a crew member of the starship Dormire, each clone waiting for its previous incarnation to die so it can awaken. And Maria isn't the only one to die recently. . .
+
+Unlock the bold new science fiction thriller that Corey Doctorow calls Mur's "breakout book".
+rating: 3.807486631016043
+rating_count: 187
+pages: 400
+release_date: 2017-01-01
+genres: Space Opera, Mystery, Fiction, Science fiction, Space, Fantasy, Adventure, Thriller
+moods: Adventurous, mysterious, tense, challenging, dark, emotional, funny, hopeful, sad, fast-paced
+paces: fast, medium

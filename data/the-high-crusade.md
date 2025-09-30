@@ -1,0 +1,7 @@
+title: The High Crusade
+description: In the year of grace 1345, as Sir Roger Baron de Tourneville is gathering an army to join King Edward III in the war against France, a most astonishing event occurs: a huge silver ship descends through the sky and lands in a pasture beside the little village of Ansby in northeastern Lincolnshire. The Wersgorix, whose scouting ship it is, are quite expert at taking over planets, and having determined from orbit that this one was suitable, they initiate standard world-conquering procedure. Ah, but this time it's no mere primitives the Wersgorix seek to enslave—they've launched their invasion against free Englishmen! In the end, only one alien is left alive—and Sir Roger's grand vision is born. He intends for the creature to fly the ship first to France to aid his King, then on to the Holy Land to vanquish the infidel. Unfortunately, he has not allowed for the treachery of the alien pilot, who instead takes the craft to his home planet, where, he thinks, these upstart barbarians will have no choice but to surrender. But that knavish alien little understands the indomitable will and clever resourcefulness of Englishmen, no matter how great the odds against them...
+rating: 3.3947368421052633
+rating_count: 19
+pages: 196
+release_date: 1960-01-01
+genres: Science fiction, Fantasy, Adventure, Aliens, Space, War, Fiction, Classics

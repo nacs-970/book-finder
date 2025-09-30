@@ -1,0 +1,7 @@
+title: Red Prophet
+description: Age rating: PG-13, make sure you've had the birds and the bees talk for this and the rest of the books after this.
+rating: 3.4651162790697674
+rating_count: 43
+pages: 311
+release_date: 1988-01-01
+genres: Fantasy, Science fiction, Young Adult, Adventure, Fiction, Comics, General, Comics & Graphic Novels, Humor

@@ -1,0 +1,11 @@
+title: Death's End
+description: Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
+
+Cheng Xin, an aerospace engineer from the early twenty-first century, awakens from hibernation in this new age. She brings with her knowledge of a long-forgotten program dating from the beginning of the Trisolar Crisis, and her very presence may upset the delicate balance between two worlds. Will humanity reach for the stars or die in its cradle?
+rating: 4.3487450462351385
+rating_count: 757
+pages: 604
+release_date: 2007-07-24
+genres: Science fiction, Fantasy, Space, Aliens, Dystopian, Fiction, Mystery, Dystopias, Adventure, Human-alien encounters, Chinese fiction, English
+moods: challenging, Adventurous, mysterious, reflective, tense, dark, emotional, inspiring, hopeful, sad, informative, relaxing, medium-paced
+paces: fast, slow, medium

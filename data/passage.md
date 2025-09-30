@@ -1,0 +1,7 @@
+title: Passage
+description: Sf thriller exploring our greatest journey and our greatest mystery -- death itself -- from the winner of both the Hugo and the Nebula awards. Psychologist Dr Joanna Lander has spent two years at Mercy General Hospital studying patients who have been declared clinically dead but then revived. Many have had near-death experiences, NDEs, which are remarkably similar the world over. Then brilliant young neurologist Richard Wright discovers a way to induce an NDE using psychoactive drugs. He's convinced that NDEs are a survival mechanism, and that through them more patients might be brought back from the edge of death. Patients like Joanna's young friend Masie, who is almost certain to die before she gets the heart transplant she desperately needs. So when Joanna realizes that Richard's project is under threat due to a shortage of suitable subjects, she volunteers to take the dangerous journey to the limits of knowledge herself. Immediately fascinated by her simulated near-death experiences, Joanna becomes increasingly desperate to discover the meaning behind the strangely familiar images and feelings she encounters. As she begins to unravel the mystery, her sense of dread grows. Becau
+rating: 3.5789473684210527
+rating_count: 19
+pages: 608
+release_date: 2001-01-01
+genres: Science fiction, Fantasy, Near-death experiences

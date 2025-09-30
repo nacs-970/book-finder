@@ -1,0 +1,9 @@
+title: The Saint of Bright Doors
+description: Winner of the Nebula Award for Best Novel! A 2023 New York Times Notable Book “The best book I've read all year. Protean, singular, original.” —Amal El-Mohtar for the New York Times The Saint of Bright Doors sets the high drama of divine revolutionaries and transcendent cults against the mundane struggles of modern life, resulting in a novel that is revelatory and resonant. Fetter was raised to kill, honed as a knife to cut down his sainted father. This gave him plenty to talk about in therapy. He walked among invisible powers: devils and anti-gods that mock the mortal form. He learned a lethal catechism, lost his shadow, and gained a habit for secrecy. After a blood-soaked childhood, Fetter escaped his rural hometown for the big city, and fell into a broader world where divine destinies are a dime a dozen. Everything in Luriat is more than it seems. Group therapy is recruitment for a revolutionary cadre. Junk email hints at the arrival of a god. Every door is laden with potential, and once closed may never open again. The city is scattered with Bright Doors, looming portals through which a cold wind blows. In this unknowable metropolis, Fetter will discover what kind of man he is, and his discovery will rewrite the world. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.
+rating: 4.018867924528302
+rating_count: 53
+pages: 358
+release_date: 2023-01-01
+genres: Fiction, Fantasy, LGBTQ, Literary Fiction, Adventure, Science fiction, Dystopian
+moods: Adventurous, challenging, emotional, inspiring, mysterious, tense, dark, reflective, funny
+paces: medium

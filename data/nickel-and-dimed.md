@@ -1,0 +1,13 @@
+title: Nickel and Dimed: On (Not) Getting by in America
+description: Millions of Americans work full time, year round, for poverty-level wages. In 1998, Barbara Ehrenreich decided to join them. She was inspired in part by the rhetoric surrounding welfare reform, which promised that a job―any job―can be the ticket to a better life. But how does anyone survive, let alone prosper, on $6 an hour?
+
+To find out, Ehrenreich left her home, took the cheapest lodgings she could find, and accepted whatever jobs she was offered. Moving from Florida to Maine to Minnesota, she worked as a waitress, a hotel maid, a cleaning woman, a nursing-home aide, and a Wal-Mart sales clerk. She lived in trailer parks and crumbling residential motels. Very quickly, she discovered that no job is truly "unskilled," that even the lowliest occupations require exhausting mental and muscular effort. She also learned that one job is not enough; you need at least two if you int to live indoors.
+
+Nickel and Dimed reveals low-rent America in all its tenacity, anxiety, and surprising generosity―a land of Big Boxes, fast food, and a thousand desperate stratagems for survival. Read it for the smoldering clarity of Ehrenreich's perspective and for a rare view of how "prosperity" looks from the bottom. You will never see anything―from a motel bathroom to a restaurant meal―in quite the same way again.
+rating: 3.617857142857143
+rating_count: 140
+pages: 244
+release_date: 2001-01-01
+genres: Business & Economics, Classics, Minimum wage, Blue collar workers, Biography, Women, social science, Nonfiction
+moods: informative, reflective, depressing
+paces: fast

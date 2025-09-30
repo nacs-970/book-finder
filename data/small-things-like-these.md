@@ -1,0 +1,11 @@
+title: Small Things Like These
+description: It is 1985 in a small Irish town. During the weeks leading up to Christmas, Bill Furlong, a coal merchant and family man faces into his busiest season. Early one morning, while delivering an order to the local convent, Bill makes a discovery which forces him to confront both his past and the complicit silences of a town controlled by the church.
+
+Already an international bestseller, Small Things Like These is a deeply affecting story of hope, quiet heroism, and empathy from one of our most critically lauded and iconic writers.
+rating: 4.124105011933175
+rating_count: 419
+pages: 15
+release_date: 2021-01-01
+genres: Literature, Fiction, History, Historical Fiction, Short Fiction, Literary, Historical
+moods: emotional, reflective, hopeful, dark, sad, inspiring, mysterious, Adventurous, reflective and emotional, relaxing, medium-paced, informative
+paces: fast, slow, medium

@@ -1,0 +1,21 @@
+title: The Daughter of Doctor Moreau
+description: FINALIST FOR THE HUGO AWARD • ONE OF THE BEST BOOKS OF THE YEAR: The New York Times Book Review, Time, NPR, Polygon, Tordotcom, Paste, CrimeReads, Booklist
+
+Carlota Moreau: A young woman growing up on a distant and luxuriant estate, safe from the conflict and strife of the Yucatán peninsula. The only daughter of a researcher who is either a genius or a madman.
+
+Montgomery Laughton: A melancholic overseer with a tragic past and a propensity for alcohol. An outcast who assists Dr. Moreau with his experiments, which are financed by the Lizaldes, owners of magnificent haciendas and plentiful coffers.
+
+The hybrids: The fruits of the doctor’s labor, destined to blindly obey their creator and remain in the shadows. A motley group of part human, part animal monstrosities.
+
+All of them live in a perfectly balanced and static world, which is jolted by the abrupt arrival of Eduardo Lizalde, the charming and careless son of Dr. Moreau’s patron, who will unwittingly begin a dangerous chain reaction.
+
+For Moreau keeps secrets, Carlota has questions, and, in the sweltering heat of the jungle, passions may ignite.
+
+The Daughter of Doctor Moreau is both a dazzling historical novel and a daring science fiction journey.
+rating: 3.426470588235294
+rating_count: 102
+pages: 342
+release_date: 2022-01-01
+genres: Fantasy, Science fiction, Fiction, Historical Fiction
+moods: Adventurous, dark, mysterious, tense, challenging, emotional, reflective, hopeful
+paces: slow, fast, medium

@@ -1,0 +1,7 @@
+title: Dying Inside
+description: David Selig was blessed and cursed by the amazing gift of being able to peer into people's minds, to read thoughts, to know their feeldings. This is the chilling story of what happens when David's power begins to ebb.
+rating: 3.4565217391304346
+rating_count: 23
+pages: 304
+release_date: 1972-10-01
+genres: Families, Science fiction, Fantasy, Classics, Adventure, Fiction

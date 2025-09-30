@@ -1,0 +1,7 @@
+title: Humans
+description: Robert J. Sawyer, the award-winning and bestselling writer, hits the peak of his powers in Humans, the second book of The Neanderthal Parallax, his trilogy about our world and parallel one in which it was the Homo sapiens who died out and the Neanderthals who became the dominant intelligent species. This powerful idea allows Sawyer to examine some of the deeply rooted assumptions of contemporary human civilization dramatically, by confronting us with another civilization, just as morally valid, that has made other choices. In Humans, Neanderthal physicist Ponter Boddit, a character you will never forget, returns to our world and to his relationship with geneticist Mary Vaughan, as cultural exchanges between the two Earths begin. As we see daily life in another present-day world, radically different from ours, in the course of Sawyer's fast-moving story, we experience the bursts of wonder and enlightenment that are the finest pleasures of science fiction. Humans is one of the best SF novels of the year, and The Neanderthal Parallax is an SF classic in the making. Humans is a 2004 Hugo Award Nominee for Best Novel.
+rating: 3.789473684210526
+rating_count: 19
+pages: 352
+release_date: 2003-01-01
+genres: Science fiction, Fantasy, Adventure, Fiction

@@ -1,0 +1,9 @@
+title: The Claw of the Conciliator
+description: Severian is in possession of a gem considered to be "The Claw of the Conciliator", a powerful relic of the Master of Power, a legendary figure of mythic proportions. Armed with his sword, Terminus Est, and the Claw, Severian continues his journey to Thrax, the city of his exile. Bizarre apes, strange cannibalistic rituals, and the foreigner named Jonas all lie in his future.
+rating: 3.966292134831461
+rating_count: 89
+pages: 303
+release_date: 1981-01-01
+genres: Fantasy, Science fiction, Dystopian, Classics, Adventure
+moods: challenging, mysterious
+paces: medium

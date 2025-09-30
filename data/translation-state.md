@@ -1,0 +1,9 @@
+title: Translation State
+description: The mystery of a missing translator sets three lives on a collision course that will have a ripple effect across the stars in this powerful novel from a Hugo, Nebula, and Arthur C. Clarke award-winning author. "There are few who write science fiction like Ann Leckie can. There are few who ever could." —John Scalzi Qven was created to be a Presger translator. The pride of their Clade, they always had a clear path before them: learn human ways, and eventually, make a match and serve as an intermediary between the dangerous alien Presger and the human worlds. The realization that they might want something else isn't "optimal behavior". I's the type of behavior that results in elimination. But Qven rebels. And in doing so, their path collides with those of two others. Enae, a reluctant diplomat whose dead grandmaman has left hir an impossible task as an inheritance: hunting down a fugitive who has been missing for over 200 years. And Reet, an adopted mechanic who is increasingly desperate to learn about his genetic roots—or anything that might explain why he operates so differently from those around him. As a Conclave of the various species approaches—and the long-standing treaty between the humans and the Presger is on the line—the decisions of all three will have ripple effects across the stars. Masterfully merging space adventure and mystery, and a poignant exploration about relationships and belonging, Translation State is a triumphant new standalone story set in the celebrated Imperial Radch universe.
+rating: 4.047101449275362
+rating_count: 138
+pages: 312
+release_date: 2023-01-01
+genres: Science fiction, Fiction, LGBTQ, Space Opera, Fantasy, Space, Aliens, Adventure
+moods: mysterious, tense, dark, inspiring, Adventurous, challenging, funny, emotional, reflective, hopeful
+paces: medium, fast

@@ -1,0 +1,9 @@
+title: The Rise of Endymion
+description: The time of reckoning has arrived. As a final genocidal Crusade threatens to enslave humanity forever, a new messiah has come of age. She is Aenea and she has undergone a strange apprenticeship to those known as the Others. Now her protector, Raul Endymion, one-time shepherd and convicted murderer, must help her deliver her startling message to her growing army of disciples. But first they must embark on a final spectacular mission to discover the underlying meaning of the universe itself. They have been followed on their journey by the mysterious Shrike - monster, angel, killing machine - who is about to reveal the long-held secret of its origin and purpose. And on the planet of Hyperion, where the story first began, the final revelation will be delivered - an apocalyptic message that unlocks the secrets of existence and the fate of humankind in the galaxy.
+rating: 4.024489795918368
+rating_count: 245
+pages: 709
+release_date: 1997-01-01
+genres: Science fiction, Fantasy, Space, Adventure, Aliens, American, Fiction, Classics
+moods: Adventurous
+paces: medium

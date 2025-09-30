@@ -1,0 +1,9 @@
+title: The Brief Wondrous Life of Oscar Wao
+description: Oscar is a sweet but disastrously overweight ghetto nerd who—from the New Jersey home he shares with his old world mother and rebellious sister—dreams of becoming the Dominican J.R.R. Tolkien and, most of all, finding love. But Oscar may never get what he wants. Blame the fukú—a curse that has haunted Oscar’s family for generations, following them on their epic journey from Santo Domingo to the USA. Encapsulating Dominican-American history, The Brief Wondrous Life of Oscar Wao opens our eyes to an astonishing vision of the contemporary American experience and explores the endless human capacity to persevere—and risk it all—in the name of love.
+rating: 3.726229508196721
+rating_count: 305
+pages: 360
+release_date: 2007-01-01
+genres: Classics, Fantasy, Young Adult, Fiction, Literature, Blessing and cursing, General, Dominican Americans, United States, Latino American, Coming of Age, World Literature, Contemporary
+moods: Adventurous, emotional, funny, lighthearted, reflective, Heartfelt, Witty, suspenseful
+paces: medium

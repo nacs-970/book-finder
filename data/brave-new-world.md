@@ -1,0 +1,9 @@
+title: Brave New World
+description: "Aldous Huxley's profoundly important classic of world literature, Brave New World is a searching vision of an unequal, technologically-advanced future where humans are genetically bred, socially indoctrinated, and pharmaceutically anesthetized to passively uphold an authoritarian ruling order–all at the cost of our freedom, full humanity, and perhaps also our souls. “A genius [who] who spent his life decrying the onward march of the Machine” (The New Yorker), Huxley was a man of incomparable talents: equally an artist, a spiritual seeker, and one of history’s keenest observers of human nature and civilization. Brave New World, his masterpiece, has enthralled and terrified millions of readers, and retains its urgent relevance to this day as both a warning to be heeded as we head into tomorrow and as thought-provoking, satisfying work of literature."-- Provided by Amazon
+rating: 3.889014979573309
+rating_count: 2203
+pages: 332
+release_date: 1900-01-01
+genres: Classics, Science fiction, Dystopian, Fantasy, Young Adult, Political, Brainwashing, Fiction, Self-Help, Science, History, Control (Psychology), Spanish language materials, Collectivism, Literary Collections, Family, Behavior modification, Large print books, Foreign Language Study, Control (Psychology)., General, Genetic engineering, Dystopias, Dystopias in literature, Alienation (Social psychology), Collectivism - Fiction, Spanish fiction, literary criticism, Book industries and trade, Utopian, Hard Science Fiction, Genetics, Classique, Philosophie
+moods: dark, sad, tense, Adventurous, funny, challenging, inspiring, reflective, mysterious, Witty, Emotionally Gripping, Thought-Provoking, scary, emotional, informative
+paces: slow, fast, medium

@@ -1,0 +1,9 @@
+title: The Vegetarian
+description: Yeong-hye and her husband are ordinary people. He is an office worker with moderate ambitions and mild manners; she is an uninspired but dutiful wife. The acceptable flatline of their marriage is interrupted when Yeong-hye, seeking a more 'plant-like' existence, decides to become a vegetarian, prompted by grotesque recurring nightmares. In South Korea, where vegetarianism is almost unheard-of and societal mores are strictly obeyed, Yeong-hye's decision is a shocking act of subversion. Her passive rebellion manifests in ever more bizarre and frightening forms, leading her bland husband to self-justified acts of sexual sadism. His cruelties drive her towards attempted suicide and hospitalisation. She unknowingly captivates her sister's husband, a video artist. She becomes the focus of his increasingly erotic and unhinged artworks, while spiralling further and further into her fantasies of abandoning her fleshly prison and becoming - impossibly, ecstatically - a tree. Fraught, disturbing and beautiful, The Vegetarian is a novel about modern day South Korea, but also a novel about shame, desire and our faltering attempts to understand others, from one imprisoned body to another.
+rating: 3.5406593406593405
+rating_count: 455
+pages: 192
+release_date: 2007-01-01
+genres: Fiction, Short stories, Korean, Literary, Korea (South), Dystopian, Science fiction, Psychological, General fiction, Women
+moods: challenging, dark, reflective, sad, emotional, tense, mysterious, depressing
+paces: fast, medium, slow

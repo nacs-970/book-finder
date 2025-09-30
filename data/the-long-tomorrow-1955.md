@@ -1,0 +1,11 @@
+title: The Long Tomorrow
+description: "No city, no town, no community of more than one thousand people or two hundred buildings to the square mile, shall be built or permitted to exist anywhere in the United States of America." --Constitution of the United States, Thirtieth Amendment
+
+Two generations after the Destruction, rumors persist about a secret desert hideaway where scientists worked with dangerous machines and where men plot to revive the cities. Almost a continent away, Len Coulter has heard whisperings that fired his imagination. And then one day he finds a strange wooden box...
+rating: 3.5
+rating_count: 8
+pages: 262
+release_date: 1955-01-01
+genres: Regression (Civilization), Science fiction, Dystopian, Classics, Fantasy, Young Adult, Fiction
+moods: mysterious, hopeful, Adventurous
+paces: medium

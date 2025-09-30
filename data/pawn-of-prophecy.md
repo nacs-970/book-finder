@@ -1,0 +1,13 @@
+title: Pawn of Prophecy
+description: A magnificent epic set against a history of seven thousand years of the struggles of Gods and Kings and men - of strange lands and events - of fate and a prophecy that must be fulfilled! THE BELGARIAD
+
+Long ago, so the Storyteller claimed, the evil God Torak sought dominion and drove men and Gods to war. But Belgarath the Sorcerer led men to reclaim the Orb that protected men of the West. So long as it lay at Riva, the prophecy went, men would be safe.
+
+But that was only a story, and Garion did not believe in magic dooms, even though the dark man without a shadow had haunted him for years. Brought up on a quiet farm by his Aunt Pol, how could he know that the Apostate planned to wake dread Torak, or that he would be led on a quest of unparalleled magic and danger by those he loved - but did not know? For a while his dreams of innocence were safe, untroubled by knowledge of his strange heritage. For a little while... THUS BEGINS BOOK ONE OF THE BELGARIAD
+rating: 3.8786008230452675
+rating_count: 243
+pages: 262
+release_date: 1982-01-01
+genres: Fantasy, Young Adult, Adventure, Science fiction, Classics, High Fantasy, Fiction, Literature, Magic, Garion (Fictitious character), Fantasy fiction, American, General, English fiction
+moods: Adventurous, lighthearted, funny
+paces: fast

@@ -1,0 +1,9 @@
+title: Embassytown
+description: Winner of the Locus Award for Best Science Fiction Novel, China Miéville's astonishing Embassytown is an intelligent and immersive exploration of language in an alien world. Embassytown: a city of contradictions on the outskirts of the universe. Avice is an immerser, a traveller on the immer, the sea of space and time below the everyday, now returned to her birth planet. Here on Arieka, humans are not the only intelligent life, and Avice has a rare bond with the natives, the enigmatic Hosts - who cannot lie. Only a tiny cadre of unique human Ambassadors can speak Language, and connect the two communities. But an unimaginable new arrival has come to Embassytown. And when this Ambassador speaks, everything changes. Catastrophe looms. Avice knows the only hope is for her to speak directly to the alien Hosts. And that is impossible.
+rating: 3.813953488372093
+rating_count: 172
+pages: 440
+release_date: 2011-01-01
+genres: Science fiction, Aliens, Fantasy, Space, Dystopian, Fiction, History
+moods: challenging, mysterious, reflective, dark, hopeful, tense
+paces: slow, medium

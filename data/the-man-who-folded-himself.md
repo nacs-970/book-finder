@@ -1,0 +1,9 @@
+title: The Man Who Folded Himself
+description: This classic work of science fiction is widely considered to be the ultimate time-travel novel. When Daniel Eakins inherits a time machine, he soon realizes that he has enormous power to shape the course of history. He can foil terrorists, prevent assassinations, or just make some fast money at the racetrack. And if he doesn't like the results of the change, he can simply go back in time and talk himself out of making it! But Dan soon finds that there are limits to his powers and forces beyond his control.
+rating: 3.46875
+rating_count: 32
+pages: 127
+release_date: 1973-01-01
+genres: Classics, Science fiction, Time Travel, Fantasy, LGBTQ, psychological fiction, Fiction
+moods: Adventurous
+paces: medium

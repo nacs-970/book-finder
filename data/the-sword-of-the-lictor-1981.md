@@ -1,0 +1,8 @@
+title: The Sword of the Lictor
+description: Banished for the sin of mercy, Severian, one of the ancient guild of Torturers, flees from exile. In a mountain wilderness Severian, the disgraced apprentice torturer, has reached his place of exile - Thrax, the city of Windowless Rooms, where he must take up his post as Lictor, executioner and torturer. However, he flees the city and heads into the mountains. There he meets the Alzabo, in whom those eaten seem to live on, adopts a son only to lose him in battle and discharges an old debt to vengeance. As his exile takes stranger and stranger turns, he encounters fanged aliens who hide behind masks of beauty, and meets the mysterious Dr Talos . . .
+rating: 4.257575757575758
+rating_count: 66
+pages: 301
+release_date: 1981-01-01
+genres: Science fiction, Fiction, Fantasy, Classics, Adventure, Dystopian
+moods: Adventurous, challenging, dark, funny, mysterious, sad

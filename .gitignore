@@ -49,7 +49,7 @@ Thumbs.db
 # Data files
 data/chroma_db/
 data/*.pdf
-data/*.txt
+#data/*.txt
 *.db
 *.sqlite
 

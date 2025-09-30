@@ -1,0 +1,7 @@
+title: The Collected Stories of Lydia Davis
+description: Lydia Davis is one of our most original and influential writers, a storyteller celebrated for her emotional acuity, her formal inventiveness, and her ability to capture the mind in overdrive. She has been called "an American virtuoso of the short story form" (Salon.com) and "one of the quiet giants ... of American fiction" (Los Angeles Times Book Review). This volume contains all her stories to date, from the acclaimed Break it Down (1986) to the 2007 National Book Award finalist Varieties of Disturbance. - Cover flap.
+rating: 4.166666666666667
+rating_count: 6
+pages: 733
+release_date: 2009-01-01
+genres: Fiction, Classics

@@ -3,18 +3,21 @@ from utils import LLMClient, SimpleRAGSystem, get_available_models, load_sample_
 if __name__ == "__main__":
    # create RAG and put doc
    available_models = get_available_models()
-   llm_client = LLMClient(model=available_models[-1], temperature=0.2,max_tokens=2000)
+   llm_client = LLMClient(model=available_models[2], temperature=0.2,max_tokens=2000)
    rag = SimpleRAGSystem()
    rag.load_data()
 
    # Q&A
-   prompt =  "Recommend me a book about human that isn't sapiens"
+   prompt =  "Recommend me sci-fi book like old man war"
    context = rag.get_context_for_query(prompt, max_context_length=2000)
-   print(context)
    enhanced_prompt = f"""
    Based on the following information from the knowledge base, please answer the user's question:
+   Your job is to give a review or introducing a new book to user with given exist data
 
    {context}
+
+   Sort it out by rating (max is 5) and up 3 to 10 books Recommendation only
+   if the book doesn't have a rating just said it doesn't have a rating
 
    User Question: {prompt}
 

@@ -1,0 +1,13 @@
+title: Count Zero
+description: Turner, corporate mercenary, wakes in a reconstructed body, a beautiful woman by his side. Then Hosaka Corporation reactivates him for a mission more dangerous than the one he's recovering from: Maas-Neotek's chief of R&D is defecting. Turner is the one assigned to get him out intact, along with the biochip he's perfected. But this proves to be of supreme interest to certain other parties--some of whom aren't remotely human.
+
+Bobby Newmark is entirely human: a rustbelt data-hustler totally unprepared for what comes his way when the defection triggers war in cyberspace. With voodoo on the Net and a price on his head, Newmark thinks he's only trying to get out alive.
+
+The second novel of William Gibson's Sprawl trilogy, *Count Zero* is a stylish, streetsmart, frighteningly probable parable of the future and sequel to Neuromancer.
+rating: 3.916289592760181
+rating_count: 221
+pages: 352
+release_date: 1986-01-01
+genres: Science fiction, Fantasy, Dystopian, Adventure, Classics, Cyberpunk fiction, Fiction, Thriller, Technothrillers, Hard Science Fiction, Thriller & Suspense, cyberpunk, Mystery
+moods: Adventurous, dark, tense, funny
+paces: medium, fast, slow

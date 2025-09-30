@@ -1,0 +1,7 @@
+title: A Manual for Cleaning Women: Selected Stories
+description: "Stories from a lost American classic "in the same arena as Alice Munro" (Lydia Davis) "In the field of short fiction, Lucia Berlin is one of America's best kept secrets. That's it. Flat out. No mitigating conditions." --Paul Metcalf A Manual for Cleaning Women compiles the best work of the legendary short-story writer Lucia Berlin. With her trademark blend of humor and melancholy, Berlin crafts miracles from the everyday--uncovering moments of grace in the cafeterias and Laundromats of the American Southwest, in the homes of the Northern California upper classes, and from the perspective of a cleaning woman alone in a hotel dining room in Mexico City. The women of Berlin's stories are lost, but they are also strong, clever, and extraordinarily real. They are hitchhikers, hard workers, bad Christians. With the wit of Lorrie Moore and the grit of Raymond Carver, they navigate a world of jockeys, doctors, and switchboard operators. They laugh, they mourn, they drink. Berlin, a highly influential writer despite having published little in her lifetime, conjures these women from California, Mexico, and beyond. Lovers of the short story will not want to miss this remarkable collection from a master of the form"--
+rating: 4.3
+rating_count: 40
+pages: 432
+release_date: 2015-01-01
+genres: Fiction, Short stories, American

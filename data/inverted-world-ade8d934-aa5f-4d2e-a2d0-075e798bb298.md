@@ -1,0 +1,11 @@
+title: Inverted World
+description: The city is winched along tracks through a devastated land full of hostile tribes. Rails must be freshly laid ahead of the city and carefully removed in its wake. Rivers and mountains present nearly insurmountable challenges to the ingenuity of the city’s engineers. But if the city does not move, it will fall farther and farther behind the “optimum” into the crushing gravitational field that has transformed life on Earth. The only alternative to progress is death.
+
+The secret directorate that governs the city makes sure that its inhabitants know nothing of this. Raised in common in crèches, nurtured on synthetic food, prevented above all from venturing outside the closed circuit of the city, they are carefully sheltered from the dire necessities that have come to define human existence. And yet the city is in crisis. The people are growing restive, the population is dwindling, and the rulers know that, for all their efforts, slowly but surely the city is slipping ever farther behind the optimum.
+
+Helward Mann is a member of the city’s elite. Better than anyone, he knows how tenuous is the city’s continued existence. But the world—he is about to discover—is infinitely stranger than the strange world he believes he knows so well.
+rating: 3.9431818181818183
+rating_count: 44
+genres: Science fiction, Dystopian, Fantasy, Classics, Adventure
+moods: mysterious, Adventurous
+paces: medium

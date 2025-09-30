@@ -1,0 +1,9 @@
+title: A Brief History of Seven Killings
+description: On 3 December 1976, just weeks before the general election and two days before Bob Marley was to play the Smile Jamaica Concert to ease political tensions, seven gunmen from West Kingston stormed his house with machine guns blazing. Marley survived and went on to perform at the free concert, but the next day he left the country, and didn’t return for two years. Not a lot was recorded about the fate of the seven gunmen, but much has been said, whispered and sung about in the streets of West Kingston, with information surfacing at odd times, only to sink into rumour and misinformation. Inspired by this near-mythic event, A Brief History of Seven Killings takes the form of an imagined oral biography, told by ghosts, witnesses, killers, members of parliament, drug dealers, conmen, beauty queens, FBI and CIA agents, reporters, journalists, and even Keith Richards' drug dealer. Marlon James’s bold undertaking traverses strange landscapes and shady characters, as motivations are examined – and questions asked – in this compelling novel of monumental scope and ambition.
+rating: 4.023076923076923
+rating_count: 65
+pages: 688
+release_date: 2014-01-01
+genres: LGBTQ, Fiction, History
+moods: dark, funny, sad, challenging, Adventurous, emotional, mysterious, reflective, tense
+paces: slow

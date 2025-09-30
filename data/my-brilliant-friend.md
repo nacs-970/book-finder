@@ -1,0 +1,11 @@
+title: My Brilliant Friend
+description: Beginning in the 1950s in a poor but vibrant neighborhood on the outskirts of Naples, Elena Ferrante’s four-volume story spans almost sixty years, as its main characters, the fiery and unforgettable Lila and the bookish narrator, Elena, become women, wives, mothers, and leaders, all the while maintaining a complex and at times conflicted friendship. This first novel in the series follows Lila and Elena from their fateful meeting as ten-year-olds through their school years and adolescence.
+
+Through the lives of these two women, Ferrante tells the story of a neighborhood, a city, and a country as it is transformed in ways that, in turn, also transform the relationship between two women.
+rating: 4.059593023255814
+rating_count: 344
+pages: 392
+release_date: 2011-10-19
+genres: Bildungsromans, Historical Fiction, Drama, Literary Fiction, Historical, Fiction, Classics, History, Friendship, Women, Juvenile Nonfiction
+moods: reflective, challenging, dark, emotional, nostalgic, sad, tense, inspiring, funny, hopeful, informative, lighthearted
+paces: medium, slow, fast

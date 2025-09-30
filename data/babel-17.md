@@ -1,0 +1,9 @@
+title: Babel-17
+description: During an interstellar war one side develops a language, Babel-17, that can be used as a weapon. Learning it turns one into an unwilling traitor as it alters perception and thought. This is discovered by the starship captain Rydra Wong. She is recruited to discover how the enemy are infiltrating and sabotaging strategic sites.
+rating: 3.5060240963855422
+rating_count: 83
+pages: 193
+release_date: 1966-01-01
+genres: Science fiction, Classics, Fantasy, Space, Aliens, War, LGBTQ, Fiction, Adventure, Language and languages, English fiction
+moods: Adventurous
+paces: slow, fast

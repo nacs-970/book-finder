@@ -1,0 +1,9 @@
+title: Magician: Apprentice
+description: An orphaned kitchen boy named Pug becomes selected as the Kingdom of Midkemia's apprentice to the local sorcerer.  A rift opens between this world and another and a great war rages between the two. Pug is captured and a secret magic within him discovered as that war between the two planets continues.  There is great magic, fantasy and personal connections between memorable characters.
+rating: 3.9972602739726026
+rating_count: 365
+pages: 485
+release_date: 1982-01-01
+genres: Fantasy, Young Adult, Adventure, Science fiction, War, Classics, Fiction, Comics, Apprentices, Epic Fantasy, High Fantasy
+moods: Adventurous, Action, funny
+paces: medium

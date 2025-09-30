@@ -1,0 +1,7 @@
+title: Time Is the Simplest Thing
+description: A telepath acquires a powerful alien consciousness—and must run to escape corporate assassins and angry mobs—in this novel by the author of Way Station. Space travel has been abandoned in the twenty-second century. It is deemed too dangerous, expensive, and inconvenient—and now the all-powerful Fishhook company holds the monopoly on interstellar exploration for commercial gain. Their secret is the use of “parries,” human beings with the remarkable telepathic ability to expand their minds throughout the universe. On what should have been a routine assignment, however, loyal Fishhook employee Shepherd Blaine is inadvertently implanted with a copy of an alien consciousness, becoming something more than human. Now he’s a company pariah, forced to flee the safe confines of the Fishhook complex. But the world he escapes into is not a safe sanctuary; Its people have been taught to hate and fear his parapsychological gift—and there is nowhere on Earth, or elsewhere, for Shepherd Blaine to hide. A Hugo Award nominee, Time Is the Simplest Thing showcases the enormous talents of one of the true greats of twentieth-century science fiction. This richly imagined tale of prejudice, corporate greed, oppression, and, ultimately, transcendence stands tall among Simak’s most enduring works.
+rating: 4.333333333333333
+rating_count: 6
+pages: 191
+release_date: 1961-01-01
+genres: Science fiction, Fantasy, Adventure, Classics, Dystopian, Fiction

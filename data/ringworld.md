@@ -1,0 +1,9 @@
+title: Ringworld
+description: The artefact is a circular ribbon of matter six hundred million miles long and ninety million miles in radius. Pierson's puppeteers, the aliens who discovered it, are understandably wary of encountering the builders of such an immense structure and have assembled a team of two humans, a mad puppeteer and a kzin, a huge cat-like alien, to explore it. But a crash landing on the vast edifice forces the crew on a desperate and dangerous trek across the Ringworld.
+rating: 3.654034229828851
+rating_count: 409
+pages: 288
+release_date: 1970-01-01
+genres: Science fiction, Classics, Fantasy, Space, Adventure, Aliens, Fiction, Comics, Ringworld (Imaginary place), Life on other planets, Literature & Fiction|Science Fiction & Fantasy
+moods: Adventurous, dark, emotional, mysterious, reflective, sad, tense, lighthearted, 1735854345638
+paces: medium

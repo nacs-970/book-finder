@@ -1,0 +1,9 @@
+title: Elric of Melniboné and Other Stories
+description: **Elric of Melniboné** is a 1972 fantasy novel by **Michael Moorcock**. It is the first original full-length novel to feature **Elric**, the last emperor of the stagnating island civilisation of Melniboné who wields the cursed, soul-drinking sword **Stormbringer**.
+rating: 3.487012987012987
+rating_count: 154
+pages: 384
+release_date: 1972-01-01
+genres: Fantasy, Classics, Science fiction, Adventure, Fiction, Albinos and albinism, English, Fantasy fiction
+moods: Adventurous, dark, emotional, hopeful, inspiring, sad, tense
+paces: medium, fast

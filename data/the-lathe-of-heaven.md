@@ -1,0 +1,10 @@
+title: The Lathe of Heaven
+description: “The Lathe of Heaven” ; 1971 ( Ursula Le Guin received the 1973 Locus Award for this story)
+George Orr has a gift – he is an effective dreamer:  his dreams become reality when he wakes up. He is aware of his past and present, two or more sets of memories, although the people around him are only aware of the current reality. 
+This science fiction story is set in Portland, Oregon, in/around the late 1990s - early 2000s.  Orr begins to take drugs to suppress dreams but eventually he is sent to a psychotherapist, Dr. William Haber, who has developed an electronic  machine, the Augmentor, which records the brain patterns of a person as they dream.  When Haber realizes that he can use Orr's unique ability to change their world, the consequences  are both beneficial and frightening,  both locally and globally.  Orr seeks out the help of a civil rights lawyer, Heather Lelache, who attends a treatment session, and sees Portland change before her very eyes as Orr awakens.  In a strange turn of events, Heather helps Orr by putting him in a dream state where Orr can undo some of Haber's actions. The result – Aliens on the Moon land on Earth !  A special affinity exists between George Orr and the Aliens, who seem to understand  his unique gift.   Ultimately Haber decides to impose Orr's brain patterns on his own, so that he can bring about world-wide changes. Orr and Heather feel the chaos and a sense of a void as Haber dreams.  Orr rushes back to Haber's office and turns off the Augmentor.  The world  returns to April 1998.
+rating: 4.031818181818182
+rating_count: 330
+release_date: 1971-01-01
+genres: Fiction, Science fiction, Fantasy, Classics, Dystopian, Aliens, General, Science Fiction & Fantasy, Classique
+moods: challenging, reflective, tense, Adventurous, mysterious, dark, emotional, scary, Mind-Bending, informative
+paces: fast, medium

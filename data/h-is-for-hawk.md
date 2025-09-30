@@ -1,0 +1,9 @@
+title: H is for Hawk
+description: When Helen Macdonald's father died suddenly on a London street, she was devastated. An experienced falconer, Helen had never before been tempted to train one of the most vicious predators, the goshawk, but in her grief, she saw that the goshawk's fierce and feral temperament mirrored her own. Resolving to purchase and raise the deadly creature as a means to cope with her loss, she adopted Mabel, and turned to the guidance of The Once and Future King author T.H. White's chronicle The Goshawk to begin her challenging endeavor. Projecting herself "in the hawk's wild mind to tame her" tested the limits of Macdonald's humanity and changed her life.
+rating: 3.871900826446281
+rating_count: 121
+pages: 324
+release_date: 2014-01-01
+genres: Nature, Biography, Biography & Autobiography, Falconry, Science, Grief, Nonfiction
+moods: emotional, informative, reflective
+paces: medium, slow

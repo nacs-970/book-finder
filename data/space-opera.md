@@ -1,0 +1,9 @@
+title: Space Opera
+description: "Mankind will not get to fight for its destiny. They must sing. A century ago, the Sentience Wars tore the galaxy apart and nearly ended the entire concept of intelligent space-faring life. In the aftermath, a curious tradition was invented by the remnants of civilization. Something to cheer up everyone who was left. Something to celebrate having escaped total annihilation by the skin of one's teeth, if indeed one has skin. Or teeth. Something to bring the shattered worlds together in the spirit of peace, unity, understanding, and the most powerful of all social bonds: excluding others. Once every cycle, the great galactic civilizations gather for Galactivision--part gladiatorial contest, part beauty pageant, part concert extravaganza, and part, a very large, but very subtle part, continuation of the wars of the past. Thus, a fragile peace has held. This year, a bizarre and unsightly species has looked up from its muddy planet-bound cradle and noticed the enormous universe blaring on around it: humanity. Where they expected to one day reach out into space and discover a grand drama of diplomacy, gunships, wormholes, and stoic councils of grave aliens, they have found glitter. And lipstick. And pyrotechnics. And electric guitars. A band of human musicians, dancers, and roadies have been chosen to represent their planet on the greatest stage in the galaxy. And the fate of Earth lies in their ability to rock"--
+rating: 3.351851851851852
+rating_count: 108
+pages: 304
+release_date: 2017-11-09
+genres: Science fiction, Fantasy, Space, Aliens, LGBTQ, Adventure, Young Adult, Fiction, Humor
+moods: Adventurous, funny, lighthearted, challenging
+paces: fast, slow

@@ -1,0 +1,13 @@
+title: Some Desperate Glory
+description: Since she was born, Kyr has trained for the day she can avenge the murder of planet Earth. Raised in the bowels of Gaea Station alongside the last scraps of humanity, she readies herself to face the Wisdom, the powerful, reality-shaping weapon that gave the majoda their victory over humanity.
+
+They are what’s left. They are what must survive. Kyr is one of the best warriors of her generation, the sword of a dead planet. When Command assigns her brother to certain death and relegates her to Nursery to bear sons until she dies trying, she knows she must take humanity's revenge into her own hands.
+
+Alongside her brother’s brilliant but seditious friend and a lonely, captive alien, Kyr escapes from everything she’s known into a universe far more complicated than she was taught and far more wondrous than she could have imagined.
+rating: 3.9731543624161074
+rating_count: 149
+pages: 448
+release_date: 2023-01-01
+genres: Science fiction, Fiction, Young Adult, Dystopian, Aliens, LGBTQ, Fantasy, Space, War, Read 2024
+moods: dark, tense, Adventurous, reflective, emotional, funny, challenging, hopeful, mysterious
+paces: medium, fast, slow

@@ -1,0 +1,9 @@
+title: China Mountain Zhang
+description: Winner of the James Tiptree, Jr. Memorial Award, the Lambda Literary Award, the Locus Award for Best First Novel, and a Hugo and Nebula Award nominee. With this groundbreaking novel, Maureen F. McHugh established herself as one of the decade's best science fiction writers. In its pages, we enter a postrevolution America, moving from the hyperurbanized eastern seaboard to the Arctic bleakness of Baffin Island; from the new Imperial City to an agricultural commune on Mars. The overlapping lives of cyberkite fliers, lonely colonists, illicit neural-pressball players, and organic engineers blend into a powerful, taut story of a young man's journey of discovery. This is a macroscopic world of microscopic intensity, one of the most brilliant visions of modern SF. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.
+rating: 3.6454545454545455
+rating_count: 55
+pages: 321
+release_date: 1992-03-01
+genres: Science fiction, LGBTQ, Dystopian, Fantasy, Religion, Biography, Classics, Fiction
+moods: challenging, dark, reflective
+paces: medium, slow

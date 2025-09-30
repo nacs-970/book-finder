@@ -1,0 +1,21 @@
+title: Gideon the Ninth
+description: The Emperor needs necromancers.
+
+The Ninth Necromancer needs a swordswoman.
+
+Gideon has a sword, some dirty magazines, and no more time for undead nonsense.
+
+Tamsyn Muir’s Gideon the Ninth unveils a solar system of swordplay, cut-throat politics, and lesbian necromancers. Her characters leap off the page, as skillfully animated as arcane revenants. The result is a heart-pounding epic science fantasy.
+
+Brought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is ready to abandon a life of servitude and an afterlife as a reanimated corpse. She packs up her sword, her shoes, and her dirty magazines, and prepares to launch her daring escape. But her childhood nemesis won’t set her free without a service.
+
+Harrowhark Nonagesimus, Reverend Daughter of the Ninth House and bone witch extraordinaire, has been summoned into action. The Emperor has invited the heirs to each of his loyal Houses to a deadly trial of wits and skill. If Harrowhark succeeds she will be become an immortal, all-powerful servant of the Resurrection, but no necromancer can ascend without their cavalier. Without Gideon’s sword, Harrow will fail, and the Ninth House will die.
+
+Of course, some things are better left dead.
+rating: 4.080275229357798
+rating_count: 872
+pages: 448
+release_date: 2019-09-10
+genres: Fantasy, Science fiction, LGBTQ, Young Adult, Space, Adventure, Dystopian, Queer, Fiction, Horror, Mystery, science fantasy, sapphic, Romance|Science Fiction & Fantasy, Science Fiction & Fantasy, Space Opera
+moods: Adventurous, suspenseful, sexy, fuck the patriarchy, dark, funny, mysterious, tense, emotional, weird, challenging, reflective, sad, lighthearted, hopeful, inspiring, relaxing, 1738520854837
+paces: medium, fast, slow

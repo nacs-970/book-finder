@@ -1,0 +1,7 @@
+title: Time Enough for Love
+description: The capstone and crowning achievement of the Future History series, from the New York Times bestselling Grand Master of Science Fiction... Time Enough for Love follows Lazarus Long through a vast and magnificent timescape of centuries and worlds. Heinlein's longest and most ambitious work, it is the story of a man so in love with Life that he refused to stop living it; and so in love with Time that he became his own ancestor.
+rating: 3.6475409836065573
+rating_count: 61
+pages: 641
+release_date: 1973-01-01
+genres: Science fiction, Fantasy, Classics, Space, Adventure, English fiction, Fiction
