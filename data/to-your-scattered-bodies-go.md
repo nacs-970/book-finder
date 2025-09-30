@@ -1,6 +1,0 @@
-title: To Your Scattered Bodies Go
-description: Imagine that every human who ever lived, from the earliest Neanderthals to the present, is resurrected after death on the banks of an astonishing and seemingly endless river on an unknown world. They are miraculously provided with food, but with not a clue to the possible meaning of this strange afterlife. And so billions of people from history, and before, must start living again.
-rating: 3.6363636363636362
-rating_count: 88
-release_date: 1971-01-01
-genres: Riverworld (Imaginary place), Science fiction, Fantasy, Classics, Mystery, Life on other planets, Adventure, Dystopian, Aliens, Fiction, Fiction in English

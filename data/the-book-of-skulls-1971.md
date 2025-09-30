@@ -1,7 +1,0 @@
-title: The Book of Skulls
-description: Four college students searching for the secret of eternal life embark on a journey to the Arizona desert where they encounter a sect called the Keepers of the Skulls
-rating: 3.4
-rating_count: 15
-pages: 196
-release_date: 1971-12-01
-genres: Fiction, Science fiction, Fantasy, Classics, Young Adult, LGBTQ

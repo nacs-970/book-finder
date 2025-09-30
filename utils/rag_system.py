@@ -86,8 +86,6 @@ class SimpleRAGSystem:
                 # Initialize FAISS index (L2 distance)
                 self.index = faiss.IndexFlatL2(self.embedding_dimension)
 
-
-
     def add_text_document(self, text: str, doc_id: str, metadata: Optional[Dict[str, Any]] = None):
         """
         Add a text document to the RAG system.
@@ -172,13 +170,14 @@ class SimpleRAGSystem:
             return f"Error processing PDF: {str(e)}"
 
     def load_data(self, data_path="data/", uploaded_path="old/"):
+        self._ensure_model_loaded()
         data_path = Path(data_path)
         data_path.mkdir(exist_ok=True)
 
         uploaded_path = Path(uploaded_path)
         uploaded_path.mkdir(exist_ok=True)
-
-        for file in data_path.iterdir():
+        set_ = set(data_path.iterdir())
+        for file in set_:
             if file.is_file():
                 filename = file.stem # get filename w/o extension
                 with tempfile.NamedTemporaryFile(delete=False, suffix=f"_{filename}") as tmp_file:
@@ -186,7 +185,8 @@ class SimpleRAGSystem:
                     tmp_path = tmp_file.name
 
                 text = file.read_text(encoding="utf-8")
-                self.add_text_document(text, filename, {"source": filename, "type": "uploaded"})
+                self.add_text_document(text, filename, {"title": filename.lower(), "type": "book"})
+                file.unlink()
 
     def search(self, query: str, n_results: int = 5) -> List[Dict[str, Any]]:
         """
@@ -218,7 +218,7 @@ class SimpleRAGSystem:
             for i, (score, idx) in enumerate(zip(scores[0], indices[0])):
                 # score = distance
                 similarity = 1 - score / 2 # turn L2 distance into approximate similarity from distance
-                if idx >= 0 and similarity >= 0.8:  # Valid index
+                if idx >= 0:  # Valid index
                     search_results.append({
                         "content": self.documents[idx],
                         "metadata": self.metadata[idx],
@@ -574,14 +574,14 @@ if __name__ == "__main__":
     rag = SimpleRAGSystem()
 
     # Add some sample text
-    rag.add_text_document(
-        "Python is a high-level programming language known for its simplicity and readability.",
-        "python_intro",
-        {"topic": "programming", "language": "python"}
-    )
+    #rag.add_text_document(
+    #    "Python is a high-level programming language known for its simplicity and readability.",
+    #    "python_intro",
+    #    {"topic": "programming", "language": "python"}
+    #)
 
     # Search for relevant content
-    results = rag.search("What is Python?", n_results=3)
+    results = rag.search("Waht is dune?", n_results=3)
     for result in results:
         print(f"Score: {result['score']:.3f}")
         print(f"Content: {result['content'][:100]}...")

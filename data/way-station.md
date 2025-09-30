@@ -1,9 +1,0 @@
-title: Way Station
-description: Hugo Award Winner: In backwoods Wisconsin, an ageless hermit welcomes alien visitors—and foresees the end of humanity . . . Enoch Wallace is not like other humans. Living a secluded life in the backwoods of Wisconsin, he carries a nineteenth-century rifle and never seems to age—a fact that has recently caught the attention of prying government eyes. The truth is, Enoch is the last surviving veteran of the American Civil War and, for close to a century, he has operated a secret way station for aliens passing through on journeys to other stars. But the gifts of knowledge and immortality that his intergalactic guests have bestowed upon him are proving to be a nightmarish burden, for they have opened Enoch’s eyes to humanity’s impending destruction. Still, one final hope remains for the human race . . . though the cure could ultimately prove more terrible than the disease. Winner of the Hugo Award for Best Novel, Way Station is a magnificent example of the fine art of science fiction as practiced by a revered Grand Master. A cautionary tale that is at once ingenious, evocative, and compassionately human, it brilliantly supports the contention of the late, great Robert A. Heinlein that “to read science-fiction is to read Simak.”
-rating: 4.03030303030303
-rating_count: 99
-pages: 236
-release_date: 1963-06-01
-genres: Science fiction, Classics, Fantasy, Aliens, Space, Fiction
-moods: emotional, hopeful, mysterious, Adventurous, reflective
-paces: medium, fast

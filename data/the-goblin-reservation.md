@@ -1,9 +1,0 @@
-title: The Goblin Reservation
-description: From science fiction Grand Master Clifford D. Simak, an interstellar adventure of aliens, fairies, and time travel. Until the day he was murdered, Professor Peter Maxwell was a respected faculty member of the College of Supernatural Phenomena. Imagine his chagrin when he turns up at a Wisconsin matter transmission station several weeks later and discovers he’s not only dead but unemployed. During an interstellar mission to investigate rumors of dragon activity, this alternate Maxwell was intercepted by a strange alien race that wanted him to carry knowledge of a remarkable technology back to Earth, and it seems someone does not want the information shared. Suddenly, it’s essential for Maxwell to find his own killer. He enlists the aid of Carol Hampton of the Time College, along with her pet saber-tooth tiger, a ghost with memory issues, and the intelligent Neanderthal Man recently rescued from a prehistoric cooking pot. But the search is pointing them toward the goblins, fairies, and assorted Little Folk living in reservations on campus, and into the dangerous heart of an interspecies blood feud that has been raging for millions of years. Ingeniously inventive and unabashedly tongue-in-cheek, this novel demonstrates multi-award-winning fantasy and science fiction favorite Clifford D. Simak operating at the imaginative peak of his considerable powers.
-rating: 3.107142857142857
-rating_count: 14
-pages: 170
-release_date: 1968-10-01
-genres: Science fiction, Fantasy, Classics, Adventure, Aliens, Space, Fiction
-moods: lighthearted
-paces: medium

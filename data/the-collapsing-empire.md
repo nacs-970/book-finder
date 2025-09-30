@@ -1,9 +1,0 @@
-title: The Collapsing Empire
-description: Faster than light travel is impossible--until the discovery of The Flow, an extradimensional field available at certain points in space-time, which can take us to other planets around other stars. Riding The Flow, humanity spreads to innumerable other worlds. Earth is forgotten. A new empire arises, the Interdependency, based on the doctrine that no one human outpost can survive without the others. It's a hedge against interstellar war--and, for the empire's rulers, a system of control. But when it's discovered that the entire Flow is moving, possibly separating all human worlds from one another forever, a scientist, a starship captain, and the emperox of the Interdependency must race to find out what can be salvaged from an empire on the brink of collapse. --
-rating: 4.065882352941176
-rating_count: 425
-pages: 336
-release_date: 2017-01-01
-genres: Science fiction, Space, Fantasy, Adventure, Fiction, Space Opera, Science Fiction & Fantasy, War, Military, Interstellar, Adulte, Aventure
-moods: Adventurous, funny, dark, mysterious, tense, 1735855017938, fast-paced
-paces: fast

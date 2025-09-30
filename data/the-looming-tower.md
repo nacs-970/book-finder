@@ -1,7 +1,0 @@
-title: The Looming Tower: Al Qaeda and the Road to 9/11
-description: NATIONAL BESTSELLER • PULITZER PRIZE WINNER • A “heart-stopping account of the events leading up to 9/11” (The New York Times Book Review), this definitive history explains in gripping detail the growth of Islamic fundamentalism, the rise of al-Qaeda, and the intelligence failures that culminated in the attacks on the World Trade Center. In gripping narrative that spans five decades, Lawrence Wright re-creates firsthand the transformation of Osama bin Laden and Ayman al-Zawahiri from incompetent and idealistic soldiers in Afghanistan to leaders of the most successful terrorist group in history. He follows FBI counterterrorism chief John O’Neill as he uncovers the emerging danger from al-Qaeda in the 1990s and struggles to track this new threat. Packed with new information and a deep historical perspective, The Looming Tower is a sweeping, unprecedented history of the long road to September 11.
-rating: 4.38
-rating_count: 50
-pages: 578
-release_date: 2006-01-01
-genres: War, political science, History, Nonfiction, Intelligence service, Islam and politics

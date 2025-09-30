@@ -1,7 +1,0 @@
-title: Kiln People
-description: "Thanks to the new technology of imprinting, people in a near-future America can copy their personalities into animated clay bodies (called "dittos" or "golems"), which last a single day. Albert Morris, private investigator, is his own sidekick as he attempts to uncover the murderer of a prominent imprinting research scientist."--Amazon.com.
-rating: 3.869565217391304
-rating_count: 23
-pages: 576
-release_date: 2002-01-01
-genres: Science fiction, Fantasy, Dystopian, Adventure, Fiction, Cloning

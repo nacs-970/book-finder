@@ -1,7 +1,0 @@
-title: Brightness Reef
-description: David Brin's Uplift novels--Sundiver, Hugo award winner The Uplift War, and Hugo and Nebula winner Startide Rising--are among the most thrilling and extraordinary science fiction tales ever written.  Now David Brin returns to this future universe for a new Uplift trilogy, packed with adventure, passion and wit.The planet Jijo is forbidden to settlers, its ecology protected by guardians of the Five Galaxies.  But over the centuries it has been resettled, populated by refugees of six intelligent races.  Together they have woven a new society in the wilderness, drawn together by their fear of Judgment Day, when the Five Galaxies will discover their illegal colony.  Then a strange starship arrives on Jijo.  Does it bring the long-dreaded judgment, or worse--a band of criminals willing to destroy the six races of Jijo in order to cover their own crimes?From the Paperback edition.
-rating: 3.625
-rating_count: 32
-pages: 652
-release_date: 1995-01-01
-genres: Science fiction, Fantasy, Aliens, Space, Adventure, Fiction, Life on other planets

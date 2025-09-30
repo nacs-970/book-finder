@@ -1,9 +1,0 @@
-title: The Forge of God
-description: On September 28th, a geologist working in Death valley finds a mysterious new cinder cone in very well-mapped area. On October 1st, the government of Australia announces the discovery of an enormous granite mountain. Like the cinder cone, it wasn't there six months ago.... Something is happening to Planet Earth, and the truth is too terrifying to consider....
-rating: 3.652542372881356
-rating_count: 59
-pages: 474
-release_date: 1987-09-01
-genres: Science fiction, Aliens, Fantasy, Space, Dystopian
-moods: Adventurous, dark, emotional, mysterious, sad, tense
-paces: medium

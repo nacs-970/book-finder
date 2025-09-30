@@ -1,7 +1,0 @@
-title: Inferno
-description: I survive on avoidance. Physical pain to avoid the mental. Disposable flesh to avoid relationships. Work to avoid attachment. My club became my empire of avoidance. Inside the ring millions are won and lost. The fight is confined to breaths, actions and reactions, fists and pain. Rules don't exist. Only my opponent exists. I'd been avoiding my needs for far too long when Remi stumbles into the Inferno and I'm hungry. The promise of a submissive with no attachment is far too tempting. I can't resist him. He was only supposed to be a distraction, but I know I'll never get over him. There isn't a chance in this clouded hell.
-rating: 3.3
-rating_count: 20
-pages: 237
-release_date: 1975-10-01
-genres: Fantasy, Science fiction, Adventure, Classics, Fiction, Gay men, LGBTQ, Hell, Young Adult

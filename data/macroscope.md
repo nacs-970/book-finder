@@ -1,7 +1,0 @@
-title: Macroscope
-description: Throughout history, man has been searching for better ways to gather information about his universe. But although they may have longed for it, not even the most brilliant minds could conceive of a device as infinitely powerful or as immeasurably precise as the macroscope, until the twenty-first century. By analyzing information carried on macrons, this unbelievable tool brought the whole universe of wonders to man's doorstep. The macroscope was seen by many as the salvation of the human race. But in the hands of the wrong man, the macroscope could be immensely destructive-infinitely more dangerous than the nuclear bomb. By searching to know too much, man could destroy the very essence of his mind. This is the powerful story of man's struggle with technology, and also the story of his human struggle with himself. This novel takes us across the breathtaking ranges of space as well as through the most touching places in the human heart. It is a story of coming of age, of sacrifice, and of love. It is the story of man's desperate search for a compromise between his mind and his heart, between knowledge and humanity.
-rating: 3.3636363636363638
-rating_count: 11
-pages: 480
-release_date: 1969-01-01
-genres: Science fiction, Fantasy, Space

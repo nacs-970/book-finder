@@ -1,9 +1,0 @@
-title: TEA WITH THE BLACK DRAGON
-description: Martha Macnamara knows that her daughter Elizabeth is in trouble, she just doesn't know what kind. Mysterious phone calls from San Francisco at odd hours of the night are the only contact she has had with Elizabeth for years. Now, Elizabeth has sent her a plane ticket and reserved a room for her at San Francisco's most luxurious hotel. Yet she has not tried to contact Martha since she arrived, leaving her lonely, confused and a little bit worried. Into the story steps Mayland Long, a distinguished-looking and wealthy Chinese man who lives at the hotel and is drawn to Martha's good nature and ability to pinpoint the truth of a matter. Mayland and Martha become close in a short period of time and he promises to help her find Elizabeth, making small inroads in the mystery before Martha herself disappears. Now Mayland is struck by the realization, too late, that he is in love with Martha, and now he fears for her life. Determined to find her, he sets his prodigious philosopher's mind to work on the problem, embarking on a potentially dangerous adventure.
-rating: 3.8823529411764706
-rating_count: 17
-pages: 180
-release_date: 1983-01-01
-genres: Fantasy, Science fiction, Adventure, Fiction, Classics, Urban Fantasy
-moods: emotional, mysterious, reflective
-paces: medium

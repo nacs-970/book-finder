@@ -1,7 +1,0 @@
-title: Prentice Alvin
-description: Age rating: PG-13
-rating: 3.263157894736842
-rating_count: 38
-pages: 342
-release_date: 1989-01-01
-genres: Fantasy, Science fiction, Young Adult, Adventure, Fiction, History, Fantasy fiction, American

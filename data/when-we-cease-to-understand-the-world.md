@@ -1,9 +1,0 @@
-title: When We Cease to Understand the World
-description: SELECTED FOR BARACK OBAMA’S SUMMER READING LIST ‘A monstrous and brilliant book’ Philip Pullman ‘Wholly mesmerising and revelatory... Completely fascinating’ William Boyd Sometimes discovery brings destruction When We Cease to Understand the World shows us great minds striking out into dangerous, uncharted terrain. Fritz Haber, Alexander Grothendieck, Werner Heisenberg, Erwin Schrödinger: these are among the luminaries into whose troubled lives we are thrust as they grapple with the most profound questions of existence. They have strokes of unparalleled genius, they alienate friends and lovers, they descend into isolated states of madness. Some of their discoveries revolutionise our world for the better; others pave the way to chaos and unimaginable suffering. The lines are never clear. With breakneck pace and wondrous detail, Benjamín Labatut uses the imaginative resources of fiction to break open the stories of scientists and mathematicians who expanded our notions of the possible.
-rating: 4.0359477124183005
-rating_count: 153
-pages: 192
-release_date: 2019-01-01
-genres: Fiction, Science fiction, War, Creative ability in science
-moods: informative, reflective, challenging, dark, Adventurous, mysterious, sad, tense, inspiring
-paces: fast, slow, medium

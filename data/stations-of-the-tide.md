@@ -1,7 +1,0 @@
-title: Stations of the Tide
-description: The story of a nameless bureaucrat who is sent by the Office of Technology Transfer, charged with restricting the flow of dangerous technologies, to the planet Miranda to search for a fugitive in possession of forbidden technological knowledge.  His search is complicated by his quarry's deep local knowledge and the imminence of the continent-inundating Jubilee tides, which have thrown the world he's searching into chaos.  Little is what it seems and references abound.
-rating: 3.909090909090909
-rating_count: 11
-pages: 257
-release_date: 1991-01-01
-genres: Science fiction, Fantasy, Fiction, Dystopian

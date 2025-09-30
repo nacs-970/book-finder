@@ -1,7 +1,0 @@
-title: All the Weyrs of Pern
-description: Science fiction-roman.
-rating: 3.7450980392156863
-rating_count: 51
-pages: 404
-release_date: 1991-12-01
-genres: Fantasy, Science fiction, Adventure, Young Adult, Space, Fiction, Suspense

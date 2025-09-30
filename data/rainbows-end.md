@@ -1,7 +1,0 @@
-title: Rainbows End
-description: The information revolution of the past thirty years blossoms into a web of conspiracies that could destroy Western civilisation. At the centre of the action is Robert Gu, a former Alzheimer's victim who has regained his mental and physical health through radical new therapies, and his family. His son and daughter-in-law are both in the military - but not a military we would recognise - while his middle school-age granddaughter is involved in perhaps the most dangerous game of all, with people and forces more powerful than she or her parents can imagine. Filled with excitement and Vinge's trademark potpourri of fascinating ideas, Rainbows End is another triumphantly entertaining novel by one of the true masters of the field.
-rating: 3.4794520547945207
-rating_count: 73
-pages: 364
-release_date: 2006-01-01
-genres: Science fiction, Fantasy

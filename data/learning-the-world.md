@@ -1,7 +1,0 @@
-title: Learning The World
-description: The great sunliner 'But the Sky, My Lady! The Sky!' is nearing the end of a four-hundred-year journey. A ship-born generation is tense with expectation for the new system that is to be their home. Expecting to find nothing more complex than bacteria and algae, the detection of electronic signals from one of the planets comes as a shock. In millennia of slow expansion, humanity has never encountered aliens, and yet these new signals cannot be ignored. They suspect a fast robot probe has overtaken them, and send probes of their own to investigate. On a world called Ground, whose inhabitants are struggling into the age of radio, petroleum and powered flight, a young astronomer searching for distant planets detects an anomaly that he presumes must be a comet. His friend, a brilliant foreign physicist, calculates the orbit, only to discover an anomaly of his own. The comet is slowing down ...
-rating: 3.6666666666666665
-rating_count: 6
-pages: 398
-release_date: 2005-01-01
-genres: Fiction, Life on other planets, Science fiction, Aliens, Space

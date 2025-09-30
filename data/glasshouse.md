@@ -1,7 +1,0 @@
-title: Glasshouse
-description: When Robin wakes up in a clinic with most of his memories missing, it doesn't take him long to discover that someone is trying to kill him. It's the 27th century, when interstellar travel is by teleport gate and conflicts are fought by network worms that censor refugees' personalities and target historians. The civil war is over and Robin has been demobilized, but someone wants him out of the picture because of something his earlier self knew. On the run from a ruthless pursuer, he volunteers to participate in a unique experimental polity, the Glasshouse, constructed to simulate a pre-accelerated culture. Participants are assigned anonymized identities: it looks like the ideal hiding place for a posthuman on the run. But in this escape-proof environment, Robin will undergo an even more radical change, placing him at the mercy of the experimenters--and the mercy of his own unbalanced psyche.--From publisher description
-rating: 3.873015873015873
-rating_count: 63
-pages: 333
-release_date: 2006-01-01
-genres: Science fiction, Dystopian, Fantasy, Space, Fiction

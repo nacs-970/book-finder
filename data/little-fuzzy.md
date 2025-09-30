@@ -1,9 +1,0 @@
-title: Little Fuzzy
-description: Little Fuzzy is the name of a 1962 science fiction novel by H. Beam Piper, and is now in public domain. 
-Synopsis: One day Jack Holloway, prospector on the planet Zarathustra, finds what seems to be a small monkey with golden fur; these new introductions (for the first brings a family) are tiny hunters, and prove to be curious and capable tool users. Why is this so important to the new human settlers? - Because a planet inhabited by a sapient race cannot be monopolized by the Zarathustra Company.
-Little Fuzzy is generally seen as a work of juvenile fiction. It was nominated for the 1963 Hugo Award for Best Novel. More on Wikipedia at http://en.wikipedia.org/wiki/Little_Fuzzy
-rating: 3.6627906976744184
-rating_count: 43
-pages: 160
-release_date: 1962-01-01
-genres: Science fiction, Fantasy, Aliens, Classics, Young Adult, Adventure, Space

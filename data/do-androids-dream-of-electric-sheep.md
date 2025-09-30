@@ -1,9 +1,0 @@
-title: Do Androids Dream of Electric Sheep?
-description: By 2021, the World War has killed millions, driving entire species into extinction and sending mankind off-planet. Those who remain covet any living creature, and for people who can’t afford one, companies built incredibly realistic simulacra: horses, birds, cats, sheep. They’ve even built humans. Immigrants to Mars receive androids so sophisticated they are indistinguishable from true men or women. Fearful of the havoc these artificial humans can wreak, the government bans them from Earth. Driven into hiding, unauthorized androids live among human beings, undetected. Rick Deckard, an officially sanctioned bounty hunter, is commissioned to find rogue androids and “retire” them. But when cornered, androids fight back—with lethal force.
-rating: 3.9614718614718614
-rating_count: 1155
-pages: 223
-release_date: 1968-01-01
-genres: Science fiction, Comics, Dystopian, Classics, Fantasy, cyberpunk, Fiction, Comics & Graphic Novels, American fiction, Adventure, Foreign Language Study, Androids, Dream, Science Fiction & Fantasy, Solar system, Genetic engineering
-moods: dark, mysterious, reflective, tense, challenging, sad, emotional, Adventurous, bleak, Mind-Bending, funny, Thought-Provoking, Witty
-paces: fast, medium

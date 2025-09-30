@@ -1,9 +1,0 @@
-title: How to Live Safely in a Science Fictional Universe
-description: Minor Universe 31 is a vast story-space on the outskirts of fiction, where paradox fluctuates like the stock market, lonely sexbots beckon failed protagonists, and time travel is serious business. Every day, people get into time machines and try to do the one thing they should never do: change the past. That’s where Charles Yu, time travel technician—part counselor, part gadget repair man—steps in. He helps save people from themselves. Literally. When he’s not taking client calls or consoling his boss, Phil, who could really use an upgrade, Yu visits his mother (stuck in a one-hour cycle of time, she makes dinner over and over and over) and searches for his father, who invented time travel and then vanished. Accompanied by TAMMY, an operating system with low self-esteem, and Ed, a nonexistent but ontologically valid dog, Yu sets out, and back, and beyond, in order to find the one day where he and his father can meet in memory. He learns that the key may be found in a book he got from his future self. It’s called How to Live Safely in a Science Fictional Universe, and he’s the author. And somewhere inside it is the information that could help him—in fact it may even save his life.
-rating: 3.26953125
-rating_count: 128
-pages: 257
-release_date: 2010-01-01
-genres: Science fiction, Fantasy, Space, Fiction, speculative fiction, Adventure, Fathers and sons, Humor, Time Travel
-moods: tense, sad, mysterious, emotional, Adventurous, lighthearted
-paces: fast, medium, slow

@@ -1,9 +1,0 @@
-title: Shards of Honour
-description: Relive the adventures of Miles and Mark in the first of The Vorkosigan Series. "Bujold has created two of the most engaging, interesting, complicated protagonists in science fiction . . . readers will enjoy this book". VOYA.
-rating: 3.8485915492957745
-rating_count: 142
-pages: 253
-release_date: 1986-01-01
-genres: Science fiction, Fantasy, Space, Adventure, War, Classics
-moods: Adventurous, challenging, dark, hopeful, inspiring, reflective
-paces: fast, medium

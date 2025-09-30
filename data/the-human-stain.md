@@ -1,7 +1,0 @@
-title: The Human Stain
-description: NATIONAL BESTSELLER • WINNER OF THE PEN/FAULKNER AWARD • The Pulitzer Prize–winning author of American Pastoral delivers “a master novelist's haunting parable about our troubled modern moment" (The Wall Street Journal). It is 1998, the year in which America is whipped into a frenzy of prurience by the impeachment of a president, and in a small New England town, an aging classics professor, Coleman Silk, is forced to retire when his colleagues decree that he is a racist. The charge is a lie, but the real truth about Silk would have astonished even his most virulent accuser. Coleman Silk has a secret, one which has been kept for fifty years from his wife, his four children, his colleagues, and his friends, including the writer Nathan Zuckerman. It is Zuckerman who stumbles upon Silk's secret and sets out to reconstruct the unknown biography of this eminent, upright man, esteemed as an educator for nearly all his life, and to understand how this ingeniously contrived life came unraveled. And to understand also how Silk's astonishing private history is, in the words of The Wall Street Journal, "magnificently" interwoven with "the larger public history of modern America."
-rating: 3.90625
-rating_count: 32
-pages: 386
-release_date: 2000-01-01
-genres: Classics, Fiction, African American men

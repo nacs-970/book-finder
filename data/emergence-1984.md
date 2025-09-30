@@ -1,5 +1,0 @@
-title: Emergence
-rating: 4.142857142857143
-rating_count: 7
-pages: 291
-release_date: 1984-10-01

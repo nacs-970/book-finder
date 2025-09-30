@@ -1,9 +1,0 @@
-title: Children of God
-description: 'Not for the Society. Not for Holy Mother Church. Nevertheless, for yourself and for God, you must go back,' Gelasius III told Emilio Sandoz with a terrifying joyful certainty. 'God is waiting for you, in the ruins...' The sole survivor of the original catastrophic mission to the planet Rakhat, Father Emilio Sandoz has barely begun to recover from his horrific physical and psychological wounds when he is summoned by the Vatican to take part in a second expedition to Alpha Centauri. With his objections and his fears summarily ignored, it seems Sandoz is powerless to escape his past or the future. Against his will, he returns to Rakhat to be confronted by a world writhing in the agonizing throes of revolutionary change. And as ghosts from his past rise up to haunt him, opening old scars, Emilio finds himself struggling to make sense of a moral universe whose boundaries now reach beyond our solar system - and whose future lies with children born amongst the stars. Strikingly original, richly plotted, replete with memorable characters and bursting with humanity and humour, Children of God continues the remarkable journey to a distant planet and to the centre of the human soul that began with The Sparrow and confirms Mary Doria Russell as one of the most innovative, entertaining and philosophically provocative novelists writing today.
-rating: 3.9
-rating_count: 80
-pages: 509
-release_date: 1998-01-01
-genres: Science fiction, Fantasy, Aliens, Space, Adventure, Fiction
-moods: hopeful, reflective, emotional, challenging, inspiring, Adventurous
-paces: medium

@@ -1,9 +1,0 @@
-title: The Amazing Adventures of Kavalier & Clay
-description: A young escape artist and budding magician named Joe Kavalier arrives on the doorstep of his cousin, Sammy Clay. While the long shadow of Hitler falls across Europe, America is happily in thrall to the Golden Age of comic books, and in a distant corner of Brooklyn, Sammy is looking for a way to cash in on the craze. He finds the ideal partner in the aloof, artistically gifted Joe, and together they embark on an adventure that takes them deep into the heart of Manhattan, and the heart of old-fashioned American ambition. From the shared fears, dreams, and desires of two teenage boys, they spin comic book tales of the heroic, fascist-fighting Escapist and the beautiful, mysterious Luna Moth, otherworldly mistress of the night. Climbing from the streets of Brooklyn to the top of the Empire State Building, Joe and Sammy carve out lives, and careers, as vivid as cyan and magenta ink. Spanning continents and eras, this superb book by one of America’s finest writers remains one of the defining novels of our modern American age.
-rating: 4.2564935064935066
-rating_count: 308
-pages: 706
-release_date: 2000-01-01
-genres: Comics, LGBTQ, Classics, Fiction, Fantasy, War, Adventure, Bildungsromans, Artists, Humor, Romance
-moods: Adventurous, emotional, inspiring, hopeful, funny, lighthearted, relaxing, sad
-paces: medium

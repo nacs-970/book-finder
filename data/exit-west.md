@@ -1,9 +1,0 @@
-title: Exit West
-description: "In a country teetering on the brink of civil war, two young people meet-- sensual, fiercely independent Nadia and gentle, restrained Saeed.  They embark on a furtive love affair, and are soon cloistered in a premature intimacy by the unrest roiling their city.  When it explodes, turning familiar streets into a patchwork of checkpoints and bomb blasts, they begin to hear whispers about doors-- doors that can whisk people far away, if perilously and for a price.  As the violence escalates, Nadia and Saeed decide that they no longer have a choice.  Leaving their homeland and their old lives behind, they find a door and step through.  [This book] follows the couple as they emerge into an alien and uncertain future, struggling to hold on to each other, to their past, to the very sense of who they are."--From regular print book.
-rating: 3.7665198237885464
-rating_count: 227
-pages: 242
-release_date: 2017-01-01
-genres: Fiction, Fantasy, War, Dystopian, Science fiction, Romance, General, Literature, Choice (Psychology), Literary, Magical Realism
-moods: emotional, reflective, challenging, dark, hopeful, inspiring, sad, Adventurous, mysterious, tense
-paces: medium, fast, slow

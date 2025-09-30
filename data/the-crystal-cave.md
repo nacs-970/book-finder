@@ -1,7 +1,0 @@
-title: The Crystal Cave
-description: Fifth century Britain is a country of chaos and division after the Roman withdrawal. This is the world of young Merlin, the illegitimate child of a South Wales princess who will not reveal to her son his father's true identity. Yet Merlin is an extraordinary child, aware at the earliest age that he possesses a great natural gift - the Sight. Against a background of invasion and imprisonment, wars and conquest, Merlin emerges into manhood, and accepts his dramatic role in the New Beginning - the coming of King Arthur.
-rating: 3.8823529411764706
-rating_count: 68
-pages: 514
-release_date: 1970-01-01
-genres: Fantasy, Classics, Adventure, Young Adult, Science fiction, Merlin (Legendary character), Fiction, General, Arthurian romances

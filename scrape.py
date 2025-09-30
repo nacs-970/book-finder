@@ -68,7 +68,7 @@ for filename in os.listdir(json_dir):
             if book.get('description'):
                 lines.append(f"description: {book['description']}")
             if book.get('rating'):
-                lines.append(f"rating: {book['rating']}")
+                lines.append(f"rating: {book['rating']:.2f}")
             if book.get('ratings_count'):
                 lines.append(f"rating_count: {book['ratings_count']}")
             if book.get('pages'):

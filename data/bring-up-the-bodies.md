@@ -1,9 +1,0 @@
-title: Bring Up the Bodies
-description: Bring Up the Bodies is a historical novel by Hilary Mantel; sequel to the award-winning [Wolf Hall;](https://openlibrary.org/works/OL464512W) and part of a trilogy charting the rise and fall of Thomas Cromwell, the powerful minister in the court of King Henry VIII. It won the 2012 Man Booker Prize and the 2012 Costa Book of the Year. The final novel in the trilogy, [The Mirror and the Light](https://openlibrary.org/works/OL20665410W), was published in March 2020.
-rating: 4.345528455284553
-rating_count: 123
-pages: 432
-release_date: 2012-01-01
-genres: Fiction, History, Biography
-moods: informative, tense, challenging, dark, mysterious, emotional, Adventurous, funny
-paces: fast, medium, slow

@@ -1,6 +1,0 @@
-title: The Whole Man
-description: Gerald Howson had twisted legs and spine. His face was so ugly even his mother didn't want to look at him. But his telepathic talent was the stongest ever found. Many telepaths created a world of imagination and locked themselves into it until dying of hunger and thirst. Others used the gift to heal victims of psychological trauma. Howson tried the first when just coming into his talent. Then he was successful as a healer, but that did not bring the respect and acceptance he craved. Howson's third choice made him a whole man.
-
-John Brunner was a Hugo Award winner, and this book was a Hugo Award finalist for best novel of the year. 'Nuf said.
-rating: 3
-rating_count: 1
