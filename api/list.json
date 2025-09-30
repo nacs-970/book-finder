@@ -1,0 +1,1109 @@
+{
+  "data": {
+    "lists_by_pk": {
+      "list_books": [
+        {
+          "book": {
+            "title": "Watchmen",
+            "description": "Considered the greatest graphic novel in the history of the medium, the Hugo Award-winning story chronicles the fall from grace of a group of superheroes plagued by all-too-human failings. Along the way, the concept of the superhero is dissected as an unknown assassin stalks the erstwhile heroes.",
+            "rating": 4.428264604810996,
+            "ratings_count": 1164,
+            "pages": 415,
+            "release_date": "1987-01-01",
+            "slug": "watchmen"
+          }
+        },
+        {
+          "book": {
+            "title": "A Game of Thrones",
+            "description": "Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun. As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must ...and a dead enemy is a thing of beauty. The old gods have no power in the south, Stark's family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.",
+            "rating": 4.370918367346939,
+            "ratings_count": 2940,
+            "pages": 819,
+            "release_date": "1996-01-01",
+            "slug": "a-game-of-thrones"
+          }
+        },
+        {
+          "book": {
+            "title": "American Gods",
+            "description": "Released from prison, Shadow finds his world turned upside down. His wife has been killed; a stranger offers him a job and Shadow, with nothing to lose, accepts. But a storm is coming. Beneath the placid surface of everyday life, a war is being fought – and the prize is the very soul of America.\n\nAn inspired combination of mythology, adventure, and illusion, American Gods is a dark and kaleidoscopic journey deep into myth and across an America at once eerily familiar and utterly alien. It is, quite simply, a contemporary masterpiece.",
+            "rating": 4.014713610089332,
+            "ratings_count": 1903,
+            "pages": 480,
+            "release_date": "2001-01-01",
+            "slug": "american-gods"
+          }
+        },
+        {
+          "book": {
+            "title": "Rendezvous with Rama",
+            "description": "Rama was first picked up by radar as asteroid 31/439 while still outside the orbit of Jupiter; and it was only when it was realised that it had a diameter of some twelve miles and that its course might completely upset the delicate balance of the solar system that scientists became at first intrigued and then worried. A space-probe was launched on a high-speed trajectory to intercept the mysterious intruder and to photograph it. Seven weeks after the probe’s launch, the pictures it transmitted brought to a halt the activities of most of mankind…",
+            "rating": 3.9938704028021017,
+            "ratings_count": 571,
+            "pages": 214,
+            "release_date": "1973-01-01",
+            "slug": "rendezvous-with-rama"
+          }
+        },
+        {
+          "book": {
+            "title": "Lord Foul's Bane",
+            "description": "He called himself Thomas Covenant the Unbeliever, because he dared not believe in this strange alternate world on which he suddenly found himself. \nYet the Land tempted him. He had been sick; now he seemed better than ever before. Through no fault of his own, he had been outcast, unclean, a pariah. Now he was regarded as a reincarnation of the Land's greatest hero--Berek Halfhand--armed with the mystic power of White Gold. That power alone could protect the Lords of the Land from the ancient evil of the Despiser, Lord Foul. Except that Covenant had no idea how to use that power. . . .",
+            "rating": 3.3125,
+            "ratings_count": 120,
+            "pages": 369,
+            "release_date": "1977-01-01",
+            "slug": "lord-fouls-bane"
+          }
+        },
+        {
+          "book": {
+            "title": "Doomsday Book",
+            "description": " Kivrin knows everything about the Middle Ages - she's read all the books. She knows it's dangerous: cutthroats in the woods, witch hunts, cholera, and millions dying in the plague. For a young historian, it's fascinating.\n\nWhen Kivrin's tutors in Oxford's history lab finally agree to send her on an on-site study trip, she jumps at the chance to observe medieval life first-hand. But a crisis that strangely links the past and future leaves her stranded in the most deadly and terrifying era in human history, face to face with the heart-rending reality behind the statistics. And while she fights for her own life, Kivrin finds she has become an unlikely angel of hope in this dark time.\n\nFive years in the writing, Doomsday Book is a storytelling triumph. Connie Willis draws upon her understanding of the universalities of human nature to explore the timeless issues of evil, suffering and the indomitable will of the human spirit.",
+            "rating": 3.8423236514522823,
+            "ratings_count": 241,
+            "pages": 593,
+            "release_date": "1992-01-01",
+            "slug": "doomsday-book"
+          }
+        },
+        {
+          "book": {
+            "title": "Lucifer's Hammer",
+            "description": "Lucifer's Hammer is a post-apocalyptic science fiction novel by Larry Niven and Jerry Pournelle, first published in 1977. It was nominated for the Hugo Award for Best Novel in 1978.\r\nThe story details a cometary impact on Earth, an end to civilization, and the battle for the future. It encompasses the discovery of the comet, the LA social scene, and a cast of diverse characters whom fate seems to smile upon and allow to survive the massive cataclysm and the resulting tsunamis, plagues, famines and battles amongst scavengers and cannibals.",
+            "rating": 3.655660377358491,
+            "ratings_count": 106,
+            "pages": 642,
+            "release_date": "1977-01-01",
+            "slug": "lucifers-hammer"
+          }
+        },
+        {
+          "book": {
+            "title": "The Silmarillion",
+            "description": "A number-one New York Times bestseller when it was originally published, The Silmarillion is the core of J.R.R. Tolkien's imaginative writing, a work whose origins stretch back to a time long before The Hobbit.",
+            "rating": 3.9229480737018423,
+            "ratings_count": 597,
+            "pages": 386,
+            "release_date": "1977-01-01",
+            "slug": "the-silmarillion"
+          }
+        },
+        {
+          "book": {
+            "title": "Frankenstein",
+            "description": "\"Mary Shelley (then Godwin) and Percy Bysshe Shelley were visiting their friend Lord Byron in Geneva one rainy summer. With the weather against them, they decided to spend their time writing ghost stories for each other. Frankenstein is Mary Shelley’s submission to their contest, later published anonymously in 1818.\n\nVictor Frankenstein, a strange but brilliant scientist, discovers a method of imparting life to inanimate matter. The Monster is thus born: a hideous, 8-foot-tall creature of muscle, speed, and intellect. Frankenstein’s rejection of his appalling creation sends it into a spiral of despair, and Frankenstein’s life is never the same.\"-- Provided by Amazon ",
+            "rating": 3.842378752886836,
+            "ratings_count": 1732,
+            "pages": 269,
+            "release_date": "1818-01-01",
+            "slug": "frankenstein"
+          }
+        },
+        {
+          "book": {
+            "title": "The Road",
+            "description": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don’t know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food—and each other.",
+            "rating": 4.012847965738758,
+            "ratings_count": 1401,
+            "pages": 287,
+            "release_date": "1974-01-01",
+            "slug": "the-road"
+          }
+        },
+        {
+          "book": {
+            "title": "Stranger in a Strange Land",
+            "description": "Valentine Michael Smith, born and raised on Mars, arrives on Earth stunning Western culture with his superhuman abilities",
+            "rating": 3.7084942084942085,
+            "ratings_count": 518,
+            "pages": 422,
+            "release_date": "1961-01-01",
+            "slug": "stranger-in-a-strange-land"
+          }
+        },
+        {
+          "book": {
+            "title": "A Clockwork Orange",
+            "description": "Fifteen-year-old Alex and his three friends start an evening's mayhem by hitting an old man, tearing up his books and stripping him of money and clothes.\r\n\r\nOr rather Alex and his three droogs tolchock an old veck, razrez his books, pull off his outer platties and take a malenky bit of cutter.\r\n\r\nFor Alex's confessions are written in 'nadsat' - the teenage argot of a not-too-distant future.\r\n\r\nBecause of his delinquent excesses, Alex is jailed and made subject to 'Ludovico's Technique,' a chilling experiment in Reclamation Treatment...\r\n\r\nHorror farce? Social prophecy? Penetrating study of human choice between good and evil? A Clockwork Orange is all three, dazzling proof of Anthony Burgess's vast talents.",
+            "rating": 3.9344569288389515,
+            "ratings_count": 801,
+            "pages": 72,
+            "release_date": "1962-01-01",
+            "slug": "a-clockwork-orange"
+          }
+        },
+        {
+          "book": {
+            "title": "The Martian Chronicles",
+            "description": "Soar above the fossil seas and crystal pillars of a dead world in the pages of Ray Bradbury’s The Martian Chronicles. A milestone of American literature, Bradbury’s classic collection of interconnected vignettes about life on the red planet diverges from the War of the Worlds theme, in which humanity must defend its shores against its neighbors, for in Bradbury’s prismatic vision, humanity is the conqueror, colonizing Mars to escape an Earth devastated by atomic war and environmental catastrophe.",
+            "rating": 4.000843170320405,
+            "ratings_count": 593,
+            "pages": 182,
+            "release_date": "1950-01-01",
+            "slug": "the-martian-chronicles"
+          }
+        },
+        {
+          "book": {
+            "title": "Neverwhere",
+            "description": "\"Richard Mayhew is an ordinary young man with an ordinary life and a good heart. His world is changed forever when he stops to help a girl he finds bleeding on a London sidewalk. This small kindness propels him into a dark world he never dreamed existed. He must learn to survive in London Below, in a world of perpetual shadows and darkness, filled with monsters and saints, murderers and angels. He must survive if he is ever to return to the London that he knew.\"",
+            "rating": 4.108614232209738,
+            "ratings_count": 1068,
+            "pages": 480,
+            "release_date": "1996-01-01",
+            "slug": "neverwhere"
+          }
+        },
+        {
+          "book": {
+            "title": "The Time Machine",
+            "description": "First published in 1895, The Time Machine won author H.G. Wells immediate recognition and has been regarded ever since as one of the great masterpieces in the literature of science fiction. It popularized the concept of time travel and introduced the concept of a \"time machine\" device that could travel forwards and backwards through the years. It is the story of one man’s astonishing journey beyond the conventional limits of the imagination. \n\nOne of the most renowned works of science fiction, The Time Machine reflects on the adventures of The Time Traveler - a man who constructs a machine which allows him to explore what the future has to offer. When he courageously steps out of his machine for the first time, he finds himself in the year 802,701—and everything has changed. In this unfamiliar utopian age, creatures seem to dwell together in perfect harmony. Thinking he can study these marvelous beings and unearth their secret then return to his own time, he discovers that his only avenue of escape, his invention, has been stolen. \n\nWells is generally credited with the popularization of the concept of time travel by using a vehicle that allows an operator to travel purposefully and selectively. The term \"time machine\", which was coined by Wells, is now universally used to refer to such a vehicle. The book has been adapted for a number of films and television shows, as well as inspiring other science fiction writers.",
+            "rating": 3.7094117647058824,
+            "ratings_count": 850,
+            "pages": 144,
+            "release_date": "1895-01-01",
+            "slug": "the-time-machine"
+          }
+        },
+        {
+          "book": {
+            "title": "The Mote in God's Eye",
+            "description": "Science fiction classic about the rise, fall and subsequent rise of a civilization where the peak catastrophe is known as the \"crazy eddy point\". Introduces the concept of frictionless toilets that don't have any water in them but I suspect the authors didn't think it all the way through - I don't recall a negative air pressure that would keep odours in their rightfull place. Nevertheless a fascinating read.\r\nI haven't read this for donkeys years which is why I'm searching for an e-copy.",
+            "rating": 3.7801932367149758,
+            "ratings_count": 207,
+            "pages": 598,
+            "release_date": "1974-01-01",
+            "slug": "the-mote-in-gods-eye"
+          }
+        },
+        {
+          "book": {
+            "title": "The Eye of the World",
+            "description": "In the Third Age, an age of prophecy when the world and time themselves hang in the balance, the Dark One, imprisoned by the Creator, is stirring in Shayol Ghul.",
+            "rating": 4.028685548293391,
+            "ratings_count": 1377,
+            "pages": 708,
+            "release_date": "1990-01-01",
+            "slug": "the-eye-of-the-world"
+          }
+        },
+        {
+          "book": {
+            "title": "Pawn of Prophecy",
+            "description": "A magnificent epic set against a history of seven thousand years of the struggles of Gods and Kings and men - of strange lands and events - of fate and a prophecy that must be fulfilled! THE BELGARIAD\n\nLong ago, so the Storyteller claimed, the evil God Torak sought dominion and drove men and Gods to war. But Belgarath the Sorcerer led men to reclaim the Orb that protected men of the West. So long as it lay at Riva, the prophecy went, men would be safe.\n\nBut that was only a story, and Garion did not believe in magic dooms, even though the dark man without a shadow had haunted him for years. Brought up on a quiet farm by his Aunt Pol, how could he know that the Apostate planned to wake dread Torak, or that he would be led on a quest of unparalleled magic and danger by those he loved - but did not know? For a while his dreams of innocence were safe, untroubled by knowledge of his strange heritage. For a little while... THUS BEGINS BOOK ONE OF THE BELGARIAD",
+            "rating": 3.8786008230452675,
+            "ratings_count": 243,
+            "pages": 262,
+            "release_date": "1982-01-01",
+            "slug": "pawn-of-prophecy"
+          }
+        },
+        {
+          "book": {
+            "title": "The Diamond Age",
+            "description": "The story of an engineer who creates a device to raise a girl capable of thinking for herself reveals what happens when a young girl of the poor underclass obtains the device.",
+            "rating": 4.095029239766082,
+            "ratings_count": 342,
+            "pages": 536,
+            "release_date": "1995-01-01",
+            "slug": "the-diamond-age"
+          }
+        },
+        {
+          "book": {
+            "title": "Snow Crash",
+            "description": "In Snow Crash, Neal Stephenson rewires the cyberpunk genre, throwing you headfirst into a chaotic, corporatized future where governments have collapsed, the Metaverse reigns supreme, and everything—literally everything—is for sale. Hiro Protagonist, katana-wielding hacker and the world’s most overqualified pizza delivery guy, stumbles onto a digital virus that’s more than just code—it’s a weapon that targets minds, threatening the virtual and real worlds alike. With the help of a badass skateboarding courier named Y.T., Hiro races through a world of hyper-capitalist dystopia, ancient Sumerian mythology, and corporate warfare to stop an apocalypse no one else even sees coming. Wild, prophetic, and way too real, Snow Crash doesn’t just predict the future—it builds it.",
+            "rating": 3.997067448680352,
+            "ratings_count": 1023,
+            "pages": 448,
+            "release_date": "1992-01-01",
+            "slug": "snow-crash"
+          }
+        },
+        {
+          "book": {
+            "title": "Going Postal",
+            "description": "A splendid send-up of government, the postal system, and everything that lies in between in this newest entry in Terry Pratchett’s internationally bestselling Discworld series. Convicted con man and forger Moist von Lipwig is given a choice: Face the hangman’s noose, or get Ankh Morpork’s ancient Post Office up and running efficiently! It was a tough decision . . . Now, the former criminal is facing really big problems. There’s tons of undelivered mail. Ghosts are talking to him. One of the postmen is 18,000 years old. And you really wouldn’t want to know what his new girlfriend can do with a shoe. To top it all off, shadowy characters don’t want the mail moved. Instead, they want him dead—deader than all those dead letters. (And here he’d thought that all he’d have to face was rain, snow, and gloom of night . . .)",
+            "rating": 4.3979591836734695,
+            "ratings_count": 392,
+            "pages": 448,
+            "release_date": "2004-01-01",
+            "slug": "going-postal"
+          }
+        },
+        {
+          "book": {
+            "title": "Contact",
+            "description": "In December, 1999, a multinational team journeys out to the stars, to the most awesome encounter in human history. Who -- or what -- is out there? \r\nIn Cosmos, Carl Sagan explained the universe. In Contact, he predicts its future -- and our own.",
+            "rating": 4.101246105919003,
+            "ratings_count": 321,
+            "pages": 453,
+            "release_date": "1985-01-01",
+            "slug": "contact"
+          }
+        },
+        {
+          "book": {
+            "title": "The Eyre Affair",
+            "description": "The Eyre Affair\r\n\r\nGreat Britain circa 1985: time travel is routine, cloning is a reality (dodos are the resurrected pet of choice), and literature is taken very, very seriously. Baconians are trying to convince the world that Francis Bacon really wrote Shakespeare, there are riots between the Surrealists and Impressionists, and thousands of men are named John Milton, an homage to the real Milton and a very confusing situation for the police. Amidst all this, Acheron Hades, Third Most Wanted Man In the World, steals the original manuscript of Martin Chuzzlewit and kills a minor character, who then disappears from every volume of the novel ever printed! But that's just a prelude . . . Hades' real target is the beloved Jane Eyre, and it's not long before he plucks her from the pages of Bronte's novel. Enter Thursday Next. She's the Special Operative's renowned literary detective, and she drives a Porsche. With the help of her uncle Mycroft's Prose Portal, Thursday enters the novel to rescue Jane Eyre from this heinous act of literary homicide. It's tricky business, all these interlopers running about Thornfield, and deceptions run rampant as their paths cross with Jane, Rochester, and Miss Fairfax. Can Thursday save Jane Eyre and Bronte's masterpiece? And what of the Crimean War? Will it ever end? And what about those annoying black holes that pop up now and again, sucking things into time-space voids . . . Suspenseful and outlandish, absorbing and fun, The Eyre Affair is a caper unlike any other and an introduction to the imagination of a most distinctive writer and his singular fictional universe. Next up in the Thursday Next series: Lost in a Good Book. Read more about it at thursdaynext.com.",
+            "rating": 3.908759124087591,
+            "ratings_count": 274,
+            "pages": 388,
+            "release_date": "1969-01-01",
+            "slug": "the-eyre-affair"
+          }
+        },
+        {
+          "book": {
+            "title": "A Spell for Chameleon",
+            "description": "BEST NOVEL OF THE YEAR, BRITISH FANTASY SOCIETY • Discover the magical beginning of Piers Anthony’s enthralling Xanth series Xanth was the enchanted land where magic ruled—where every citizen had a special spell only he could cast. It was a land of centaurs and dragons and basilisks. For Bink of North Village, however, Xanth was no fairy tale. He alone had no magic. And unless he got some—and got some fast!—he would be exiled. Forever. But the Good Magician Humfrey was convinced that Bink did indeed have magic. In fact, both Beauregard the genie and the magic wall chart insisted that Bink had magic. Magic as powerful as any possessed by the King or by Good Magician Humfrey—or even by the Evil Magician Trent. Be that as it may, no one could fathom the nature of Bink’s very special magic. Bink was in despair. This was even worse than having no magic at all . . . and he would still be exiled! Thus begins Piers Anthony’s enthralling Xanth series. . . .",
+            "rating": 3.4439655172413794,
+            "ratings_count": 116,
+            "pages": 356,
+            "release_date": "1977-01-01",
+            "slug": "a-spell-for-chameleon"
+          }
+        },
+        {
+          "book": {
+            "title": "The Crystal Cave",
+            "description": "Fifth century Britain is a country of chaos and division after the Roman withdrawal. This is the world of young Merlin, the illegitimate child of a South Wales princess who will not reveal to her son his father's true identity. Yet Merlin is an extraordinary child, aware at the earliest age that he possesses a great natural gift - the Sight. Against a background of invasion and imprisonment, wars and conquest, Merlin emerges into manhood, and accepts his dramatic role in the New Beginning - the coming of King Arthur.",
+            "rating": 3.8823529411764706,
+            "ratings_count": 68,
+            "pages": 514,
+            "release_date": "1970-01-01",
+            "slug": "the-crystal-cave"
+          }
+        },
+        {
+          "book": {
+            "title": "Watership Down",
+            "description": "A worldwide bestseller for more than fifty years, Watership Down is one of the most beloved novels of all time. Set in England’s Downs, a once idyllic rural landscape, this stirring tale follows a band of very special creatures on their flight from the intrusion of man and the certain destruction of their home. Led by a stouthearted pair of brothers, they journey from their native Sandleford Warren, through the harrowing trials posed by predators and adversaries, and toward the dream of a mysterious promised land and a more perfect society.",
+            "rating": 4.0699588477366255,
+            "ratings_count": 486,
+            "pages": 385,
+            "release_date": "1972-01-01",
+            "slug": "watership-down"
+          }
+        },
+        {
+          "book": {
+            "title": "Slaughterhouse 5",
+            "description": "Kurt Vonnegut’s masterpiece, Slaughterhouse-Five is “a desperate, painfully honest attempt to confront the monstrous crimes of the twentieth century” (Time). Selected by the Modern Library as one of the 100 best novels of all time Slaughterhouse-Five, an American classic, is one of the world’s great antiwar books. Centering on the infamous World War II firebombing of Dresden, the novel is the result of what Kurt Vonnegut described as a twenty-three-year struggle to write a book about what he had witnessed as an American prisoner of war. It combines historical fiction, science fiction, autobiography, and satire in an account of the life of Billy Pilgrim, a barber’s son turned draftee turned optometrist turned alien abductee. As Vonnegut had, Billy experiences the destruction of Dresden as a POW. Unlike Vonnegut, he experiences time travel, or coming “unstuck in time.” An instant bestseller, Slaughterhouse-Five made Kurt Vonnegut a cult hero in American literature, a reputation that only strengthened over time, despite his being banned and censored by some libraries and schools for content and language. But it was precisely those elements of Vonnegut’s writing—the political edginess, the genre-bending inventiveness, the frank violence, the transgressive wit—that have inspired generations of readers not just to look differently at the world around them but to find the confidence to say something about it. Authors as wide-ranging as Norman Mailer, John Irving, Michael Crichton, Tim O’Brien, Margaret Atwood, Elizabeth Strout, David Sedaris, Jennifer Egan, and J. K. Rowling have all found inspiration in Vonnegut’s words. Jonathan Safran Foer has described Vonnegut as “the kind of writer who made people—young people especially—want to write.” George Saunders has declared Vonnegut to be “the great, urgent, passionate American writer of our century, who offers us . . . a model of the kind of compassionate thinking that might yet save us from ourselves.” More than fifty years after its initial publication at the height of the Vietnam War, Vonnegut’s portrayal of political disillusionment, PTSD, and postwar anxiety feels as relevant, darkly humorous, and profoundly affecting as ever, an enduring beacon through our own era’s uncertainties.",
+            "rating": 4.0867655134541465,
+            "ratings_count": 1821,
+            "pages": 292,
+            "release_date": "1968-06-01",
+            "slug": "slaughterhouse-5-1968"
+          }
+        },
+        {
+          "book": {
+            "title": "Nine Princes in Amber",
+            "description": "Awakening in an Earth hospital unable to remember who he is or where he came from, Corwin is amazed to learn that he is one of the sons of Oberon, King of Amber, and is the rightful successor to the crown in a parallel world.",
+            "rating": 3.6903669724770642,
+            "ratings_count": 218,
+            "pages": 175,
+            "release_date": "1970-01-01",
+            "slug": "nine-princes-in-amber"
+          }
+        },
+        {
+          "book": {
+            "title": "Stardust",
+            "description": "E-book extra: Neil Gaiman's \"Writing and the Imagination.\"In the tranquil fields and meadows of long-ago England, there is a small hamlet that has stood on a jut of granite for 600 years. Just to the east stands a high stone wall, for which the village is named. Here, in the hamlet of Wall, young Tristran Thorn has lost his heart to the hauntingly beautiful Victoria Forester. And here, one crisp October eve, Tristran makes his love a promise -- an impetuous vow that will send him through the only breach in the wall, across the pasture ... and into the most exhilarating adventure of his life.",
+            "rating": 3.984669811320755,
+            "ratings_count": 848,
+            "pages": 248,
+            "release_date": "1997-01-01",
+            "slug": "stardust"
+          }
+        },
+        {
+          "book": {
+            "title": "World War Z: An Oral History of the Zombie War",
+            "description": "#1 NEW YORK TIMES BESTSELLER • “Prepare to be entranced by this addictively readable oral history of the great war between humans and zombies.”—Entertainment Weekly\n \nWe survived the zombie apocalypse, but how many of us are still haunted by that terrible time? We have (temporarily?) defeated the living dead, but at what cost? Told in the haunting and riveting voices of the men and women who witnessed the horror firsthand, World War Z is the only record of the pandemic.\n \nThe Zombie War came unthinkably close to eradicating humanity. Max Brooks, driven by the urgency of preserving the acid-etched first-hand experiences of the survivors, traveled across the United States of America and throughout the world, from decimated cities that once teemed with upwards of thirty million souls to the most remote and inhospitable areas of the planet. He recorded the testimony of men, women, and sometimes children who came face-to-face with the living, or at least the undead, hell of that dreadful time. World War Z is the result. Never before have we had access to a document that so powerfully conveys the depth of fear and horror, and also the ineradicable spirit of resistance, that gripped human society through the plague years.",
+            "rating": 3.8816942551119764,
+            "ratings_count": 1027,
+            "pages": 354,
+            "release_date": "2006-01-01",
+            "slug": "world-war-z"
+          }
+        },
+        {
+          "book": {
+            "title": "Consider Phlebas",
+            "description": "Consider Phlebas is perhaps one of the lesser-known, but nevertheless the first, of the revelationary late Iain M. Banks' science fiction books. Consider Phlebas introduces us to the complex world of the mind-controlling, ubiquitous utopia of the Culture, which contrasts to their mortal sentient enemies. Iain Banks creates an imaginative and encapsulating premise to keep the reader hooked for more, with hints of science fiction and alien humour to liven a deadly race against an omnipotent foe.",
+            "rating": 3.591463414634146,
+            "ratings_count": 492,
+            "pages": 544,
+            "release_date": "1987-01-01",
+            "slug": "consider-phlebas"
+          }
+        },
+        {
+          "book": {
+            "title": "Ender's Game",
+            "description": "Ender's Game is a 1985 military science fiction novel by American author Orson Scott Card. Set at an unspecified date in Earth's future, the novel presents an imperiled humankind after two conflicts with the Formics, an insectoid alien species they dub the \"buggers\". In preparation for an anticipated third invasion, children, including the novel's protagonist, Andrew \"Ender\" Wiggin, are trained from a very young age by putting them through increasingly difficult games, including some in zero gravity, where Ender's tactical genius is revealed.\r\n\r\nThe book originated as a short story of the same name, published in the August 1977 issue of Analog Science Fiction and Fact. The novel was published on January 15, 1985. Later, by elaborating on characters and plotlines depicted in the novel, Card was able to write additional books in the Ender's Game series. Card also released an updated version of Ender's Game in 1991, changing some political facts to reflect the times more accurately (e.g., to include the recent collapse of the Soviet Union and the end of the Cold War). The novel has been translated into 34 languages.\r\n\r\nReception of the book has been mostly positive. It has become suggested reading for many military organizations, including the United States Marine Corps. Ender's Game was recognized as \"best novel\" by the 1985 Nebula Award[3] and the 1986 Hugo Award[4] in the genres of science fiction and fantasy. Its four sequels—Speaker for the Dead (1986), Xenocide (1991), Children of the Mind (1996), and Ender in Exile (2008)—follow Ender's subsequent travels to many different worlds in the galaxy. In addition, the later novella A War of Gifts (2007) and novel Ender's Shadow (1999), plus other novels in the Shadow saga, take place during the same time period as the original.\r\n\r\n\r\n----------\r\n\r\nContained in:\r\n[Ender's War](https://openlibrary.org/works/OL49619W)\r\nSee also:\r\n\r\n - [Ender's Game: 1/2](https://openlibrary.org/works/OL19647657W/Ender's_Game._1_2)\r\n\r\n  [1]: http://www.hatrack.com/osc/books/endersgame/",
+            "rating": 4.277708333333333,
+            "ratings_count": 2400,
+            "pages": 256,
+            "release_date": "1985-01-01",
+            "slug": "enders-game"
+          }
+        },
+        {
+          "book": {
+            "title": "Out of the Silent Planet",
+            "description": "The first book in Lewis's Space Trilogy, *Out of the Silent Planet* tells the story of Dr. Elwin Ransom, a philologist who likes to explore the English countryside on foot.  Seeking out a place to stay the night, he ends up at the estate of a colleague who is away in London.  However, the house is not empty.  Ransom stumbles upon the plot of a megalomaniacal scientist and his collaborator, who just happens to be an old schoolmate of Ransom's.  Drugged, kidnapped, and wisked away in the scientists rocket to the planet Malacandra where he is to serve as a human sacrifice, Dr. Ransom escapes into the strange Malacandran wilderness pursued by his kidnappers and abandoning his hopes of returning to Earth.\r\n\r\nRansom discovers that the inhabitants of Malacandra are not what his kidnappers believed them to be.  In his adventures in the often strangely beautiful, sometimes dangerous, and sometimes surprisingly familiar Malacandra and its inhabitants, Ransom uncovers information about the larger universe and Earth's place that suggest he has as much to discover about his home planet as he does about the alien Malacandra.",
+            "rating": 3.763440860215054,
+            "ratings_count": 186,
+            "pages": 155,
+            "release_date": "1938-01-01",
+            "slug": "out-of-the-silent-planet"
+          }
+        },
+        {
+          "book": {
+            "title": "Childhood's End",
+            "description": "fjkfThe Overlords appeared suddenly over every city—intellectually, technologically, and militarily superior to humankind. Benevolent, they made few demands: unify earth, eliminate poverty, and end war. With little rebellion, humankind agreed, and a golden age began. But at what cost? With the advent of peace, man ceases to strive for creative greatness, and a malaise settles over the human race. To those who resist, it becomes evident that the Overlords have an agenda of their own. As civilization approaches the crossroads, will the Overlords spell the end for humankind . . . or the beginning?",
+            "rating": 3.9741379310344827,
+            "ratings_count": 464,
+            "pages": 212,
+            "release_date": "1953-01-01",
+            "slug": "childhoods-end"
+          }
+        },
+        {
+          "book": {
+            "title": "I, Robot",
+            "description": "This classic science fiction masterwork by Isaac Asimov weaves stories about robots, humanity, and the deep questions of existence into a novel of shocking intelligence and heart. \n\n“A must-read for science-fiction buffs and literature enjoyers alike.”— The Guardian \nI, Robot , the first and most widely read book in Asimov’s Robot series, forever changed the world’s perception of artificial intelligence. Here are stories of robots gone mad, of mind-reading robots, and robots with a sense of humor. Of robot politicians, and robots who secretly run the world—all told with the dramatic blend of science fact and science fiction that has become Asimov’s trademark. \nThe Three Laws of Robotics:\n1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n2) A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.\n3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law. \nWith these three, simple directives, Isaac Asimov formulated the laws governing robots’ behavior. In I, Robot , Asimov chronicles the development of the robot from its primitive origins in the present to its ultimate perfection in the not-so-distant future—a future in which humanity itself may be rendered obsolete. \n\nI, Robot is a fixup novel of science fiction short stories or essays by American writer Isaac Asimov. The stories originally appeared in the American magazines Super Science Stories and Astounding Science Fiction between 1940 and 1950 and were then compiled into a book for stand-alone publication by Gnome Press in 1950, in an initial edition of 5,000 copies. The stories are woven together by a framing narrative in which the fictional Dr. Susan Calvin tells each story to a reporter (who serves as the narrator) in the 21st century. Although the stories can be read separately, they share a theme of the interaction of humans, robots, and morality, and when combined they tell a larger story of Asimov's fictional history of robotics.\n\nContains:\n\"Introduction\" (the initial portion of the framing story or linking text)\n\"Robbie\" (1940, 1950)\n\"Runaround\" (1942)\n\"Reason\" (1941)\n\"Catch That Rabbit\" (1944)\n\"Liar!\" (1941)\n\"Little Lost Robot\" (1947)\n\"Escape!\" (1945)\n\"Evidence\" (1946)\n\"The Evitable Conflict\" (1950)",
+            "rating": 4.070133010882708,
+            "ratings_count": 827,
+            "pages": 304,
+            "release_date": "1950-01-01",
+            "slug": "i-robot"
+          }
+        },
+        {
+          "book": {
+            "title": "The Shadow of the Torturer",
+            "description": "The Shadow of the Torturer is the first volume in the four-volume series, The Book of the New Sun. It is the tale of young Severian, an apprentice in the Guild of Torturers on the world called Urth, exiled for committing the ultimate sin of his profession -- showing mercy toward his victim -- and follows subsequent journey out of his home city of Nessus.",
+            "rating": 3.6828703703703702,
+            "ratings_count": 216,
+            "pages": 276,
+            "release_date": "1980-01-01",
+            "slug": "the-shadow-of-the-torturer"
+          }
+        },
+        {
+          "book": {
+            "title": "Jonathan Strange & Mr Norrell",
+            "description": "Published in 2004, it is an alternative history set in 19th-century England around the time of the Napoleonic Wars. Its premise is that magic once existed in England and has returned with two men: Gilbert Norrell and Jonathan Strange. Centred on the relationship between these two men, the novel investigates the nature of \"Englishness\" and the boundaries between reason and unreason, Anglo-Saxon and Anglo-Dane, and Northern and Southern English cultural tropes/stereotypes. It has been described as a fantasy novel, an alternative history, and a historical novel. It inverts the Industrial Revolution conception of the North-South divide in England: in this book the North is romantic and magical, rather than rational and concrete.",
+            "rating": 3.977129337539432,
+            "ratings_count": 634,
+            "pages": 1006,
+            "release_date": "2004-01-01",
+            "slug": "jonathan-strange-mr-norrell"
+          }
+        },
+        {
+          "book": {
+            "title": "Wizard's First Rule",
+            "description": "In the aftermath of the brutal murder of his father, Richard Cypher encounters a mysterious woman, Kahlan Amnell, in his forest sanctuary. She seeks his help...and more. His world, his very beliefs, are shattered when ancient debts come due with thundering violence. \r\n\r\nIn their darkest hour, Kahlan calls upon Richard to reach beyond his sword--- to invoke within himself something more noble. Neither knows that the rules of battle have just changed...or that their time has run out. \r\n\r\nThis is the beginning. One book. One Rule. Witness the birth of a legend.",
+            "rating": 3.732051282051282,
+            "ratings_count": 390,
+            "pages": 848,
+            "release_date": "0018-01-01",
+            "slug": "wizards-first-rule"
+          }
+        },
+        {
+          "book": {
+            "title": "The Gunslinger",
+            "description": "In the first book of this series, Stephen King introduces readers to one of his most enigmatic heroes, Roland of Gilead, The Last Gunslinger.\n\nHe is a haunting figure, a loner on a spellbinding journey into good and evil. In his desolate world, which frighteningly mirrors our own, Roland pursues The Man in Black, encounters an alluring woman named Alice, and begins a friendship with the Kid from Earth called Jake. Both grippingly realistic and eerily dreamlike, The Gunslinger leaves readers eagerly awaiting the next chapter.",
+            "rating": 3.616438356164384,
+            "ratings_count": 1241,
+            "pages": 238,
+            "release_date": "1982-01-01",
+            "slug": "the-gunslinger"
+          }
+        },
+        {
+          "book": {
+            "title": "The Once and Future King",
+            "description": "T. H. White’s masterful retelling of the saga of King Arthur is a fantasy classic as legendary as Excalibur and Camelot, and a poignant story of adventure, romance, and magic that has enchanted readers for generations.\n \nOnce upon a time, a young boy called “Wart” was tutored by a magician named Merlyn in preparation for a future he couldn’t possibly imagine. A future in which he would ally himself with the greatest knights, love a legendary queen and unite a country dedicated to chivalrous values. A future that would see him crowned and known for all time as Arthur, King of the Britons.\n \nDuring Arthur’s reign, the kingdom of Camelot was founded to cast enlightenment on the Dark Ages, while the knights of the Round Table embarked on many a noble quest. But Merlyn foresaw the treachery that awaited his liege: the forbidden love between Queen Guenever and Lancelot, the wicked plots of Arthur’s half-sister Morgause and the hatred she fostered in Mordred that would bring an end to the king’s dreams for Britain—and to the king himself.",
+            "rating": 3.8025477707006368,
+            "ratings_count": 157,
+            "pages": 650,
+            "release_date": "1958-01-01",
+            "slug": "the-once-and-future-king"
+          }
+        },
+        {
+          "book": {
+            "title": "Twenty Thousand Leagues Under the Sea",
+            "description": "Retells the adventures of a French professor and his two companions as they sail above and below the world's oceans as prisoners on the fabulous electric submarine of the deranged Captain Nemo.",
+            "rating": 3.6212938005390836,
+            "ratings_count": 371,
+            "pages": 394,
+            "release_date": "1866-01-01",
+            "slug": "twenty-thousand-leagues-under-the-sea"
+          }
+        },
+        {
+          "book": {
+            "title": "Small Gods",
+            "description": "In the beginning was the Word.\r\n\r\nAnd the Word was: \"Hey, you!\"\r\n\r\nFor Brutha the novice is the Chosen One. He wants peace and justice and brotherly love.\r\n\r\nHe also wants the Inquisition to stop torturing him now, please...",
+            "rating": 4.285882352941177,
+            "ratings_count": 425,
+            "pages": 402,
+            "release_date": "1992-01-01",
+            "slug": "small-gods"
+          }
+        },
+        {
+          "book": {
+            "title": "The Illustrated Man",
+            "description": "The Illustrated Man is a 1951 collection of eighteen science fiction short stories by American writer Ray Bradbury. A recurring theme throughout the eighteen stories is the conflict of the cold mechanics of technology and the psychology of people. It was nominated for the International Fantasy Award in 1952.",
+            "rating": 3.898009950248756,
+            "ratings_count": 201,
+            "pages": 244,
+            "release_date": "1901-01-01",
+            "slug": "the-illustrated-man"
+          }
+        },
+        {
+          "book": {
+            "title": "I Am Legend",
+            "description": "Neville is essentially the last man on earth, and the loneliness of his situation is the central part of the story. Matheson is able to communicate Neville's emotional feelings vividly, making him very real. We gradually acquire the story of the deaths of Neville's wife and daughter, essentially experiencing the pain he goes through when these memories overcome him. We watch him drink himself into a stupor as each night finds him besieged in his fortified house, surrounded by vampires, including his old friend and neighbor, calling for him to come out. We watch him slowly lose his grip on sanity and come very close to giving up.",
+            "rating": 3.9610927152317883,
+            "ratings_count": 604,
+            "pages": 312,
+            "release_date": "1954-01-01",
+            "slug": "i-am-legend"
+          }
+        },
+        {
+          "book": {
+            "title": "Anathem",
+            "description": "Having lived in a monastery since childhood away from the violent upheavals of the outside world, Raz becomes one of a group of formerly cloistered scholars who are appointed by a fear-driven higher power to avert an impending catastrophe. By the author of Cryptonomicon. 250,000 first printing.",
+            "rating": 4.17,
+            "ratings_count": 350,
+            "pages": 1092,
+            "release_date": "2008-01-01",
+            "slug": "anathem"
+          }
+        },
+        {
+          "book": {
+            "title": "Red Mars",
+            "description": "Red Mars is the first novel of the Mars trilogy, published in 1992. It follows the beginnings of the colonization of Mars, from the arrival of the First Hundred to the First Martian Revolution.",
+            "rating": 3.7906626506024095,
+            "ratings_count": 332,
+            "pages": 671,
+            "release_date": "1992-01-01",
+            "slug": "red-mars"
+          }
+        },
+        {
+          "book": {
+            "title": "The Dispossessed",
+            "description": "The story takes place on the fictional planet Urras and its moon Anarres (since Anarres is massive enough to hold an atmosphere, this is often described as a double planet system). In order to forestall an anarcho-syndical workers' rebellion, the major Urrasti states gave the revolutionaries the right to live on Anarres, along with a guarantee of non-interference, approximately two hundred years before the events of The Dispossessed.[2] Before this, Anarres had had no permanent settlements apart from some mining.\r\n\r\nThe protagonist Shevek is a physicist attempting to develop a General Temporal Theory. The physics of the book describes time as having a much deeper, more complex structure than we understand it. It incorporates not only mathematics and physics, but also philosophy and ethics. The meaning of the theories in the book weaves nicely into the plot, not only describing abstract physical concepts, but the ups and downs of the characters' lives, and the transformation of the Anarresti society. An oft-quoted saying in the book is \"true journey is return.\" [3].\r\n\r\nAnarres is in theory a society without government or coercive authoritarian institutions. Yet in pursuing research that deviates from his society's current consensus understanding, Shevek begins to come up against very real obstacles. Shevek gradually develops an understanding that the revolution which brought his world into being is stagnating, and power structures are beginning to exist where there were none before. He therefore embarks on the risky journey to the original planet, Urras, seeking to open dialog between the worlds and to spread his theories freely outside of Anarres. The novel details his struggles on both Urras and his homeworld of Anarres.\r\n\r\nThe book also explores the Sapir-Whorf Hypothesis, that language shapes thinking, and thus, culture. The language spoken on the anarchist planet Anarres, Pravic, is a constructed language that reflects many aspects of the philosophical foundations of utopian anarchism. For instance, the use of the possessive case is strongly discouraged. In one scene, Shevek's daughter, meeting him for the first time, offers him \"You can share the handkerchief I use,\"[4] rather than \"you may borrow my handkerchief\", thus conveying the idea that the handkerchief is not owned by the girl, merely carried by her.[5]\r\nCover of first paperback edition\r\n\r\nThe Dispossessed looks into the mechanisms that may be developed by an anarchist society, but also the dangers of centralization and bureaucracy that might easily take over such society without the continuation of revolutionary ideology. Part of its power is that it gives a spectrum of fairly well-developed characters, who illustrate many types of personalities, all educated in an environment that measures a person not by what he owns, but by what he can do, and how he relates to other human beings. Possibly the best example of this is the character of Takver, the hero's partner, who exemplifies many virtues: loyalty, love of life and living things, perseverance, and desire for a true partnership with another person.\r\n\r\nThe work is sometimes said to represent one of the few modern revivals of the utopian genre, [6] and there are certainly many characteristics of a utopian novel found in this book. Most obviously, Shevek is an outsider in Urras, following the \"traveler\" convention common in utopian literature. All of the characters portrayed in the novel have a certain spirituality or intelligence, there are no nondescript characters. It is also true to say that there are aspects of Anarres that are utopian: it is presented as a pure society that adheres to its own theories and ideals, which are starkly juxtaposed with Urras society.\r\n\r\nHowever, the work is subtitled \"An Ambiguous Utopia\", and one of the major themes of the work is the ambiguity of different notions of utopia. Anarres is not presented as a perfect society, even within the constraints of what might define an anarchist utopia. Bureaucracy, stagnation, and power structures have problematized the revolution, as Shevek understands through the course of the novel. Moreover, Le Guin has painted a very stark picture of the natural and environmental constraints on society. Anarres citizens are forced to contend with a relatively sparse and unfruitful world. Hardship caused by lack of resources is a prominent theme, reflected in the title of the novel. Anarres citizens are dispossessed not just by political choice, but by the very lack of resources to possess. Here, again, Le Guin draws a contrast with the natural wealth of Urras, and the competitive behaviors this fosters. Le Guin's foreword to the novel notes that her anarchism is closely akin to that of Pyotr Kropotkin's, whose Mutual Aid closely assessed the influence of the natural world on competition and cooperation.[7] Le Guin's use of realism in this aspect of the work further problematizes — ambiguates — a simple utopian interpretation of the work. Anarres is not a perfect society, and Le Guin shows that no such thing is possible.",
+            "rating": 4.175619834710743,
+            "ratings_count": 484,
+            "pages": 400,
+            "release_date": "1974-01-01",
+            "slug": "the-dispossessed"
+          }
+        },
+        {
+          "book": {
+            "title": "Do Androids Dream of Electric Sheep?",
+            "description": "By 2021, the World War has killed millions, driving entire species into extinction and sending mankind off-planet. Those who remain covet any living creature, and for people who can’t afford one, companies built incredibly realistic simulacra: horses, birds, cats, sheep. They’ve even built humans. Immigrants to Mars receive androids so sophisticated they are indistinguishable from true men or women. Fearful of the havoc these artificial humans can wreak, the government bans them from Earth. Driven into hiding, unauthorized androids live among human beings, undetected. Rick Deckard, an officially sanctioned bounty hunter, is commissioned to find rogue androids and “retire” them. But when cornered, androids fight back—with lethal force.",
+            "rating": 3.9605034722222223,
+            "ratings_count": 1152,
+            "pages": 223,
+            "release_date": "1968-01-01",
+            "slug": "do-androids-dream-of-electric-sheep"
+          }
+        },
+        {
+          "book": {
+            "title": "Journey to the Center of the Earth",
+            "description": "Three explorers descend to the center of the earth, where they encounter tumultuous storms, wild prehistoric animals, and fierce cavemen.",
+            "rating": 3.7248062015503876,
+            "ratings_count": 258,
+            "pages": 242,
+            "release_date": "1864-01-01",
+            "slug": "journey-to-the-center-of-the-earth-1864"
+          }
+        },
+        {
+          "book": {
+            "title": "Foundation Series",
+            "description": "Foundation begins a new chapter in the story of man's future. As the Old Empire crumbles into barbarism throughout the million worlds of the galaxy, Hari Seldon and his band of psychologists must create a new entity, the Foundation-dedicated to art, science, and technology-as the beginning of a new empire.\n\nFoundation and Empire describes the mighty struggle for power amid the chaos of the stars in which man stands at the threshold of a new enlightened life which could easily be destroyed by the old forces of barbarism.\n\nSecond Foundation follows the Seldon Plan after the First Empire's defeat and describes its greatest threat-a dangerous mutant strain gone wild, which produces a mind capable of bending men's wills, directing their thoughts, reshaping their desires, and destroying the universe.",
+            "rating": 4.245,
+            "ratings_count": 200,
+            "pages": 679,
+            "release_date": "1950-01-01",
+            "slug": "foundation-series-1950"
+          }
+        },
+        {
+          "book": {
+            "title": "The Princess Bride",
+            "description": "*The Princess Bride is a timeless tale that pits country against country, good against evil, love against hate. This incredible journey and artfully rendered love story is peppered with strange beasties monstrous and gentle, memorable surprises both terrible and sublime, and such unforgettable characters as...*\r\n\r\n**Westley**, the handsome farm boy who risks death (and much worse) for the woman he loves; **Inigo**, the Spanish swordsman who lives only to avenge his father's death; **Fezzik**, the gentlest giant ever to have uprooted a tree with his bear hands; **Vizzini**, the evil Sicilian, with a mind so keen he's foiled by his own perfect logic; **Prince Humperdinck**, the eviler ruler of Guilder, who has an equally insatiable thirst for war and beauteous Buttercup; **Count Rugen**, the evilest man of all, who thrives on the excruciating pain of others; **Miracle Max**, the King's ex-Miracle Man, who can raise the dead (kind of); and, of course, **Buttercup**... the princess bride, the most perfect, beautiful woman in the history of the world!",
+            "rating": 4.168838862559242,
+            "ratings_count": 844,
+            "pages": 399,
+            "release_date": "1973-01-01",
+            "slug": "the-princess-bride"
+          }
+        },
+        {
+          "book": {
+            "title": "Perdido Street Station",
+            "description": "Beneath the towering bleached ribs of a dead, ancient beast lies New Crobuzon, a squalid city where humans, Re-mades, and arcane races live in perpetual fear of Parliament and its brutal militia. The air and rivers are thick with factory pollutants and the strange effluents of alchemy, and the ghettos contain a vast mix of workers, artists, spies, junkies, and whores. In New Crobuzon, the unsavory deal is stranger to none—not even to Isaac, a brilliant scientist with a penchant for Crisis Theory.\r\n\r\nIsaac has spent a lifetime quietly carrying out his unique research. But when a half-bird, half-human creature known as the Garuda comes to him from afar, Isaac is faced with challenges he has never before fathomed. Though the Garuda's request is scientifically daunting, Isaac is sparked by his own curiosity and an uncanny reverence for this curious stranger.\r\n\r\nWhile Isaac's experiments for the Garuda turn into an obsession, one of his lab specimens demands attention: a brilliantly colored caterpillar that feeds on nothing but a hallucinatory drug and grows larger—and more consuming—by the day. What finally emerges from the silken cocoon will permeate every fiber of New Crobuzon—and not even the Ambassador of Hell will challenge the malignant terror it invokes . . .\r\n\r\nA magnificent fantasy rife with scientific splendor, magical intrigue, and wonderfully realized characters, told in a storytelling style in which Charles Dickens meets Neal Stephenson, Perdido Street Station offers an eerie, voluptuously crafted world that will plumb the depths of every reader's imagination.",
+            "rating": 4.001602564102564,
+            "ratings_count": 312,
+            "pages": null,
+            "release_date": "2000-03-01",
+            "slug": "perdido-street-station"
+          }
+        },
+        {
+          "book": {
+            "title": "Old Man's War",
+            "description": "John Perry did two things on his 75th birthday. First he visited his wife's grave. Then he joined the army.\n\nThe good news is that humanity finally made it into interstellar space. The bad news is that planets fit to live on are scarce-- and alien races willing to fight us for them are common. So: we fight. To defend Earth, and to stake our own claim to planetary real estate. Far from Earth, the war has been going on for decades: brutal, bloody, unyielding.\n\nEarth itself is a backwater. The bulk of humanity's resources are in the hands of the Colonial Defense Force. Everybody knows that when you reach retirement age, you can join the CDF. They don't want young people; they want people who carry the knowledge and skills of decades of living. You'll be taken off Earth and never allowed to return. You'll serve two years at the front. And if you survive, you'll be given a generous homestead stake of your own, on one of our hard-won colony planets.\n\nJohn Perry is taking that deal. He has only the vaguest idea what to expect. Because the actual fight, light-years from home, is far, far harder than he can imagine--and what he will become is far stranger.",
+            "rating": 4.14957264957265,
+            "ratings_count": 936,
+            "pages": 320,
+            "release_date": "2005-01-01",
+            "slug": "old-mans-war-2005"
+          }
+        },
+        {
+          "book": {
+            "title": "The Caves of Steel",
+            "description": "\"A Del Rey book.\" \r\n\r\nIt was bad enough when Lije Baley, a simple plainclothes cop, was ordered to solve a totally baffling mystery - the murder of a prominent Spacer. It was worse when he found that the smug, self-satisfied Spacers were behind the pressure to provide an impossibly quick solution.\r\n\r\nBut then Lije discovered the worst of all bad news. The Spacers, distrusting all Earthmen, insisted he must work with an investigator of their choice. And that investigator turned out to be R. Daneel Olivaw. R stood for robot--and Lije hated and feared robots deeply, bitterly and pathologically.\r\n\r\nIssac Asimov's The Naked Sun and The Caves of Steel are two of the most famous science-fiction novels ever. They are set long after mankind - aided by the positronic robot - has colonized the worlds of other suns. This is a time of growing concern between Earthmen and Spacers. Lije Baley, who is filled with all Earths prejudice agains robots and Spacers, must learn to work together with a seemingly human robot to solve apparently impossible crimes that threaten the fragile link between Earth and Space.",
+            "rating": 4.044198895027624,
+            "ratings_count": 362,
+            "pages": 189,
+            "release_date": "1952-01-01",
+            "slug": "the-caves-of-steel"
+          }
+        },
+        {
+          "book": {
+            "title": "Dune",
+            "description": "Set on the desert planet Arrakis, Dune is the story of Paul Atreides--who would become known as Muad'Dib--and of a great family's ambition to bring to fruition mankind's most ancient and unattainable dream.\nA stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction.",
+            "rating": 4.296175511414171,
+            "ratings_count": 3373,
+            "pages": 704,
+            "release_date": "1965-01-01",
+            "slug": "dune"
+          }
+        },
+        {
+          "book": {
+            "title": "Neuromancer",
+            "description": "Case was the sharpest data-thief in the matrix—until he crossed the wrong people and they crippled his nervous system, banishing him from cyberspace. Now a mysterious new employer has recruited him for a last-chance run at an unthinkably powerful artificial intelligence. With a dead man riding shotgun and Molly, a mirror-eyed street-samurai, to watch his back, Case is ready for the adventure that upped the ante on an entire genre of fiction.\n\nNeuromancer was the first fully-realized glimpse of humankind’s digital future—a shocking vision that has challenged our assumptions about technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations.",
+            "rating": 3.803341902313625,
+            "ratings_count": 1167,
+            "pages": 271,
+            "release_date": "1984-01-01",
+            "slug": "neuromancer"
+          }
+        },
+        {
+          "book": {
+            "title": "Gardens of the Moon",
+            "description": "Vast legions of gods, mages, humans, dragons and all manner of creatures play out the fate of the Malazan Empire in this first book in a major epic fantasy series\n\nThe Malazan Empire simmers with discontent, bled dry by interminable warfare, bitter infighting and bloody confrontations with the formidable Anomander Rake and his Tiste Andii, ancient and implacable sorcerers. Even the imperial legions, long inured to the bloodshed, yearn for some respite. Yet Empress Laseen's rule remains absolute, enforced by her dread Claw assassins. \n\nFor Sergeant Whiskeyjack and his squad of Bridgeburners, and for Tattersail, surviving cadre mage of the Second Legion, the aftermath of the siege of Pale should have been a time to mourn the many dead. But Darujhistan, last of the Free Cities of Genabackis, yet holds out. It is to this ancient citadel that Laseen turns her predatory gaze. \n\nHowever, it would appear that the Empire is not alone in this great game. Sinister, shadowbound forces are gathering as the gods themselves prepare to play their hand... \n\nConceived and written on a panoramic scale, Gardens of the Moon is epic fantasy of the highest order--an enthralling adventure by an outstanding new voice.",
+            "rating": 3.9722222222222223,
+            "ratings_count": 540,
+            "pages": 559,
+            "release_date": "1999-04-01",
+            "slug": "gardens-of-the-moon"
+          }
+        },
+        {
+          "book": {
+            "title": "Dragonflight",
+            "description": "On a beautiful world called Pern, Lessa is an outcast survivor—her parents murdered, her birthright stolen—a fierce young woman who has never stopped dreaming of revenge. That is, until an ambitious young dragonrider, F’lar, offers her something even greater: the chance to lead Pern at his side by Impressing a golden dragon with whom she will share a telepathic bond more intimate than any human connection. Although there is also her intense relationship with F’lar himself.\n \nBut Lessa’s fierceness and courage will be put to the test when an ancient scourge returns to the land: a deadly silver spore that falls from the sky, destroying all it touches. Only dragons can fight this Thread, and there are not enough dragons to protect all of Pern. Lessa and her dragon may hold the key to their world’s salvation . . . but executing her daring plan may be costlier than she ever envisioned.",
+            "rating": 3.8089430894308944,
+            "ratings_count": 246,
+            "pages": 356,
+            "release_date": "1968-01-01",
+            "slug": "dragonflight-1968"
+          }
+        },
+        {
+          "book": {
+            "title": "The War of the Worlds",
+            "description": "The War of the Worlds is the first-person narrative of an unnamed protagonist in Surrey and that of his younger brother in London as Earth is invaded by Martians. Written between 1895 and 1897, it is one of the earliest stories that detail a conflict between mankind and an extraterrestrial race. The novel is one of the most commented-on works in the science fiction canon.\n\nThe narrator, a philosophically inclined author, struggles to return to his wife while seeing the Martians lay waste to the southern country outside London. Book One also imparts the experience of his brother, also unnamed, who describes events as they deteriorate in the capital, forcing him to escape the Martian onslaught by boarding a paddle steamer near Tilling ham, on the Essex coast.",
+            "rating": 3.7418181818181817,
+            "ratings_count": 550,
+            "pages": 192,
+            "release_date": "1897-01-01",
+            "slug": "the-war-of-the-worlds"
+          }
+        },
+        {
+          "book": {
+            "title": "Wicked",
+            "description": "A fable for adults on the subject of destiny and free will by a writer of children's books. It tells the story of Elphaba before she became the Wicked Witch of the West in the land of Oz. The novel traces her career as nun, nurse, pro-democracy activist and animal rights defender.",
+            "rating": 3.3850687622789786,
+            "ratings_count": 509,
+            "pages": 519,
+            "release_date": "1995-01-01",
+            "slug": "wicked"
+          }
+        },
+        {
+          "book": {
+            "title": "Heir to the Empire",
+            "description": "It's five years after Return of the Jedi: the Rebel Alliance has destroyed the Death Star, defeated Darth Vader and the Emperor, and driven out the remnants of the old Imperial Starfleet to a distant corner of the galaxy. Princess Leia and Han Solo are married and expecting Jedi Twins. And Luke Skywalker has become the first in a long-awaited line of Jedi Knights. \r\n\r\nBut thousand of light-years away, the last of the emperor's warlords has taken command of the shattered Imperial Fleet, readied it for war, and pointed it at the fragile heart of the new Republic. For this dark warrior has made two vital discoveries that could destroy everything the courageous men and women of the Rebel Alliance fought so hard to build. The explosive confrontation that results is a towering epic of action, invention, mystery, and spectacle on a galactic scale--in short, a story worthy of the name Star Wars.",
+            "rating": 4.02542372881356,
+            "ratings_count": 354,
+            "pages": 528,
+            "release_date": "1991-01-01",
+            "slug": "heir-to-the-empire"
+          }
+        },
+        {
+          "book": {
+            "title": "Animal Farm",
+            "description": "Animal Farm is a brilliant political satire and a powerful and affecting story of revolutions and idealism, power and corruption. 'All animals are equal. But some animals are more equal than others.' Mr Jones of Manor Farm is so lazy and drunken that one day he forgets to feed his livestock. The ensuing rebellion under the leadership of the pigs Napoleon and Snowball leads to the animals taking over the farm. Vowing to eliminate the terrible inequities of the farmyard, the renamed Animal Farm is organised to benefit all who walk on four legs. But as time passes, the ideals of the rebellion are corrupted, then forgotten. And something new and unexpected emerges..",
+            "rating": 4.054027777777778,
+            "ratings_count": 3600,
+            "pages": 122,
+            "release_date": "1945-01-01",
+            "slug": "animal-farm"
+          }
+        },
+        {
+          "book": {
+            "title": "A Canticle for Leibowitz",
+            "description": "In a nightmarish ruined world slowly awakening to the light after sleeping in darkness, the infant rediscoveries of science are secretly nourished by cloistered monks dedicated to the study and preservation of the relics and writings of the blessed Saint Isaac Leibowitz. From here the story spans centuries of ignorance, violence, and barbarism, viewing through a sharp, satirical eye the relentless progression of a human race damned by its inherent humanness to recelebrate its grand foibles and repeat its grievous mistakes.",
+            "rating": 3.912742382271468,
+            "ratings_count": 361,
+            "pages": 334,
+            "release_date": "1959-01-01",
+            "slug": "a-canticle-for-leibowitz"
+          }
+        },
+        {
+          "book": {
+            "title": "Magician: Apprentice",
+            "description": "An orphaned kitchen boy named Pug becomes selected as the Kingdom of Midkemia's apprentice to the local sorcerer.  A rift opens between this world and another and a great war rages between the two. Pug is captured and a secret magic within him discovered as that war between the two planets continues.  There is great magic, fantasy and personal connections between memorable characters.",
+            "rating": 3.9972602739726026,
+            "ratings_count": 365,
+            "pages": 485,
+            "release_date": "1982-01-01",
+            "slug": "magician-apprentice"
+          }
+        },
+        {
+          "book": {
+            "title": "Homeland",
+            "description": "Drow ranger Drizzt Do'Urden, first introduced in The Icewind Dale Trilogy, quickly became one of the fantasy genre's standout characters. But Homeland first reveals the startling tale of how this one lone drow walked out of the shadowy depths of the Underdark, leaving behind a society of evil and a family who want him dead. It is here that the story of this amazing dark elf truly began.\r\n\r\n----------\r\n\r\n\r\n**This book is in the following series:**\r\n \r\n - Forgotten Realms\r\n - The Legend Of Drizzt | Book 1\r\n -  Dark Elf trilogy | Book 1",
+            "rating": 3.953917050691244,
+            "ratings_count": 217,
+            "pages": 343,
+            "release_date": "1990-01-01",
+            "slug": "homeland"
+          }
+        },
+        {
+          "book": {
+            "title": "Mistborn: The Final Empire",
+            "description": "What if the whole world were a dead, blasted wasteland?\r\n\r\nMistborn\r\nFor a thousand years the ash fell and no flowers bloomed. For a thousand years the Skaa slaved in misery and lived in fear. For a thousand years the Lord Ruler, the \"Sliver of Infinity,\" reigned with absolute power and ultimate terror, divinely invincible. Then, when hope was so long lost that not even its memory remained, a terribly scarred, heart-broken half-Skaa rediscovered it in the depths of the Lord Ruler's most hellish prison. Kelsier \"snapped\" and found in himself the powers of a Mistborn. A brilliant thief and natural leader, he turned his talents to the ultimate caper, with the Lord Ruler himself as the mark.\r\n\r\nKelsier recruited the underworld's elite, the smartest and most trustworthy allomancers, each of whom shares one of his many powers, and all of whom relish a high-stakes challenge. Then Kelsier reveals his ultimate dream, not just the greatest heist in history, but the downfall of the divine despot.\r\n\r\nBut even with the best criminal crew ever assembled, Kel's plan looks more like the ultimate long shot, until luck brings a ragged girl named Vin into his life. Like him, she's a half-Skaa orphan, but she's lived a much harsher life. Vin has learned to expect betrayal from everyone she meets. She will have to learn trust if Kel is to help her master powers of which she never dreamed.\r\n\r\nBrandon Sanderson, fantasy's newest master tale-spinner and author of the acclaimed debut Elantris, dares to turn a genre on its head by asking a simple question: What if the prophesied hero failed to defeat the Dark Lord? The answer will be found in the Misborn Trilogy, a saga of surprises that begins with the book in your hands. Fantasy will never be the same again.",
+            "rating": 4.461509992598075,
+            "ratings_count": 2702,
+            "pages": 541,
+            "release_date": "2006-01-01",
+            "slug": "mistborn"
+          }
+        },
+        {
+          "book": {
+            "title": "2001: A Space Odyssey",
+            "description": "From the savannas of Africa at the dawn of mankind to the rings of Saturn as man ventures to the outer rim of our solar system, 2001: A Space Odyssey is a journey unlike any other.\n\nThis allegory about humanity’s exploration of the universe—and the universe’s reaction to humanity—is a hallmark achievement in storytelling that follows the crew of the spacecraft Discovery as they embark on a mission to Saturn. Their vessel is controlled by HAL 9000, an artificially intelligent supercomputer capable of the highest level of cognitive functioning that rivals—and perhaps threatens—the human mind.\n\nGrappling with space exploration, the perils of technology, and the limits of human power, 2001: A Space Odyssey continues to be an enduring classic of cinematic scope.",
+            "rating": 4.064356435643564,
+            "ratings_count": 707,
+            "pages": 221,
+            "release_date": "1968-01-01",
+            "slug": "2001"
+          }
+        },
+        {
+          "book": {
+            "title": "Brave New World",
+            "description": "\"Aldous Huxley's profoundly important classic of world literature, Brave New World is a searching vision of an unequal, technologically-advanced future where humans are genetically bred, socially indoctrinated, and pharmaceutically anesthetized to passively uphold an authoritarian ruling order–all at the cost of our freedom, full humanity, and perhaps also our souls. “A genius [who] who spent his life decrying the onward march of the Machine” (The New Yorker), Huxley was a man of incomparable talents: equally an artist, a spiritual seeker, and one of history’s keenest observers of human nature and civilization. Brave New World, his masterpiece, has enthralled and terrified millions of readers, and retains its urgent relevance to this day as both a warning to be heeded as we head into tomorrow and as thought-provoking, satisfying work of literature.\"-- Provided by Amazon",
+            "rating": 3.888005452067242,
+            "ratings_count": 2201,
+            "pages": 332,
+            "release_date": "1900-01-01",
+            "slug": "brave-new-world"
+          }
+        },
+        {
+          "book": {
+            "title": "The Moon Is a Harsh Mistress",
+            "description": "It is the late 21st Century and the Moon has been colonized -- as a giant, open, prison.  Every aspect of life is overseen by the Federated Nations \"Lunar Authority\"; until one day when a self-aware Super-Computer, a Jack of all Trades Technician, an Anarchist Professor, and a beautiful Blonde Revolutionary decide to change their world.  The conspirators' plans go along beautifully...for a while.\r\n\r\nTANSTAAFL! There ain't no such thing as a free lunch! Robert A. Heinlein was the most influential science fiction writer of his era, an influence so large that, as Samuel R. Delany notes, \"modern critics attempting to wrestle with that influence feel themselves dealing with an object rather like the sky or an ocean.\" He won the Hugo Award for best novel four times, a record that still stands. The Moon Is a Harsh Mistress was the last of these Hugo-winning novels, and it is widely considered his finest work. It is a tale of revolution, of the rebellion of the former Lunar penal colony against the Lunar Authority that controls it from Earth. It is the tale of the disparate people -- a computer technician, a vigorous young female agitator, and an elderly academic -- who become the rebel movement's leaders. And it is the story of Mike, the supercomputer whose sentience is known only to this inner circle, and who for reasons of his own is committed to the revolution's ultimate success. The Moon Is a Harsh Mistress is one of the high points of modern science fiction, a novel bursting with politics, humanity, passion, innovative technical speculation, and a firm belief in the pursuit of human freedom. - Back cover.",
+            "rating": 3.8863636363636362,
+            "ratings_count": 352,
+            "pages": 288,
+            "release_date": "1963-01-01",
+            "slug": "the-moon-is-a-harsh-mistress"
+          }
+        },
+        {
+          "book": {
+            "title": "Fahrenheit 451",
+            "description": "Guy Montag is a fireman. His job is to burn books, which are forbidden, being the source of all discord and unhappiness. Even so, Montag is unhappy; there is discord in his marriage. Are books hidden in his house? The Mechanical Hound of the Fire Department, armed with a lethal hypodermic, escorted by helicopters, is ready to track down those dissidents who defy society to preserve and read books.\n\nThe classic dystopian novel of a post-literate future, Fahrenheit 451 stands alongside Orwell’s 1984 and Huxley’s Brave New World as a prophetic account of Western civilization’s enslavement by the media, drugs and conformity.\n\nBradbury’s powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock.",
+            "rating": 3.905083540703875,
+            "ratings_count": 2813,
+            "pages": 227,
+            "release_date": "1953-01-01",
+            "slug": "fahrenheit-451"
+          }
+        },
+        {
+          "book": {
+            "title": "The Stand",
+            "description": "Stephen King's apocalyptic vision of a world blasted by virus and tangled in an elemental struggle between good and evil remains as riveting and eerily plausible as when it was first published. Soon to be a television series. 'THE STAND is a masterpiece' (Guardian). Set in a virus-decimated US, King's thrilling American fantasy epic, is a Classic. First come the days of the virus. Then come the dreams. Dark dreams that warn of the coming of the dark man. The apostate of death, his worn-down boot heels tramping the night roads. The warlord of the charnel house and Prince of Evil. His time is at hand. His empire grows in the west and the Apocalypse looms. When a man crashes his car into a petrol station, he brings with him the foul corpses of his wife and daughter. He dies and it doesn't take long for the virus which killed him to spread across America and the world.",
+            "rating": 4.166666666666667,
+            "ratings_count": 1017,
+            "pages": 1553,
+            "release_date": "1978-01-01",
+            "slug": "the-stand"
+          }
+        },
+        {
+          "book": {
+            "title": "Something Wicked This Way Comes",
+            "description": "Few American novels written this century have endured in the heart and memory as has Ray Bradbury's unparalleled literary classic SOMETHING WICKED THIS WAY COMES. For those who still dream and remember, for those yet to experience the hypnotic power of its dark poetry, step inside. The show is about to begin.\r\n\r\nThe carnival rolls in sometime after midnight, ushering in Halloween a week early. The shrill siren song of a calliope beckons to all with a seductive promise of dreams and youth regained. In this season of dying, Cooger & Dark's Pandemonium Shadow Show has come to Green Town, Illinois, to destroy every life touched by its strange and sinister mystery. And two boys will discover the secret of its smoke, mazes, and mirrors; two friends who will soon know all too well the heavy cost of wishes. . .and the stuff of nightmare.",
+            "rating": 3.8805031446540883,
+            "ratings_count": 318,
+            "pages": 312,
+            "release_date": "1962-01-01",
+            "slug": "something-wicked-this-way-comes"
+          }
+        },
+        {
+          "book": {
+            "title": "The Handmaid's Tale",
+            "description": "\"In Margaret Atwood’s dystopian future, environmental disasters and declining birthrates have led to a Second American Civil War. The result is the rise of the Republic of Gilead, a totalitarian regime that enforces rigid social roles and enslaves the few remaining fertile women. Offred is one of these, a Handmaid bound to produce children for one of Gilead’s commanders. Deprived of her husband, her child, her freedom, and even her own name, Offred clings to her memories and her will to survive.\"-- Provided by Amazon",
+            "rating": 4.086829268292683,
+            "ratings_count": 2050,
+            "pages": 224,
+            "release_date": "1985-01-01",
+            "slug": "the-handmaids-tale"
+          }
+        },
+        {
+          "book": {
+            "title": "The Left Hand of Darkness",
+            "description": "Ursula K. Le Guin’s groundbreaking work of science fiction—winner of the Hugo and Nebula Awards.\n\nA lone human ambassador is sent to the icebound planet of Winter, a world without sexual prejudice, where the inhabitants’ gender is fluid. His goal is to facilitate Winter’s inclusion in a growing intergalactic civilization. But to do so he must bridge the gulf between his own views and those of the strange, intriguing culture he encounters...\n\nEmbracing the aspects of psychology, society, and human emotion on an alien world, The Left Hand of Darkness stands as a landmark achievement in the annals of intellectual science fiction.",
+            "rating": 4.047712418300653,
+            "ratings_count": 765,
+            "pages": 267,
+            "release_date": "1969-01-01",
+            "slug": "the-left-hand-of-darkness"
+          }
+        },
+        {
+          "book": {
+            "title": "The Lord of the Rings",
+            "description": "Originally published from 1954 through 1956, J.R.R. Tolkien's richly complex series ushered in a new age of epic adventure storytelling. A philologist and illustrator who took inspiration from his work, Tolkien invented the modern heroic quest novel from the ground up, creating not just a world, but a domain, not just a lexicon, but a language, that would spawn countless imitators and lead to the inception of the epic fantasy genre. Today, THE LORD OF THE RINGS is considered \"the most influential fantasy novel ever written.\" (THE ENCYCLOPEDIA OF FANTASY)\n\nDuring his travels across Middle-earth, the hobbit Bilbo Baggins had found the Ring. But the simple band of gold was far from ordinary; it was in fact the One Ring - the greatest of the ancient Rings of Power. Sauron, the Dark Lord, had infused it with his own evil magic, and when it was lost, he was forced to flee into hiding.\n\nBut now Sauron's exile has ended and his power is spreading anew, fueled by the knowledge that his treasure has been found. He has gathered all the Great Rings to him, and will stop at nothing to reclaim the One that will complete his dominion. The only way to stop him is to cast the Ruling Ring deep into the Fire-Mountain at the heart of the land of Mordor--Sauron's dark realm.\n\nFate has placed the burden in the hands of Frodo Baggins, Bilbo's heir...and he is resolved to bear it to its end. Or his own.",
+            "rating": 4.548922800718133,
+            "ratings_count": 1114,
+            "pages": 1178,
+            "release_date": "1954-01-01",
+            "slug": "the-lord-of-the-rings"
+          }
+        },
+        {
+          "book": {
+            "title": "The Name of the Wind",
+            "description": "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen.\r\n\r\nThe intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature.\r\n\r\nA high-action story written with a poet's hand, The Name of the Wind is a masterpiece that will transport readers into the body and mind of a wizard.",
+            "rating": 4.431762395679922,
+            "ratings_count": 2037,
+            "pages": 669,
+            "release_date": "2007-01-01",
+            "slug": "the-name-of-the-wind"
+          }
+        },
+        {
+          "book": {
+            "title": "Starship Troopers",
+            "description": "Starship Troopers takes place in the midst of an interstellar war between the Terran Federation of Earth and the Arachnids (referred to as \"The Bugs\") of Klendathu. It is narrated as a series of flashbacks by Juan Rico, and is one of only a few Heinlein novels set out in this fashion.  The novel opens with Rico aboard the corvette  Rodger Young, about to embark on a raid against the planet of the \"Skinnies,\" who are allies of the Arachnids. We learn that he is a cap(sule) trooper in the Terran Federation's Mobile Infantry. The raid itself, one of the few instances of actual combat in the novel, is relatively brief: the Mobile Infantry land on the planet, destroy their targets, and retreat, suffering a single casualty in the process.\r\n\r\nThe story then flashes back to Rico's graduation from high school, and his decision to sign up for Federal Service over the objections of his father. This is the only chapter that describes Rico's civilian life, and most of it is spent on the monologues of two people: retired Lt. Col. Jean V. Dubois, Rico's school instructor in \"History and Moral Philosophy,\" and Fleet Sergeant Ho, a recruiter for the armed forces of the Terran Federation.\r\n\r\nDubois serves as a stand-in for Heinlein throughout the novel, and delivers what is probably the book's most famous soliloquy on violence, and how it \"has settled more issues in history than has any other factor.\" Fleet Sergeant Ho's monologues examine the nature of military service, and his anti-military tirades appear in the book primarily as a contrast with Dubois. (It is later revealed that his rants are calculated to scare off the weaker applicants).\r\n\r\nInterspersed throughout the book are other flashbacks to Rico's high school History and Moral Philosophy course, which describe how in the Terran Federation of Rico's day, the rights of a full Citizen (to vote, and hold public office) must be earned through some form of volunteer Federal service. Those residents who have not exercised their right to perform this Federal Service retain the other rights generally associated with a modern democracy (free speech, assembly, etc.), but they cannot vote or hold public office. This structure arose ad hoc after the collapse of the 20th century Western democracies, brought on by both social failures at home and military defeat by the Chinese Hegemony overseas (assumed looking forward into the late 20th century from the time the novel was written in the late 1950s).\r\n\r\nIn the next section of the novel Rico goes to boot camp at Camp Arthur Currie, on the northern prairies. Five chapters are spent exploring Rico's experience entering the service under the training of his instructor, Career Ship's Sergeant Charles Zim. Camp Currie is so rigorous that less than ten percent of the recruits finish basic training; the rest either resign, are expelled, or die in training. One of the chapters deals with Ted Hendrick, a fellow recruit and constant complainer who is flogged and expelled for striking a superior officer. Another recruit, a deserter who committed a heinous crime while AWOL, is hanged by his battalion. Rico himself is flogged for poor handling of (simulated) nuclear weapons during a drill; despite these experiences he eventually graduates and is assigned to a unit.\r\n\r\nAt some point during Rico's training, the 'Bug War' has begun to brew, and Rico finds himself taking part in combat operations. The war \"officially\" starts with an Arachnid attack that annihilates the city of Buenos Aires, although Rico makes it clear that prior to the attack there were plenty of \"'incidents,' 'patrols,' or 'police actions.'\" Rico briefly describes the Terran Federation's loss at the Battle of Klendathu where his unit is decimated and his ship destroyed. Following Klendathu, the Terran Federation is reduced to making hit-and-run raids similar to the one described at the beginning of the novel (which, chronologically would be placed between Chapters 10 and 11). Rico meanwhile finds himself posted to Rasczak's Roughnecks, named after Lieutenant Rasczak (his first name is never given). This part of the book focuses on the daily routine of military life, as well as the relationship between officers and non-commissioned officers, personified in this case by Rasczak and Sergeant Jelal.\r\n\r\nEventually, Rico decides to become a career soldier and attends Officer Candidate School, which turns out to be just like boot camp, only \"squared and cubed with books added.\"[15] Rico is commissioned a temporary Third Lieutenant as a field-test final exam and commands his own unit during Operation Royalty; eventually he graduates as a Second Lieutenant and full-fledged officer.\r\n\r\nThe final chapter serves as more of a coda, depicting Rico aboard the Rodger Young as the lieutenant in command of Rico's Roughnecks, preparing to drop to Klendathu as part of a major strike, with his father (having joined the Service earlier in the novel) as his senior sergeant and a Third Lieutenant-in-training of his own under his wing.",
+            "rating": 3.7955801104972378,
+            "ratings_count": 543,
+            "pages": 292,
+            "release_date": "1959-01-01",
+            "slug": "starship-troopers"
+          }
+        },
+        {
+          "book": {
+            "title": "1984",
+            "description": "Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes. But as he starts to think for himself, Winston can’t escape the fact that Big Brother is always watching...\n\nA startling and haunting novel, 1984 creates an imaginary world that is completely convincing from start to finish. No one can deny the novel’s hold on the imaginations of whole generations, or the power of its admonitions—a power that seems to grow, not lessen, with the passage of time.",
+            "rating": 4.2211683552489765,
+            "ratings_count": 4639,
+            "pages": 304,
+            "release_date": "1949-01-01",
+            "slug": "1984"
+          }
+        },
+        {
+          "book": {
+            "title": "Furies of Calderon",
+            "description": "In this extraordinary fantasy epic, the #1 New York Times bestselling author of the Dresden Files leads readers into a world where the fate of the realm rests on the shoulders of a boy with no power to call his own... For a thousand years, the people of Alera have united against the aggressive and threatening races that inhabit the world, using their unique bond with the furies—elementals of earth, air, fire, water, wood, and metal. But in the remote Calderon Valley, the boy Tavi struggles with his lack of furycrafting. At fifteen, he has no wind fury to help him fly, no fire fury to light his lamps. Yet as the Alerans’ most savage enemy—the Marat horde—return to the Valley, Tavi’s courage and resourcefulness will be a power greater than any fury, one that could turn the tides of war...",
+            "rating": 3.9375,
+            "ratings_count": 280,
+            "pages": 516,
+            "release_date": "2004-01-01",
+            "slug": "furies-of-calderon"
+          }
+        },
+        {
+          "book": {
+            "title": "The Way of Kings",
+            "description": "From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, book one of The Stormlight Archive begins an incredible new saga of epic proportion.\n\nRoshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter.\n\nIt has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them.\n\nOne such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable.\n\nBrightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called The Way of Kings. Troubled by over-powering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity.\n\nAcross the ocean, an untried young woman named Shallan seeks to train under an eminent scholar and notorious heretic, Dalinar's niece, Jasnah. Though she genuinely loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war.\n\nThe result of over ten years of planning, writing, and world-building, The Way of Kings is but the opening movement of the Stormlight Archive, a bold masterpiece in the making.\n\nSpeak again the ancient oaths:\n\nLife before death.\nStrength before weakness.\nJourney before Destination.\n\nand return to men the Shards they once bore.\n\nThe Knights Radiant must stand again.",
+            "rating": 4.619756097560976,
+            "ratings_count": 2050,
+            "pages": 1007,
+            "release_date": "2010-01-01",
+            "slug": "the-way-of-kings"
+          }
+        },
+        {
+          "book": {
+            "title": "Cryptonomicon",
+            "description": "E-book extras: \"Stephensonia/Cryptonomica\": ONE: \"Cryptonomicon Cypher-FAQ\" (Neal addresses \"Frequently Anticipated Questions\" and other fascinating facts); TWO: \"Mother Earth Motherboard\" (Neal's landmark nonfiction account of, among other techno-feats, the laying of the longest telecommunications cable on earth); THREE: \"Press Conference\": Neal answers \"Why write about crypto?\" and other penetrating questions.The smash New York Times bestseller and cult classic is at last a special-features-loaded e-book. Dashing between World War II and the present day, Cryptonomicon is an epic adventure of codemakers and codebreakers; soldiers, hackers, spies, pirates, lovers, prisoners; power, secrets, conspiracies, great escapes -- and a buried fortune in gold.\"Engrossing … insightful ... fascinating and often hysterical... Cryptonomicon is really three novels in one, featuring healthy portions of World War II adventure, cryptography, and high-tech finance, with treasure hunting thrown in for good measure... But that's only half of it.\" —USA Today \"Hell of a read.\" —WiredNeal Stephenson (Snow Crash; The Diamond Age) hacks into the secret histories of nations and the private obsessions of men, decrypting with dazzling virtuosity the forces that shaped the twentieth century — and that have led us into the twenty-first. In 1942, Lawrence Pritchard Waterhouse — mathematical genius and young Captain in the U.S. Navy — is assigned to Detachment 2702. It is an outfit so secret that only a handful of people know it exists, and some of those people have names like Churchill and Roosevelt. The mission of Waterhouse and Detachment 2702 — commanded by Marine Raider Bobby Shaftoe — is to keep the Nazis ignorant of the fact that Allied Intelligence has cracked the enemy's fabled Enigma code. It is a game, a cryptographic chess match between Waterhouse and his German counterpart, translated into action by gung-ho Shaftoe and his forces. Fast-forward to the present, where Waterhouse's crypto-hacker grandson, Randy, is attempting to create a \"data haven\" in Southeast Asia — a place where encrypted data can be stored and exchanged free of repression and scrutiny. As governments and multinationals attack the endeavor, Randy joins forces with Shaftoe's tough-as-nails granddaughter, Amy, to secretly salvage a sunken Nazi submarine that holds the key to keeping the dream of a data haven afloat. But soon their scheme brings to light a massive conspiracy with its roots in Detachment 2702, linked to an unbreakable Nazi code called Arethusa. And it will represent the path to unimaginable riches and a future of personal and digital liberty … or to universal totalitarianism reborn. A breathtaking tour de force and Neal Stephenson's most accomplished and affecting work to date, Cryptonomicon is profound and prophetic, hypnotic and hyper-driven, as it leaps forward and back between World War II and the World Wide Web, hinting all the while at a dark day-after-tomorrow. It is a work of great art, thought, and creative daring; the product of a truly iconoclastic imagination working with white-hot intensity.",
+            "rating": 4.195652173913044,
+            "ratings_count": 460,
+            "pages": 1152,
+            "release_date": "1999-01-01",
+            "slug": "cryptonomicon"
+          }
+        },
+        {
+          "book": {
+            "title": "The Sword of Shannara",
+            "description": "A young man and his brother set out on a journey to find the magical \"Sword of Shannara\".  Only the mystical sword can defeat the evil overlord and his minions.",
+            "rating": 3.3325358851674642,
+            "ratings_count": 209,
+            "pages": 670,
+            "release_date": "1976-01-01",
+            "slug": "the-sword-of-shannara"
+          }
+        },
+        {
+          "book": {
+            "title": "Cat's Cradle",
+            "description": "'All of the true things I am about to tell you are shameless lies.' Dr Felix Hoenikker, one of the founding fathers of the atomic bomb, has left a deadly legacy to the world. For he is the inventor of Ice-nine, a lethal chemical capable of freezing the entire planet. The search for its whereabouts leads to Hoenikker's three eccentric children, to a crazed dictator in the Caribbean, to madness. Will Felix Hoenikker's death wish come true? Will his last, fatal gift to humankind bring about the end that, for all of us, is nigh? Told with deadpan humour and bitter irony, Kurt Vonnegut's cult tale of global apocalypse preys on our deepest fears of witnessing the end and, worse still, surviving it . . . 'The time to read Vonnegut is just when you begin to suspect that the world is not what it appears to be. He is not only entertaining, he is electrocuting. You read him with enormous pleasure because he makes your hair stand on end' The New York Times",
+            "rating": 4.090909090909091,
+            "ratings_count": 803,
+            "pages": 192,
+            "release_date": "1963-01-01",
+            "slug": "cats-cradle"
+          }
+        },
+        {
+          "book": {
+            "title": "Assassin's Apprentice",
+            "description": "In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma.\n\nBorn on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility.\n\nSo when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.",
+            "rating": 4.124675324675325,
+            "ratings_count": 770,
+            "pages": 400,
+            "release_date": "1995-01-01",
+            "slug": "assassins-apprentice"
+          }
+        },
+        {
+          "book": {
+            "title": "Elric of Melniboné and Other Stories",
+            "description": "**Elric of Melniboné** is a 1972 fantasy novel by **Michael Moorcock**. It is the first original full-length novel to feature **Elric**, the last emperor of the stagnating island civilisation of Melniboné who wields the cursed, soul-drinking sword **Stormbringer**.",
+            "rating": 3.487012987012987,
+            "ratings_count": 154,
+            "pages": 384,
+            "release_date": "1972-01-01",
+            "slug": "elric-of-melnibone-and-other-stories-1972"
+          }
+        },
+        {
+          "book": {
+            "title": "The Coming of Conan the Cimmerian",
+            "description": null,
+            "rating": 3.9347826086956523,
+            "ratings_count": 46,
+            "pages": 496,
+            "release_date": "2003-01-01",
+            "slug": "the-coming-of-conan-the-cimmerian"
+          }
+        },
+        {
+          "book": {
+            "title": "The Last Unicorn",
+            "description": "*The unicorn lived in a lilac wood, and she lived all alone…*\r\n\r\n …so she ventured out from the safety of the enchanted forest on a quest for others of her kind. Joined along the way by the bumbling magician Schmendrick and the indomitable Molly Grue, the unicorn learns all about the joys and sorrows of life and love before meeting her destiny in the castle of a despondent monarch—and confronting the creature that would drive her kind to extinction....\r\n\r\nIn *The Last Unicorn*, renowned and beloved novelist Peter S. Beagle spins a poignant tale of love, loss, and wonder that has resonated with millions of readers around the world.",
+            "rating": 3.909090909090909,
+            "ratings_count": 209,
+            "pages": 292,
+            "release_date": "1968-01-01",
+            "slug": "the-last-unicorn"
+          }
+        },
+        {
+          "book": {
+            "title": "Shards of Honour",
+            "description": "Relive the adventures of Miles and Mark in the first of The Vorkosigan Series. \"Bujold has created two of the most engaging, interesting, complicated protagonists in science fiction . . . readers will enjoy this book\". VOYA.",
+            "rating": 3.8485915492957745,
+            "ratings_count": 142,
+            "pages": 253,
+            "release_date": "1986-01-01",
+            "slug": "shards-of-honour"
+          }
+        },
+        {
+          "book": {
+            "title": "The Forever War",
+            "description": "Private William Mandella is a hero in spite of himself -- a reluctant conscript drafted into an elite military unit, and propelled through space and time to fight in a distant thousand-year conflict. He never wanted to go to war, but the leaders on Earth have drawn a line in the interstellar sand -- despite the fact that their fierce alien enemy is unknowable, unconquerable, and very far away. \n\nSo Mandella will perform his duties without rancor and even rise up through the military's ranks... if he survives. But the true test of his mettle will come when he returns to Earth. Because of the time dilation caused by space travel the loyal soldier is aging months, while his home planet is aging centuries -- and the difference will prove the saying: you never can go home..",
+            "rating": 3.9890387858347385,
+            "ratings_count": 593,
+            "pages": 203,
+            "release_date": "1974-01-01",
+            "slug": "the-forever-war"
+          }
+        },
+        {
+          "book": {
+            "title": "Kushiel's Dart",
+            "description": "Sold into indentured servitude at the exotic Night Court as a child, Phèdre nó Delaunay, faces a difficult choice between honor and duty as she deals with a world of glittering luxury, conspiracy, sacrifice, and betrayal and plays a key role in protecting her land from a dangerously clever and evil villainess. ",
+            "rating": 3.8575581395348837,
+            "ratings_count": 172,
+            "pages": 1015,
+            "release_date": "2001-06-23",
+            "slug": "kushiels-dart"
+          }
+        },
+        {
+          "book": {
+            "title": "Outlander",
+            "description": "Unrivaled storytelling. Unforgettable characters. Rich historical detail. These are the hallmarks of Diana Gabaldon’s work. Her New York Times bestselling Outlander novels have earned the praise of critics and captured the hearts of millions of fans. Here is the story that started it all, introducing two remarkable characters, Claire Beauchamp Randall and Jamie Fraser, in a spellbinding novel of passion and history that combines exhilarating adventure with a love story for the ages.\n\nScottish Highlands, 1945. Claire Randall, a former British combat nurse, is just back from the war and reunited with her husband on a second honeymoon when she walks through a standing stone in one of the ancient circles that dot the British Isles. Suddenly she is a Sassenach—an “outlander”—in a Scotland torn by war and raiding clans in the year of Our Lord . . . 1743.\n \nClaire is catapulted into the intrigues of a world that threatens her life, and may shatter her heart. Marooned amid danger, passion, and violence, Claire learns her only chance of safety lies in Jamie Fraser, a gallant young Scots warrior. What begins in compulsion becomes urgent need, and Claire finds herself torn between two very different men, in two irreconcilable lives.\n\n",
+            "rating": 3.891341256366723,
+            "ratings_count": 589,
+            "pages": 627,
+            "release_date": "1974-01-01",
+            "slug": "outlander"
+          }
+        },
+        {
+          "book": {
+            "title": "Nevelen van Avalon",
+            "description": "When Morgan le Fay (Morgaine) has to sacrifice her virginity during fertility rites, the man who impregnates her is her younger brother Arthur, who she turns against when she thinks he has betrayed the old religion of Avalon.",
+            "rating": 3.8702830188679247,
+            "ratings_count": 212,
+            "pages": 952,
+            "release_date": "1979-06-01",
+            "slug": "nevelen-van-avalon-1979"
+          }
+        },
+        {
+          "book": {
+            "title": "Sunshine",
+            "description": "Left to die in an abandoned mansion as the prey of a vampire, Sunshine is stunned to find herself unharmed and must come up with a way to save her undead host from the perils of the daylight world, in a seductive tale of supernatural desire from the Newbery Medal-winning author of The Hero and the Crown. Reprint.",
+            "rating": 3.567415730337079,
+            "ratings_count": 89,
+            "pages": 476,
+            "release_date": "2003-09-01",
+            "slug": "sunshine"
+          }
+        },
+        {
+          "book": {
+            "title": "Ringworld",
+            "description": "The artefact is a circular ribbon of matter six hundred million miles long and ninety million miles in radius. Pierson's puppeteers, the aliens who discovered it, are understandably wary of encountering the builders of such an immense structure and have assembled a team of two humans, a mad puppeteer and a kzin, a huge cat-like alien, to explore it. But a crash landing on the vast edifice forces the crew on a desperate and dangerous trek across the Ringworld.",
+            "rating": 3.653186274509804,
+            "ratings_count": 408,
+            "pages": 288,
+            "release_date": "1970-01-01",
+            "slug": "ringworld"
+          }
+        },
+        {
+          "book": {
+            "title": "Hyperion",
+            "description": "In the 29th century, the Hegemony of Man comprises hundreds of planets connected by farcaster portals. The Hegemony maintains an uneasy alliance with the TechnoCore, a civilisation of AIs. Modified humans known as Ousters live in space stations between stars and are engaged in conflict with the Hegemony.\r\n\r\nNumerous \"Outback\" planets have no farcasters and cannot be accessed without incurring significant time dilation. One of these planets is Hyperion, home to structures known as the Time Tombs, which are moving backwards in time and guarded by a legendary creature known as the Shrike. On the eve of an Ouster invasion of Hyperion, a final pilgrimage to the Time Tombs has been organized. The pilgrims decide that they will each tell their tale of how they were chosen for the pilgrimage.",
+            "rating": 4.259980988593156,
+            "ratings_count": 1052,
+            "pages": 492,
+            "release_date": "1989-01-01",
+            "slug": "hyperion"
+          }
+        },
+        {
+          "book": {
+            "title": "A Fire Upon the Deep",
+            "description": "Thousands of years in the future, humanity is no longer alone in a universe where a mind's potential is determined by its location in space, from superintelligent entities in the Transcend, to the limited minds of the Unthinking Depths, where only simple creatures, and technology, can function. Nobody knows what strange force partitioned space into these \"regions of thought,\" but when the warring Straumli realm use an ancient Transcendent artifact as a weapon, they unwittingly unleash an awesome power that destroys thousands of worlds and enslaves all natural and artificial intelligence.\r\n\r\nFleeing this galactic threat, Ravna crash lands on a strange world with a ship-hold full of cryogenically frozen children, the only survivors from a destroyed space-lab. They are taken captive by the Tines, an alien race with a harsh medieval culture, and used as pawns in a ruthless power struggle.",
+            "rating": 3.991638795986622,
+            "ratings_count": 299,
+            "pages": null,
+            "release_date": "1992-01-01",
+            "slug": "a-fire-upon-the-deep"
+          }
+        },
+        {
+          "book": {
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "description": "Seconds before Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker’s Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.\n\nTogether, this dynamic pair began a journey through space aided by a galaxyful of fellow travelers: Zaphod Beeblebrox—the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian (formerly Tricia McMillan), Zaphod’s girlfriend, whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; and Veet Voojagig, a former graduate student obsessed with the disappearance of all the ballpoint pens he’s bought over the years.\n\nWhere are these pens? Why are we born? Why do we die? For all the answers, stick your thumb to the stars!",
+            "rating": 4.248170537702832,
+            "ratings_count": 3143,
+            "pages": 195,
+            "release_date": "1979-01-01",
+            "slug": "the-hitchhikers-guide-to-the-galaxy"
+          }
+        },
+        {
+          "book": {
+            "title": "The Time Traveler's Wife",
+            "description": "Audrey Niffenegger's innovative debut, The Time Traveler's Wife, is the story of Clare, a beautiful art student, and Henry, an adventuresome librarian, who have known each other since Clare was six and Henry was thirty-six, and were married when Clare was twenty-three and Henry thirty-one. Impossible but true, because Henry is one of the first people diagnosed with Chrono-Displacement Disorder: periodically his genetic clock resets and he finds himself misplaced in time, pulled to moments of emotional gravity in his life, past and future. His disappearances are spontaneous, his experiences unpredictable, alternately harrowing and amusing.\r\n([source][1])\r\n\r\n\r\n  [1]: https://www.audreyniffenegger.com/published-books/2015/4/22/the-time-travelers-wife-2005",
+            "rating": 3.937420178799489,
+            "ratings_count": 783,
+            "pages": 522,
+            "release_date": "2003-01-01",
+            "slug": "the-time-travelers-wife"
+          }
+        },
+        {
+          "book": {
+            "title": "The Absolute Sandman, Volume 1",
+            "description": "\"The third volume collecting Neil Gaiman's seminal, award-winning series starring the Dream King in deluxe format. ABSOLUTE SANDMAN VOL. 3 presents several key SANDMAN tales in a slipcased hardcover edition, including \"Brief Lives,\" in which the Sandman's sister Delirium prevails upon her older brother to help her find their missing sibling, Destruction. But their journey through the Waking World has dramatic repercussions for their family and also for the relationship between the Sandman and his wayward son, Orpheus. Also included is the spectacular short story \"Ramadan,\" a tale of a young king of ancient Baghdad and the deal he strikes with The Sandman to grant his city immortality, with spectacular illustrations by P. Craig Russell (Fairy Tales of Oscar Wilde, The Jungle Book). Never-before-collected bonus features include pin-up pages from galleries in THE SANDMAN #50 and SANDMAN SPECIAL #1, the Desire story from VERTIGO: WINTER'S EDGE #3, THE ENDLESS GALLERY #1, script and thumbnails from THE SANDMAN #50, and a section on the Endless retail products (poster, statues, t-shirts, Little Endless and more)! Plus, an introduction by artist Jill Thompson.\"--Publisher description.",
+            "rating": 4.616438356164384,
+            "ratings_count": 73,
+            "pages": 616,
+            "release_date": "1990-10-01",
+            "slug": "the-absolute-sandman-volume-1"
+          }
+        },
+        {
+          "book": {
+            "title": "Flowers for Algernon",
+            "description": "Flowers for Algernon is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie's intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance--until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?",
+            "rating": 4.300408163265306,
+            "ratings_count": 1225,
+            "pages": 311,
+            "release_date": "1959-01-01",
+            "slug": "flowers-for-algernon"
+          }
+        }
+      ],
+      "url": "https://www.npr.org/2011/08/09/139248590/top-100-science-fiction-fantasy-books"
+    }
+  }
+}
