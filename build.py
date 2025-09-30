@@ -8,7 +8,7 @@ if __name__ == "__main__":
    rag.load_data()
 
    # Q&A
-   prompt =  "Recommend me sci-fi book like old man war"
+   prompt =  "Recommend me sci-fi book"
    context = rag.get_context_for_query(prompt, max_context_length=2000)
    enhanced_prompt = f"""
    Based on the following information from the knowledge base, please answer the user's question:
