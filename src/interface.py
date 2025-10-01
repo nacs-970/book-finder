@@ -76,9 +76,9 @@ def main():
         - A concise summary or blurb giving you the essence of the book
                 
         **How to use:**
-        - Input a genre or theme - e.g., romantic sci-fi, classic mystery, self-help.
-        - Paste a short summary or blurb - describe the kind of story or topic you’re looking for
-        - Find similar books - the system will retrieve books most related to your input
+        - Enter a genre or theme, for example romantic sci-fi, classic mystery, or self-help.
+        - Provide a short summary or blurb that describes the type of story or topic you’re looking for.
+        - The system will then suggest similar books most closely related to your input.
         """)
 
         st.divider()
