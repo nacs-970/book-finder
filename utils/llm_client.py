@@ -35,17 +35,22 @@ class LLMClient:
         my_schema = {
             "type": "object",
             "properties": {
-                "books_info": {"type": "array", "items": {"type": "object", "properties": {
-                    "title": {"type": "string"},
-                    "genres": {"type": "array", "items": {"type": "string"}},
-                    "moods": {"type": "array", "items": {"type": "string"}},
-                    "rating": {"type": "integer"},
-                    "release_date": {"type": "string", "format": "date"},
-                    "page_count": {"type": "integer", "minimum": 1},
-                    "summary": {"type": "string"}
-                }}},
+                "dupe_messages" : {"type":"string"},
+                "books_info": {"type": "array", 
+                               "items": {"type": "object", 
+                                         "properties": {
+                                             "title": {"type": "string"},
+                                             "genres": {"type": "array", "items": {"type": "string"}},
+                                             "moods": {"type": "array", "items": {"type": "string"}},
+                                             "rating": {"type": "integer"},
+                                             "release_date": {"type": "string", "format": "date"},
+                                             "page_count": {"type": "integer", "minimum": 1},
+                                             "summary": {"type": "string"}
+                                             }
+                                         }
+                               },
             },
-            "required": ["title", "genres", "rating", "release_date", "page_count", "summary"],
+            "required": ["dupe_messages", "title", "genres", "rating", "release_date", "page_count", "summary"],
             "additionalProperties": False
         }
 

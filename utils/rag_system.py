@@ -345,7 +345,7 @@ class SimpleRAGSystem:
         # Add to index
         self.index.add(embeddings.astype('float32'))  # type: ignore
 
-    def _chunk_text(self, text: str, chunk_size: int = 500, overlap: int = 50) -> List[str]:
+    def _chunk_text(self, text: str, chunk_size: int = 2000, overlap: int = 50) -> List[str]:
         """
         Split text into overlapping chunks.
 

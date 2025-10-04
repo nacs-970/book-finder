@@ -14,7 +14,7 @@ import tempfile
 project_root = Path(__file__).parent.parent 
 sys.path.insert(0, str(project_root))
  
-from utils import LLMClient, SimpleRAGSystem, get_available_models, load_sample_documents, load_sample_documents_for_demo
+from utils import LLMClient, SimpleRAGSystem, get_available_models
 
 Recommeded_books = set()
 
@@ -28,6 +28,8 @@ def init_session_state():
         st.session_state.rag_system = None
     if "rag_initialized" not in st.session_state:
         st.session_state.rag_initialized = False
+    if "books" not in st.session_state:
+        st.session_state.books = set()
 
 
 def display_chat_messages():
@@ -63,8 +65,8 @@ def main():
     if st.session_state.rag_system is None:
         st.session_state.rag_system = SimpleRAGSystem()
         if not st.session_state.rag_initialized:
-            load_sample_documents_for_demo(st.session_state.rag_system)
             st.session_state.rag_initialized = True
+
 
     with st.sidebar:
         st.markdown("### 📚 About")
@@ -88,6 +90,7 @@ def main():
         # Clear chat button
         if st.button("🗑️ Clear Chat", type="secondary"):
             st.session_state.messages = []
+            st.session_state.books = set()
             st.rerun()
 
     # Main chat interface
@@ -121,17 +124,18 @@ def main():
             with st.spinner("Please enter your request about the book..."):
                 # Get relevant context from RAG system
                 context = st.session_state.rag_system.get_context_for_query(
-                    prompt, max_context_length=2000)
+                    prompt + f"that isn't {list(st.session_state.books)}", max_context_length=2000)
 
                 # Create enhanced prompt with context
                 enhanced_prompt = f"""
 
                 {context}
 
-                User Question: {prompt} that not in {list(Recommeded_books)}
+                User Question: {prompt} that isn't {list(st.session_state.books)}
 
                 Based on the following information from the knowledge base, please answer the user's question:
                 Your job is to give a review or introducing a new book to user with given exist data
+                if the book already been recommended, don't mention it again.
 
                 Sort it out by rating (max is 5)
                 3 to 10 books Recommendation 
@@ -155,17 +159,26 @@ def main():
                 response = st.session_state.llm_client.chat(messages)
 
                 answer=""
+                response = json.loads(response)
+                Books_info = response.get("books_info", [])
+                messages = response.get("dupe_messages", "")
 
-                Books_info = json.loads(response).get("books_info", [])
+                if messages:
+                    answer += f"{messages}\n\n"
+
                 if Books_info:
                     for idx, book in enumerate(Books_info, 1):
                         genres = ", ".join(list(book.get('genres', ['N/A'])))
                         moods = ", ".join(list(book.get('moods', ['N/A'])))
 
-                        Recommeded_books.add(book.get('title', 'N/A'))
-                        answer += f"### {idx}. {book.get('title', 'N/A')} \n"
-                        answer += f"- **Average Rating:** {book.get('rating', 'N/A')}\n"
+                        title = book.get('title', 'N/A')
+                        if title in st.session_state.books:
+                            answer += f"**{title}** has already been recommended\n\n"
+                            continue
 
+                        st.session_state.books.add(title)
+                        answer += f"### {idx}. {title} \n"
+                        answer += f"- **Average Rating:** {book.get('rating', 'N/A')}\n"
                         answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
                         answer += f"- **Genres:** {genres}\n"
                         answer += f"- **Moods:** {moods}\n"
