@@ -3,6 +3,7 @@ Chat Application with RAG (Retrieval Augmented Generation)
 Demonstrates document-based question answering with vector search
 """
 
+import json
 import streamlit as st
 import sys
 import os
@@ -14,6 +15,8 @@ project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
  
 from utils import LLMClient, SimpleRAGSystem, get_available_models, load_sample_documents, load_sample_documents_for_demo
+
+Recommeded_books = set()
 
 def init_session_state():
     """Initialize session state variables"""
@@ -51,7 +54,7 @@ def main():
     # Auto initialize LLM model (no sidebar config)
     if st.session_state.llm_client is None:
         st.session_state.llm_client = LLMClient(
-            model="gpt-3.5-turbo",  # หรือเปลี่ยนเป็น default model ของคุณ
+            model="gpt-4o-mini",  # หรือเปลี่ยนเป็น default model ของคุณ
             temperature=0.7,
             max_tokens=2000
         )
@@ -122,11 +125,17 @@ def main():
 
                 # Create enhanced prompt with context
                 enhanced_prompt = f"""
-                Based on the following information from the knowledge base, please answer the user's question:
 
                 {context}
 
-                User Question: {prompt}
+                User Question: {prompt} that not in {list(Recommeded_books)}
+
+                Based on the following information from the knowledge base, please answer the user's question:
+                Your job is to give a review or introducing a new book to user with given exist data
+
+                Sort it out by rating (max is 5)
+                3 to 10 books Recommendation 
+                (if i didn't said any before)
 
                 Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
                 """
@@ -145,8 +154,27 @@ def main():
                 # Get response from LLM
                 response = st.session_state.llm_client.chat(messages)
 
+                answer=""
+
+                Books_info = json.loads(response).get("books_info", [])
+                if Books_info:
+                    for idx, book in enumerate(Books_info, 1):
+                        genres = ", ".join(list(book.get('genres', ['N/A'])))
+                        moods = ", ".join(list(book.get('moods', ['N/A'])))
+
+                        Recommeded_books.add(book.get('title', 'N/A'))
+                        answer += f"### {idx}. {book.get('title', 'N/A')} \n"
+                        answer += f"- **Average Rating:** {book.get('rating', 'N/A')}\n"
+
+                        answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
+                        answer += f"- **Genres:** {genres}\n"
+                        answer += f"- **Moods:** {moods}\n"
+                        answer += f"- **Pages:** {book.get('page_count', 'N/A')}\n"
+                        answer += f"- **Summary:** {book.get('summary', 'N/A')}\n\n"
+                        answer += "---\n"
+
                 # Display response
-                st.markdown(response)
+                st.markdown(answer)
 
                 # Show retrieved context in expander
                 with st.expander("📄 Retrieved Context"):
@@ -155,7 +183,7 @@ def main():
                 # Add assistant response to chat history
                 st.session_state.messages.append({
                     "role": "assistant",
-                    "content": response,
+                    "content": answer,
                     "context_used": True
                 })
      # Example queries
@@ -164,19 +192,24 @@ def main():
 
     with col1:
         if st.button("💥ACTION"):
-            st.session_state.example_query = "Recommend some of the best action books."
+            st.session_state.example_query = "Recommend some action books."
+            st.rerun()
     with col2:
         if st.button("🎭DRAMA"):
-            st.session_state.example_query = "Recommend some of the best drama books."
+            st.session_state.example_query = "Recommend some drama books."
+            st.rerun()
     with col3:
         if st.button("🏜️FANTASY"):
-            st.session_state.example_query = "Recommend some of the best fantasy books."
+            st.session_state.example_query = "Recommend some fantasy books."
+            st.rerun()
     with col4:
         if st.button("👻HORROR"):
-            st.session_state.example_query = "Recommend some of the best horror books."
+            st.session_state.example_query = "Recommend some horror books."
+            st.rerun()
     with col5:
         if st.button("💋ROMANTIC"):
-            st.session_state.example_query = "Recommend some of the best romantic books."
+            st.session_state.example_query = "Recommend some romantic books."
+            st.rerun()
 
     
 if __name__ == "__main__":
