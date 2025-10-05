@@ -242,7 +242,7 @@ class SimpleRAGSystem:
         Returns:
             Formatted context string
         """
-        search_results = self.search(query, n_results=5)
+        search_results = self.search(query, n_results=10)
 
         if not search_results or "error" in search_results[0]:
             return "No relevant context found."
