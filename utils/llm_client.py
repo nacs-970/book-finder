@@ -7,11 +7,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
+
 class LLMClient:
     """Wrapper class for LiteLLM operations"""
 
     def __init__(self, model: Optional[str] = None, temperature: float = 0.7, max_tokens: int = 1000):
-        self.model = model or os.getenv("DEFAULT_MODEL", "gpt-3.5-turbo")
+        self.model = model or os.getenv("DEFAULT_MODEL", "gpt-4o-mini")
         self.temperature = temperature
         self.max_tokens = max_tokens
 
@@ -30,6 +31,29 @@ class LLMClient:
             os.environ["GROQ_API_KEY"] = groq_key
 
     def chat(self, messages: List[Dict[str, str]], **kwargs) -> str:
+
+        my_schema = {
+            "type": "object",
+            "properties": {
+                "dupe_messages" : {"type":"string"},
+                "books_info": {"type": "array", 
+                               "items": {"type": "object", 
+                                         "properties": {
+                                             "title": {"type": "string"},
+                                             "genres": {"type": "array", "items": {"type": "string"}},
+                                             "moods": {"type": "array", "items": {"type": "string"}},
+                                             "rating": {"type": "integer"},
+                                             "release_date": {"type": "string", "format": "date"},
+                                             "page_count": {"type": "integer", "minimum": 1},
+                                             "summary": {"type": "string"}
+                                             }
+                                         }
+                               },
+            },
+            "required": ["dupe_messages", "title", "genres", "rating", "release_date", "page_count", "summary"],
+            "additionalProperties": False
+        }
+
         """
         Send a chat completion request
 
@@ -46,6 +70,13 @@ class LLMClient:
                 messages=messages,
                 temperature=kwargs.get('temperature', self.temperature),
                 max_tokens=kwargs.get('max_tokens', self.max_tokens),
+                response_format={
+                    "type": "json_schema",
+                    "json_schema": {
+                        "name": "book_info_schema",  
+                        "schema": my_schema          
+                    }
+                },        
                 **kwargs
             )
             return response.choices[0].message.content

@@ -3,6 +3,7 @@ Chat Application with RAG (Retrieval Augmented Generation)
 Demonstrates document-based question answering with vector search
 """
 
+import json
 import streamlit as st
 import sys
 import os
@@ -13,7 +14,9 @@ import tempfile
 project_root = Path(__file__).parent.parent 
 sys.path.insert(0, str(project_root))
  
-from utils import LLMClient, SimpleRAGSystem, get_available_models, load_sample_documents, load_sample_documents_for_demo
+from utils import LLMClient, SimpleRAGSystem, get_available_models
+
+Recommeded_books = set()
 
 def init_session_state():
     """Initialize session state variables"""
@@ -25,6 +28,8 @@ def init_session_state():
         st.session_state.rag_system = None
     if "rag_initialized" not in st.session_state:
         st.session_state.rag_initialized = False
+    if "books" not in st.session_state:
+        st.session_state.books = set()
 
 def display_chat_messages():
     """Display chat messages"""
@@ -143,8 +148,7 @@ def main():
     # Auto initialize LLM model (no sidebar config)
     if st.session_state.llm_client is None:
         st.session_state.llm_client = LLMClient(
-            # model="gpt-3.5-turbo",
-            model="groq/openai/gpt-oss-120b",
+            model="gpt-4o-mini", 
             temperature=0.7,
             max_tokens=3500
         )
@@ -153,9 +157,9 @@ def main():
     if st.session_state.rag_system is None:
         st.session_state.rag_system = SimpleRAGSystem()
         if not st.session_state.rag_initialized:
-            # load_sample_documents_for_demo(st.session_state.rag_system)
             st.session_state.rag_initialized = True
-    
+
+
     with st.sidebar:
         st.markdown("### 📖 ABOUT")
         st.markdown("""
@@ -178,6 +182,7 @@ def main():
         # Clear chat button
         if st.button("🗑️ Clear Chat", type="secondary"):
             st.session_state.messages = []
+            st.session_state.books = set()
             st.rerun()
 
     # Main chat interface
@@ -211,14 +216,22 @@ def main():
             with st.spinner("Looking for the book you want..."):
                 # Get relevant context from RAG system
                 context = st.session_state.rag_system.get_context_for_query(
-                    prompt, max_context_length=2000)
+                    prompt + f"that isn't {list(st.session_state.books)}", max_context_length=2000)
 
                 # Create enhanced prompt with context
                 enhanced_prompt = f"""
 
                     {context}
 
-                    User Question: {prompt}
+                User Question: {prompt} that isn't {list(st.session_state.books)}
+
+                Based on the following information from the knowledge base, please answer the user's question:
+                Your job is to give a review or introducing a new book to user with given exist data
+                if the book already been recommended, don't mention it again.
+
+                Sort it out by rating (max is 5)
+                3 to 10 books Recommendation 
+                (if i didn't said any before)
 
                     Based on the following information from the knowledge base, please answer the user's question:
                     Your job is to give a review or introducing a new book to user with given exist data
@@ -256,8 +269,36 @@ def main():
                 # Get response from LLM
                 response = st.session_state.llm_client.chat(messages)
 
+                answer=""
+                response = json.loads(response)
+                Books_info = response.get("books_info", [])
+                messages = response.get("dupe_messages", "")
+
+                if messages:
+                    answer += f"{messages}\n\n"
+
+                if Books_info:
+                    for idx, book in enumerate(Books_info, 1):
+                        genres = ", ".join(list(book.get('genres', ['N/A'])))
+                        moods = ", ".join(list(book.get('moods', ['N/A'])))
+
+                        title = book.get('title', 'N/A')
+                        if title in st.session_state.books:
+                            answer += f"**{title}** has already been recommended\n\n"
+                            continue
+
+                        st.session_state.books.add(title)
+                        answer += f"### {idx}. {title} \n"
+                        answer += f"- **Average Rating:** {book.get('rating', 'N/A')}\n"
+                        answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
+                        answer += f"- **Genres:** {genres}\n"
+                        answer += f"- **Moods:** {moods}\n"
+                        answer += f"- **Pages:** {book.get('page_count', 'N/A')}\n"
+                        answer += f"- **Summary:** {book.get('summary', 'N/A')}\n\n"
+                        answer += "---\n"
+
                 # Display response
-                st.markdown(response)
+                st.markdown(answer)
 
                 # Show retrieved context in expander
                 with st.expander("📄 Retrieved Context"):
@@ -266,7 +307,7 @@ def main():
                 # Add assistant response to chat history
                 st.session_state.messages.append({
                     "role": "assistant",
-                    "content": response,
+                    "content": answer,
                     "context_used": True
                 })
     # Example queries
