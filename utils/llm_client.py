@@ -1,6 +1,7 @@
 import os
 from typing import Dict, List, Any, Optional
 import litellm
+import json
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -35,22 +36,21 @@ class LLMClient:
         my_schema = {
             "type": "object",
             "properties": {
-                "dupe_messages" : {"type":"string"},
                 "books_info": {"type": "array", 
                                "items": {"type": "object", 
                                          "properties": {
                                              "title": {"type": "string"},
                                              "genres": {"type": "array", "items": {"type": "string"}},
                                              "moods": {"type": "array", "items": {"type": "string"}},
-                                             "rating": {"type": "integer"},
+                                             "rating": {"type": "number"},
                                              "release_date": {"type": "string", "format": "date"},
                                              "page_count": {"type": "integer", "minimum": 1},
                                              "summary": {"type": "string"}
                                              }
                                          }
-                               },
+                               }
             },
-            "required": ["dupe_messages", "title", "genres", "rating", "release_date", "page_count", "summary"],
+            "required": ["title", "moods", "genres", "rating", "release_date", "page_count", "summary"],
             "additionalProperties": False
         }
 
@@ -79,7 +79,30 @@ class LLMClient:
                 },        
                 **kwargs
             )
-            return response.choices[0].message.content
+            
+            content = response.choices[0].message.content
+            
+            # parse JSON safely
+            data = json.loads(content)
+
+            # fill None with 0 and sort
+            if "books_info" in data:
+                for book in data["books_info"]:
+                    if book.get("rating") is None:
+                        book["rating"] = 0.0
+                    if book.get("page_count") is None:
+                        book["page_count"] = 0
+                    if book.get("genres") is None:
+                        book["genres"] = "n/a"
+                    if book.get("moods") is None:
+                        book["moods"] = "n/a"
+
+                # sort by rating (descending)
+                data["books_info"].sort(key=lambda x: x.get("rating", 0), reverse=True)
+
+            # return back as formatted JSON string
+            return json.dumps(data, indent=4, ensure_ascii=False)
+        
         except Exception as e:
             return f"Error: {str(e)}"
 

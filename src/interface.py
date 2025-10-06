@@ -216,12 +216,11 @@ def main():
             with st.spinner("Looking for the book you want..."):
                 # Get relevant context from RAG system
                 context = st.session_state.rag_system.get_context_for_query(
-                    prompt + f"that isn't {list(st.session_state.books)}", max_context_length=2000)
+                    prompt + f"that isn't {list(st.session_state.books)}", max_context_length=5000)
 
                 # Create enhanced prompt with context
                 enhanced_prompt = f"""
-
-                    {context}
+                {context}
 
                 User Question: {prompt} that isn't {list(st.session_state.books)}
 
@@ -259,8 +258,6 @@ def main():
                 for msg in st.session_state.messages[:-1]:
                     messages.append(
                         {"role": msg["role"], "content": msg["content"]})
-
-                print(messages)
                 
                 # Add the enhanced prompt
                 messages.append(
@@ -271,11 +268,13 @@ def main():
 
                 answer=""
                 response = json.loads(response)
-                Books_info = response.get("books_info", [])
-                messages = response.get("dupe_messages", "")
-
-                if messages:
-                    answer += f"{messages}\n\n"
+                
+                # sort by rating, title (highest first)
+                if "books_info" in response:
+                    response["books_info"].sort(key=lambda x: x.get("title"))
+                    response["books_info"].sort(key=lambda x: x.get("rating", 0), reverse=True)
+                
+                Books_info = response.get("books_info", [])[:10]
 
                 if Books_info:
                     for idx, book in enumerate(Books_info, 1):
@@ -283,13 +282,13 @@ def main():
                         moods = ", ".join(list(book.get('moods', ['N/A'])))
 
                         title = book.get('title', 'N/A')
+                        answer += f"### {idx}. {title} \n"
                         if title in st.session_state.books:
-                            answer += f"**{title}** has already been recommended\n\n"
-                            continue
+                            answer += f"###### *(already been recommended)*\n"
 
                         st.session_state.books.add(title)
-                        answer += f"### {idx}. {title} \n"
-                        answer += f"- **Average Rating:** {book.get('rating', 'N/A')}\n"
+
+                        answer += f"- **Average Rating:** {book.get('rating', 'N/A')} / 5\n"
                         answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
                         answer += f"- **Genres:** {genres}\n"
                         answer += f"- **Moods:** {moods}\n"
@@ -298,7 +297,9 @@ def main():
                         answer += "---\n"
 
                 # Display response
-                st.markdown(answer)
+                # st.markdown(answer)
+                st.markdown(answer, unsafe_allow_html=True)
+
 
                 # Show retrieved context in expander
                 with st.expander("📄 Retrieved Context"):
@@ -316,8 +317,8 @@ def main():
     col1, col2, col3, col4, col5 = st.columns(5)
 
     with col1:
-        if st.button("💥ACTION"):
-            st.session_state.example_query = "Recommend some action books."
+        if st.button("🗺️ADVANTURE"):
+            st.session_state.example_query = "Recommend some adventure books."
             st.rerun()
     with col2:
         if st.button("🎭DRAMA"):

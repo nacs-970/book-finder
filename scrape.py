@@ -25,7 +25,7 @@ def extract_tags_by_category(taggings, category):
         if tag_category == category.lower() and tag_value not in seen:
             seen.add(tag_value)
             tags.append(tag_value)
-    return tags
+    return tags[:10]
 
 # Iterate over all files in the directory
 for filename in os.listdir(json_dir):
@@ -53,7 +53,7 @@ for filename in os.listdir(json_dir):
 
             # Extract tags
             taggings = []
-            print(book)
+
             if book.get('taggings'):
                 taggings = book.get("taggings")
 
@@ -64,24 +64,25 @@ for filename in os.listdir(json_dir):
             # Prepare content in the required format
             lines = []
             if book.get('title'):
-                lines.append(f"title: {book['title']}")
-            if book.get('description'):
-                lines.append(f"description: {book['description']}")
+                lines.append(f"title: {book['title']}\n")
             if book.get('rating'):
-                lines.append(f"rating: {book['rating']:.2f}")
+                lines.append(f"rating: {book['rating']:.2f}\n")
             if book.get('ratings_count'):
-                lines.append(f"rating_count: {book['ratings_count']}")
+                lines.append(f"rating_count: {book['ratings_count']}\n")
             if book.get('pages'):
-                lines.append(f"pages: {book['pages']}")
+                lines.append(f"pages: {book['pages']}\n")
             if book.get('release_date'):
-                lines.append(f"release_date: {book['release_date']}")
+                lines.append(f"release_date: {book['release_date']}\n")
 
             if genres:
-                lines.append(f"genres: {', '.join(genres)}")
+                lines.append(f"genres: {', '.join(genres)}\n")
             if moods:
-                lines.append(f"moods: {', '.join(moods)}")
+                lines.append(f"moods: {', '.join(moods)}\n")
             if paces:
-                lines.append(f"paces: {', '.join(paces)}")
+                lines.append(f"paces: {', '.join(paces)}\n")
+                
+            if book.get('description'):
+                lines.append(f"description: {book['description']}")
             content = "\n".join(lines)
 
             # Write content to text file

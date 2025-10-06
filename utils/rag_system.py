@@ -188,16 +188,59 @@ class SimpleRAGSystem:
                 self.add_text_document(text, filename, {"title": filename.lower(), "type": "book"})
                 file.unlink()
 
+    # def search(self, query: str, n_results: int = 5) -> List[Dict[str, Any]]:
+    #     """
+    #     Search for relevant documents using FAISS
+
+    #     Args:
+    #         query: Search query text
+    #         n_results: Number of results to return
+
+    #     Returns:
+    #         List of search results with content and metadata
+    #     """
+    #     try:
+    #         if len(self.documents) == 0:
+    #             return [{"error": "No documents in the system"}]
+
+    #         # Ensure model is loaded
+    #         self._ensure_model_loaded()
+    #         # Create embedding for query
+    #         query_embedding = self.model.encode([query])
+    #         # Normalize for cosine similarity
+    #         faiss.normalize_L2(query_embedding)
+
+    #         # Search using FAISS
+    #         n_results = min(n_results, len(self.documents))
+    #         scores, indices = self.index.search(query_embedding.astype('float32'), n_results)
+
+    #         search_results = []
+    #         for i, (score, idx) in enumerate(zip(scores[0], indices[0])):
+    #             # score = distance
+    #             similarity = 1 - score / 2 # turn L2 distance into approximate similarity from distance
+    #             if idx >= 0:  # Valid index
+    #                 search_results.append({
+    #                     "content": self.documents[idx],
+    #                     "metadata": self.metadata[idx],
+    #                     "score": float(score),
+    #                     "rank": i + 1
+    #                 })
+
+    #         return search_results
+
+    #     except Exception as e:
+    #         return [{"error": f"Search failed: {str(e)}"}]
+        
     def search(self, query: str, n_results: int = 5) -> List[Dict[str, Any]]:
         """
-        Search for relevant documents using FAISS
+        Search for relevant documents using FAISS, returning full documents instead of chunks.
 
         Args:
             query: Search query text
             n_results: Number of results to return
 
         Returns:
-            List of search results with content and metadata
+            List of search results with full document content and metadata
         """
         try:
             if len(self.documents) == 0:
@@ -205,31 +248,60 @@ class SimpleRAGSystem:
 
             # Ensure model is loaded
             self._ensure_model_loaded()
-            # Create embedding for query
+
+            # Create query embedding and normalize
             query_embedding = self.model.encode([query])
-            # Normalize for cosine similarity
             faiss.normalize_L2(query_embedding)
 
-            # Search using FAISS
-            n_results = min(n_results, len(self.documents))
+            # Search
             scores, indices = self.index.search(query_embedding.astype('float32'), n_results)
 
+            # Track seen documents to avoid duplicates
+            seen_docs = set()
             search_results = []
-            for i, (score, idx) in enumerate(zip(scores[0], indices[0])):
-                # score = distance
-                similarity = 1 - score / 2 # turn L2 distance into approximate similarity from distance
-                if idx >= 0:  # Valid index
-                    search_results.append({
-                        "content": self.documents[idx],
-                        "metadata": self.metadata[idx],
-                        "score": float(score),
-                        "rank": i + 1
-                    })
+
+            for score, idx in zip(scores[0], indices[0]):
+                if idx < 0:
+                    continue
+
+                meta = self.metadata[idx]
+                doc_id = meta.get("doc_id", "unknown")
+
+                if doc_id in seen_docs:
+                    continue  # Skip duplicate doc results
+                seen_docs.add(doc_id)
+
+                # Combine all chunks belonging to this document
+                full_doc_text = "\n".join([
+                    self.documents[i]
+                    for i, m in enumerate(self.metadata)
+                    if m.get("doc_id") == doc_id
+                ])
+
+                # Collect representative metadata (first chunk's)
+                doc_meta = meta.copy()
+                doc_meta.pop("chunk_id", None)
+                doc_meta.pop("chunk_index", None)
+
+                similarity = 1 - score / 2  # Convert L2 to approximate similarity
+
+                search_results.append({
+                    "doc_id": doc_id,
+                    "content": full_doc_text.strip(),
+                    "metadata": doc_meta,
+                    "score": float(score),
+                    "similarity": float(similarity)
+                })
+
+                # Stop when we’ve collected enough documents
+                if len(search_results) >= n_results:
+                    break
 
             return search_results
 
         except Exception as e:
             return [{"error": f"Search failed: {str(e)}"}]
+
 
     def get_context_for_query(self, query: str, max_context_length: int = 2000) -> str:
         """
@@ -259,7 +331,7 @@ class SimpleRAGSystem:
             doc_id = metadata.get("doc_id", "unknown")
 
             # Format the context piece
-            context_piece = f"[Source: {doc_id}]\n{content}\n"
+            context_piece = f"[Source: {doc_id}]\n{content}\n"[:500]
 
             # Check if adding this piece would exceed the limit
             if current_length + len(context_piece) > max_context_length:
@@ -345,7 +417,7 @@ class SimpleRAGSystem:
         # Add to index
         self.index.add(embeddings.astype('float32'))  # type: ignore
 
-    def _chunk_text(self, text: str, chunk_size: int = 2000, overlap: int = 50) -> List[str]:
+    def _chunk_text(self, text: str, chunk_size: int = 800, overlap: int = 200) -> List[str]:
         """
         Split text into overlapping chunks.
 
@@ -424,8 +496,7 @@ class SimpleRAGSystem:
 
                     # Check if model changed
                     if saved_model != self.embedding_model:
-                        print(
-                            f"Model changed from {saved_model} to {self.embedding_model}")
+                        print(f"Model changed from {saved_model} to {self.embedding_model}")
                         return
 
                 # Load FAISS index if it exists
