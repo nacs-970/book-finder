@@ -36,6 +36,7 @@ class LLMClient:
         my_schema = {
             "type": "object",
             "properties": {
+                "comments"  : {"type": "string"},
                 "books_info": {"type": "array", 
                                "items": {"type": "object", 
                                          "properties": {
@@ -47,10 +48,13 @@ class LLMClient:
                                              "page_count": {"type": "integer", "minimum": 1},
                                              "summary": {"type": "string"}
                                              }
-                                         }
+                                         },
+
+                                        "required": ["title", "moods", "genres", "rating", "release_date", "page_count", "summary"],
+                                        "additionalProperties": False
                                }
             },
-            "required": ["title", "moods", "genres", "rating", "release_date", "page_count", "summary"],
+            "required": ["books_info", "comments"],
             "additionalProperties": False
         }
 
@@ -93,9 +97,9 @@ class LLMClient:
                     if book.get("page_count") is None:
                         book["page_count"] = 0
                     if book.get("genres") is None:
-                        book["genres"] = "n/a"
+                        book["genres"] = ["n/a"]
                     if book.get("moods") is None:
-                        book["moods"] = "n/a"
+                        book["moods"] = ["n/a"]
 
                 # sort by rating (descending)
                 data["books_info"].sort(key=lambda x: x.get("rating", 0), reverse=True)

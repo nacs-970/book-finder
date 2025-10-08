@@ -303,7 +303,7 @@ class SimpleRAGSystem:
             return [{"error": f"Search failed: {str(e)}"}]
 
 
-    def get_context_for_query(self, query: str, max_context_length: int = 2000) -> str:
+    def get_context_for_query(self, query: str, max_context_length: int = 40000) -> str:
         """
         Get relevant context for a query, formatted for LLM consumption.
 
@@ -314,7 +314,7 @@ class SimpleRAGSystem:
         Returns:
             Formatted context string
         """
-        search_results = self.search(query, n_results=10)
+        search_results = self.search(query, n_results=5)
 
         if not search_results or "error" in search_results[0]:
             return "No relevant context found."
@@ -326,12 +326,12 @@ class SimpleRAGSystem:
             if "error" in result:
                 continue
 
-            content = result["content"]
+            content = result["content"][:8000]
             metadata = result.get("metadata", {})
             doc_id = metadata.get("doc_id", "unknown")
 
             # Format the context piece
-            context_piece = f"[Source: {doc_id}]\n{content}\n"[:500]
+            context_piece = f"[Source: {doc_id}]\n{content}\n"
 
             # Check if adding this piece would exceed the limit
             if current_length + len(context_piece) > max_context_length:

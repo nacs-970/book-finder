@@ -25,7 +25,7 @@ def extract_tags_by_category(taggings, category):
         if tag_category == category.lower() and tag_value not in seen:
             seen.add(tag_value)
             tags.append(tag_value)
-    return tags[:10]
+    return tags
 
 # Iterate over all files in the directory
 for filename in os.listdir(json_dir):

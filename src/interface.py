@@ -145,22 +145,31 @@ def main():
 
     init_session_state()
 
-    # Auto initialize LLM model (no sidebar config)
-    if st.session_state.llm_client is None:
-        st.session_state.llm_client = LLMClient(
-            model="gpt-4o-mini", 
-            temperature=0.7,
-            max_tokens=3500
-        )
+    with st.spinner("Preparing model..."):
+        # Auto initialize LLM model (no sidebar config)
+        if st.session_state.llm_client is None:
+            st.session_state.llm_client = LLMClient(
+                model="gpt-4o-mini", 
+                temperature=0.6,
+                max_tokens=3500
+            )
 
-    # Auto initialize RAG system (with sample docs)
-    if st.session_state.rag_system is None:
-        st.session_state.rag_system = SimpleRAGSystem()
-        if not st.session_state.rag_initialized:
-            st.session_state.rag_initialized = True
-
+    with st.spinner("Preparing rag..."):
+        # Auto initialize RAG system (with sample docs)
+        if st.session_state.rag_system is None:
+            st.session_state.rag_system = SimpleRAGSystem()
+            if not st.session_state.rag_initialized:
+                st.session_state.rag_initialized = True
 
     with st.sidebar:
+        # Clear chat button
+        if st.button("🗑️ Clear Chat", type="secondary"):
+            st.session_state.messages = []
+            st.session_state.books = set()
+            st.rerun()
+
+        st.divider()
+
         st.markdown("### 📖 ABOUT")
         st.markdown("""
         **Features:**
@@ -177,13 +186,6 @@ def main():
         - Provide a short summary or blurb that describes the type of story or topic you’re looking for.
         - The system will then suggest similar books most closely related to your input.
         """)
-
-        st.divider()
-        # Clear chat button
-        if st.button("🗑️ Clear Chat", type="secondary"):
-            st.session_state.messages = []
-            st.session_state.books = set()
-            st.rerun()
 
     # Main chat interface
     if not st.session_state.llm_client or not st.session_state.rag_system:
@@ -215,43 +217,24 @@ def main():
         with st.chat_message("assistant"):
             with st.spinner("Looking for the book you want..."):
                 # Get relevant context from RAG system
-                context = st.session_state.rag_system.get_context_for_query(
-                    prompt + f"that isn't {list(st.session_state.books)}", max_context_length=5000)
+                #context = st.session_state.rag_system.get_context_for_query(prompt + f"that isn't {list(st.session_state.books)}", max_context_length=20000)
+                context = st.session_state.rag_system.get_context_for_query(prompt)
 
                 # Create enhanced prompt with context
                 enhanced_prompt = f"""
                 {context}
-
-                User Question: {prompt} that isn't {list(st.session_state.books)}
 
                 Based on the following information from the knowledge base, please answer the user's question:
                 Your job is to give a review or introducing a new book to user with given exist data
                 if the book already been recommended, don't mention it again.
 
                 Sort it out by rating (max is 5)
-                3 to 10 books Recommendation 
-                (if i didn't said any before)
+                up to 5 books Recommendation if user didn't mention about it
 
-                    Based on the following information from the knowledge base, please answer the user's question:
-                    Your job is to give a review or introducing a new book to user with given exist data
-                    But if the book you gonna recommend already existed in concersation don't recommend it again find new one
-                
+                User Question: {prompt} that isn't {list(st.session_state.books)}
 
-                    Sort it out by rating (max is 5)
-                    3 to 10 books Recommendation 
-                    if the book doesn't have a rating just said it doesn't have a rating
-                    (if i didn't said any before)
-
-                    titles
-                    rating
-                    page
-                    genre
-                    mood
-                    release date
-                    summary
-
-                    Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
-                    """
+                Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
+                """
                 # Prepare messages for LLM
                 messages = []
                 # Add conversation history (excluding current question)
@@ -274,8 +257,9 @@ def main():
                     response["books_info"].sort(key=lambda x: x.get("title"))
                     response["books_info"].sort(key=lambda x: x.get("rating", 0), reverse=True)
                 
-                Books_info = response.get("books_info", [])[:10]
+                Books_info = response.get("books_info", [])[:5]
 
+                answer += f"{response.get('comments', '')}\n"
                 if Books_info:
                     for idx, book in enumerate(Books_info, 1):
                         genres = ", ".join(list(book.get('genres', ['N/A'])))
@@ -283,11 +267,11 @@ def main():
 
                         title = book.get('title', 'N/A')
                         answer += f"### {idx}. {title} \n"
+
                         if title in st.session_state.books:
                             answer += f"###### *(already been recommended)*\n"
 
                         st.session_state.books.add(title)
-
                         answer += f"- **Average Rating:** {book.get('rating', 'N/A')} / 5\n"
                         answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
                         answer += f"- **Genres:** {genres}\n"
@@ -297,9 +281,7 @@ def main():
                         answer += "---\n"
 
                 # Display response
-                # st.markdown(answer)
-                st.markdown(answer, unsafe_allow_html=True)
-
+                st.markdown(answer)
 
                 # Show retrieved context in expander
                 with st.expander("📄 Retrieved Context"):
@@ -311,8 +293,8 @@ def main():
                     "content": answer,
                     "context_used": True
                 })
+
     # Example queries
-    
     st.markdown("### 📁 Start your journey with these book queries:")
     col1, col2, col3, col4, col5 = st.columns(5)
 
@@ -333,10 +315,9 @@ def main():
             st.session_state.example_query = "Recommend some horror books."
             st.rerun()
     with col5:
-        if st.button("💋ROMANTIC"):
-            st.session_state.example_query = "Recommend some romantic books."
+        if st.button("💋ROMANCE"):
+            st.session_state.example_query = "Recommend some romance books."
             st.rerun()
 
-    
 if __name__ == "__main__":
     main()
