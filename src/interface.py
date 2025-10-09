@@ -176,7 +176,8 @@ def main():
                 
         **How to use:**
         - Enter a genre or theme, for example romantic sci-fi, classic mystery, or self-help.
-        - Provide a short summary or blurb that describes the type of story or topic you’re looking for.
+        - Provide a short summary or blurb that describes the type of story or topic you're looking for.
+        - (Optional) Specify the number of books you'd like to get — up to 5 titles.
         - The system will then suggest similar books most closely related to your input.
         """)
         st.divider()
