@@ -162,7 +162,16 @@ def main():
                 st.session_state.rag_initialized = True
 
     with st.sidebar:
+        
+        # Clear chat button
+        if st.button("🗑️ Clear Chat", type="secondary"):
+            st.session_state.messages = []
+            st.session_state.books = set()
+            st.rerun()
+        
 
+        # st.divider()
+        
         st.markdown("### 📖 ABOUT")
         st.markdown("""
         **Features:**
@@ -180,13 +189,7 @@ def main():
         - (Optional) Specify the number of books you'd like to get — up to 5 titles.
         - The system will then suggest similar books most closely related to your input.
         """)
-        st.divider()
         
-        # Clear chat button
-        if st.button("🗑️ Clear Chat", type="secondary"):
-            st.session_state.messages = []
-            st.session_state.books = set()
-            st.rerun()
 
     # Main chat interface
     if not st.session_state.llm_client or not st.session_state.rag_system:
