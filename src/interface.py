@@ -162,13 +162,6 @@ def main():
                 st.session_state.rag_initialized = True
 
     with st.sidebar:
-        # Clear chat button
-        if st.button("🗑️ Clear Chat", type="secondary"):
-            st.session_state.messages = []
-            st.session_state.books = set()
-            st.rerun()
-
-        st.divider()
 
         st.markdown("### 📖 ABOUT")
         st.markdown("""
@@ -186,6 +179,13 @@ def main():
         - Provide a short summary or blurb that describes the type of story or topic you’re looking for.
         - The system will then suggest similar books most closely related to your input.
         """)
+        st.divider()
+        
+        # Clear chat button
+        if st.button("🗑️ Clear Chat", type="secondary"):
+            st.session_state.messages = []
+            st.session_state.books = set()
+            st.rerun()
 
     # Main chat interface
     if not st.session_state.llm_client or not st.session_state.rag_system:
@@ -272,7 +272,11 @@ def main():
                             answer += f"###### *(already been recommended)*\n"
 
                         st.session_state.books.add(title)
-                        answer += f"- **Average Rating:** {book.get('rating', 'N/A')} / 5\n"
+                        rate = 0
+                        if (rate != "N/A"):
+                            rate = int(book.get("rating", "N/A"))
+                            
+                        answer += f"- **Average Rating:** {'⭐'*rate} ({book.get('rating', 'N/A')} / 5)\n"
                         answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
                         answer += f"- **Genres:** {genres}\n"
                         answer += f"- **Moods:** {moods}\n"
