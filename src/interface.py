@@ -46,6 +46,40 @@ def main():
         layout="wide"
     )
 
+    st.markdown("""
+    <style>
+    /* ข้อความ user ไปทางขวา + ลบพื้นหลังสีเทา*/
+    div[data-testid="stChatMessage"]:has(div[data-testid="stChatMessageAvatarUser"]) {
+        display: flex !important;
+        justify-content: flex-end !important;
+        background: none !important;       /* ลบพื้นหลังเทาอ่อนรอบกล่อง */
+        box-shadow: none !important;       /* ลบเงาเทา */
+        border: none !important;           /* ลบกรอบ */
+        padding: 0 !important;
+        margin: 0.5rem 0 !important;
+    }
+
+    /* สั้นเท่าที่ข้อความมีจริง */
+    div[data-testid="stChatMessage"]:has(div[data-testid="stChatMessageAvatarUser"]) .stMarkdown {
+        background-color: #E3F2FD !important;   /* สีฟ้าอ่อน */
+        color: #0D47A1 !important;
+        padding: 10px 14px !important;
+        border-radius: 18px 18px 0 18px !important;
+        width: fit-content !important;          /* กล่องพอดีกับข้อความ */
+        max-width: 60% !important;              /* กันข้อความยาวเกินไป */
+        text-align: left !important;
+        margin-left: auto !important;           /* ดันไปขวาสุด */
+        box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+        word-wrap: break-word !important;       /* หักบรรทัดถ้าข้อความยาว */
+    }
+    [data-testid="stChatMessageAvatarUser"] {
+        display: none !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
+
+
     #C3E8EB
     st.markdown("""
     <h1 style="text-align:center;
@@ -127,15 +161,9 @@ def main():
 
     st.markdown("""
     <style>
-    [data-testid="stChatMessage"] [data-testid="stChatMessageAvatarUser"] {
-        background-color: #00BECD !important;   
-        color: white !important;                
-        border-radius: 50% !important;          
-        padding: 8px !important;
-    }
-
+                
     [data-testid="stChatMessage"] [data-testid="stChatMessageAvatarAssistant"] {
-        background-color: #C4E81D !important;    
+        background-color: #007FFF !important;    
         color: white !important;              
         border-radius: 50% !important;
         padding: 8px !important;
