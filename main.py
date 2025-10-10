@@ -41,7 +41,7 @@ def display_chat_messages():
 
 def main():
     st.set_page_config(
-        page_title="Chat with RAG",
+        page_title="Book Finder",
         page_icon="📚",
         layout="wide"
     )
