@@ -30,6 +30,8 @@ def init_session_state():
         st.session_state.rag_initialized = False
     if "books" not in st.session_state:
         st.session_state.books = set()
+    if "context" not in st.session_state:
+        st.session_state.context = None
 
 def display_chat_messages():
     """Display chat messages"""
@@ -38,6 +40,118 @@ def display_chat_messages():
             if message.get("context_used", False):
                 st.markdown("📑 *Used document context*")
             st.markdown(message["content"])
+
+def handle_prompt(prompt):
+    # Prepare messages for LLM
+    messages = []
+
+    # Add conversation history (excluding current question)
+    for msg in st.session_state.messages[:-1]:
+        messages.append(
+            {"role": msg["role"], "content": msg["content"]})
+    
+    prompt_lower = prompt.lower()
+
+    plan_trigger_keywords = ["plan", "schedule", "finish", "how many", "reading plan", "reading schedule", "per day"]
+    recommended_trigger_keywords = ["recommend", "suggest", "best", "top picks", "favorite", "must read", "good books", "book list", "reading recommendation", "books to read", "book suggestions", "recommendations for me", "what to read", "reading tips", "book advice", "recommendation"]
+    should_plan = any(trigger in prompt_lower for trigger in plan_trigger_keywords)
+    should_recommend = any(trigger in prompt_lower for trigger in recommended_trigger_keywords)
+
+    # plan
+    if should_plan:
+        # Get relevant context from RAG system
+        st.session_state.context = st.session_state.rag_system.get_context_for_query(prompt)
+        enhanced_prompt = f"""
+        {st.session_state.context}
+
+        Based on the following information from the knowledge base, please answer the user's question:
+        Your job is to plan a reading schedule of for user, with some tip
+        if time period didn't provide use period as one month.
+        if the book don't exist in knowledge base don't make up an example or approximation
+        User Question: {prompt}
+        Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
+        """
+
+        # Add the enhanced prompt
+        messages.append({"role": "user", "content": enhanced_prompt})
+        return st.session_state.llm_client.plan(messages)
+
+    # recommend
+    elif should_recommend:
+#st.session_state.context = st.session_state.rag_system.get_context_for_query(prompt + f"that isn't {list(st.session_state.books)}")
+        st.session_state.context = st.session_state.rag_system.get_context_for_query(prompt)
+
+        # Create enhanced prompt with context
+        enhanced_prompt = f"""
+        {st.session_state.context}
+
+        Based on the following information from the knowledge base, please answer the user's question:
+        Your job is to give a review or introducing a new book to user with given exist data
+        if the book already been recommended, don't mention it again.
+
+        Sort it out by rating (max is 5)
+        up to 5 books Recommendation if user didn't mention about it
+
+        User Question: {prompt} that isn't {list(st.session_state.books)}
+
+        Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
+        """
+        messages.append({"role": "user", "content": enhanced_prompt})
+
+        # Get response from LLM
+        response = st.session_state.llm_client.recommend(messages)
+
+        answer=""
+        response = json.loads(response)
+        
+        # sort by rating, title (highest first)
+        if "books_info" in response:
+            response["books_info"].sort(key=lambda x: x.get("title"))
+            response["books_info"].sort(key=lambda x: x.get("rating", 0), reverse=True)
+        
+        Books_info = response.get("books_info", [])[:5]
+
+        answer += f"{response.get('comments', '')}\n"
+        if Books_info:
+            for idx, book in enumerate(Books_info, 1):
+                genres = ", ".join(list(book.get('genres', ['N/A'])))
+                moods = ", ".join(list(book.get('moods', ['N/A'])))
+
+                title = book.get('title', 'N/A')
+                answer += f"### {idx}. {title} \n"
+
+                if title in st.session_state.books:
+                    answer += f"###### *(already been recommended)*\n"
+
+                st.session_state.books.add(title)
+                rate = 0
+                if (rate != "N/A"):
+                    rate = int(book.get("rating", "N/A"))
+                    
+                answer += f"- **Average Rating:** {'⭐'*rate} ({book.get('rating', 'N/A')} / 5)\n"
+                answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
+                answer += f"- **Genres:** {genres}\n"
+                answer += f"- **Moods:** {moods}\n"
+                answer += f"- **Pages:** {book.get('page_count', 'N/A')}\n"
+                answer += f"- **Summary:** {book.get('summary', 'N/A')}\n\n"
+                answer += "---\n"
+        return answer
+
+    # normal chat
+    else:
+        st.session_state.context = st.session_state.rag_system.get_context_for_query(prompt)
+        enhanced_prompt = f"""
+        {st.session_state.context}
+
+        Based on the following information from the knowledge base, please answer the user's question:
+        Your job is book buddy talk to user with neutral friendly tone, chatting
+        User Question: {prompt}
+        Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
+
+        """
+        messages.append({"role": "user", "content": enhanced_prompt})
+        return st.session_state.llm_client.chat(messages)
+
 
 def main():
     st.set_page_config(
@@ -248,80 +362,15 @@ def main():
         # Generate and display assistant response
         with st.chat_message("assistant"):
             with st.spinner("Looking for the book you want..."):
-                # Get relevant context from RAG system
-                #context = st.session_state.rag_system.get_context_for_query(prompt + f"that isn't {list(st.session_state.books)}", max_context_length=20000)
-                context = st.session_state.rag_system.get_context_for_query(prompt)
 
-                # Create enhanced prompt with context
-                enhanced_prompt = f"""
-                {context}
-
-                Based on the following information from the knowledge base, please answer the user's question:
-                Your job is to give a review or introducing a new book to user with given exist data
-                if the book already been recommended, don't mention it again.
-
-                Sort it out by rating (max is 5)
-                up to 5 books Recommendation if user didn't mention about it
-
-                User Question: {prompt} that isn't {list(st.session_state.books)}
-
-                Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
-                """
-                # Prepare messages for LLM
-                messages = []
-                # Add conversation history (excluding current question)
-                for msg in st.session_state.messages[:-1]:
-                    messages.append(
-                        {"role": msg["role"], "content": msg["content"]})
-                
-                # Add the enhanced prompt
-                messages.append(
-                    {"role": "user", "content": enhanced_prompt})
-
-                # Get response from LLM
-                response = st.session_state.llm_client.chat(messages)
-
-                answer=""
-                response = json.loads(response)
-                
-                # sort by rating, title (highest first)
-                if "books_info" in response:
-                    response["books_info"].sort(key=lambda x: x.get("title"))
-                    response["books_info"].sort(key=lambda x: x.get("rating", 0), reverse=True)
-                
-                Books_info = response.get("books_info", [])[:5]
-
-                answer += f"{response.get('comments', '')}\n"
-                if Books_info:
-                    for idx, book in enumerate(Books_info, 1):
-                        genres = ", ".join(list(book.get('genres', ['N/A'])))
-                        moods = ", ".join(list(book.get('moods', ['N/A'])))
-
-                        title = book.get('title', 'N/A')
-                        answer += f"### {idx}. {title} \n"
-
-                        if title in st.session_state.books:
-                            answer += f"###### *(already been recommended)*\n"
-
-                        st.session_state.books.add(title)
-                        rate = 0
-                        if (rate != "N/A"):
-                            rate = int(book.get("rating", "N/A"))
-                            
-                        answer += f"- **Average Rating:** {'⭐'*rate} ({book.get('rating', 'N/A')} / 5)\n"
-                        answer += f"- **release_date:** {book.get('release_date', 'N/A')} \n"
-                        answer += f"- **Genres:** {genres}\n"
-                        answer += f"- **Moods:** {moods}\n"
-                        answer += f"- **Pages:** {book.get('page_count', 'N/A')}\n"
-                        answer += f"- **Summary:** {book.get('summary', 'N/A')}\n\n"
-                        answer += "---\n"
+                answer = handle_prompt(prompt)
 
                 # Display response
                 st.markdown(answer)
 
                 # Show retrieved context in expander
                 with st.expander("📄 Retrieved Context"):
-                    st.markdown(context)
+                    st.markdown(st.session_state.context)
 
                 # Add assistant response to chat history
                 st.session_state.messages.append({

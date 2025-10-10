@@ -3,11 +3,10 @@ from typing import Dict, List, Any, Optional
 import litellm
 import json
 from dotenv import load_dotenv
+from .plan_tool import PlanTool
 
 # Load environment variables
 load_dotenv()
-
-
 
 class LLMClient:
     """Wrapper class for LiteLLM operations"""
@@ -32,6 +31,21 @@ class LLMClient:
             os.environ["GROQ_API_KEY"] = groq_key
 
     def chat(self, messages: List[Dict[str, str]], **kwargs) -> str:
+        try:
+            response = litellm.completion(
+                model=self.model,
+                messages=messages,
+                temperature=kwargs.get('temperature', self.temperature),
+                max_tokens=kwargs.get('max_tokens', self.max_tokens),
+                **kwargs
+            )
+            
+            return response.choices[0].message.content
+            
+        except Exception as e:
+            return f"Error: {str(e)}"
+
+    def recommend(self, messages: List[Dict[str, str]], **kwargs) -> str:
 
         my_schema = {
             "type": "object",
@@ -107,6 +121,72 @@ class LLMClient:
             # return back as formatted JSON string
             return json.dumps(data, indent=4, ensure_ascii=False)
         
+        except Exception as e:
+            return f"Error: {str(e)}"
+
+
+    def plan(self, messages: List[Dict[str, str]], **kwargs) -> str:
+        try:
+            # Step 1: Send initial request that may trigger a tool call
+            response = litellm.completion(
+                model=self.model,
+                messages=messages,
+                temperature=kwargs.get('temperature', self.temperature),
+                max_tokens=kwargs.get('max_tokens', self.max_tokens),
+                tools=PlanTool.get_schemas(),
+                tool_choice="auto",
+                **kwargs
+            )
+    
+            tool_calls = response.choices[0].message.tool_calls
+    
+            if tool_calls:
+                # Step 2: Handle each tool call
+                tool_call = tool_calls[0]
+                tool_call_id = tool_call.id
+                func_name = tool_call.function.name
+                args = json.loads(tool_call.function.arguments)
+    
+                # Step 3: Run the actual tool function
+                if func_name == "avg_page_per_day":
+                    try:
+                        func_result = PlanTool.avg_page_per_day(**args)
+                        # Step 4: Create function response message with tool_call_id
+                        follow_up_msg = {
+                            "role": "function",
+                            "name": func_name,
+                            "content": json.dumps(func_result)
+                        }
+    
+                        # Step 5: Continue the conversation
+                        #messages.append(response.choices[0].message)  
+                        messages.append(follow_up_msg)                # Your function result message
+
+                    except Exception as e:
+                        # Handle tool execution errors
+                        messages.append({
+                            "role": "function", 
+                            "name": func_name,
+                            "content": f"Error: {e}"
+                        })
+                try:
+                    # Step 6: Send the follow-up messages
+                    response2 = litellm.completion(
+                        model=self.model,
+                        messages=messages,
+                        temperature=kwargs.get('temperature', self.temperature),
+                        max_tokens=kwargs.get('max_tokens', self.max_tokens),
+                        **kwargs
+                    )
+                    return response2.choices[0].message.content
+
+                except Exception as e:
+                    return f"Error: {str(e)}"
+    
+            else:
+                # No tool call, just return the response
+                return response.choices[0].message.content
+    
         except Exception as e:
             return f"Error: {str(e)}"
 

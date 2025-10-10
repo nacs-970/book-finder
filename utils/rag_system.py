@@ -261,6 +261,8 @@ class SimpleRAGSystem:
             search_results = []
 
             for score, idx in zip(scores[0], indices[0]):
+                similarity = 1 - score / 2  # Convert L2 to approximate similarity
+
                 if idx < 0:
                     continue
 
@@ -283,8 +285,6 @@ class SimpleRAGSystem:
                 doc_meta.pop("chunk_id", None)
                 doc_meta.pop("chunk_index", None)
 
-                similarity = 1 - score / 2  # Convert L2 to approximate similarity
-
                 search_results.append({
                     "doc_id": doc_id,
                     "content": full_doc_text.strip(),
@@ -303,7 +303,7 @@ class SimpleRAGSystem:
             return [{"error": f"Search failed: {str(e)}"}]
 
 
-    def get_context_for_query(self, query: str, max_context_length: int = 40000) -> str:
+    def get_context_for_query(self, query: str, max_context_length: int = 400000) -> str:
         """
         Get relevant context for a query, formatted for LLM consumption.
 
@@ -326,7 +326,7 @@ class SimpleRAGSystem:
             if "error" in result:
                 continue
 
-            content = result["content"][:8000]
+            content = result["content"][:5000]
             metadata = result.get("metadata", {})
             doc_id = metadata.get("doc_id", "unknown")
 
