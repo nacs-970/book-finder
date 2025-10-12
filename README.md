@@ -22,7 +22,7 @@ python src/build.py
 ```
 
 ## link
-[demo-website](https://bookbuddy-cs.streamlit.app/) (streamlit)
+[demo-website](https://book-buddy.streamlit.app/) (streamlit)
 
 [hardcover-api](https://docs.hardcover.app/api/getting-started/) **(API is currently in development)**
 
