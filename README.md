@@ -1,4 +1,4 @@
-# book-finder
+# Book Buddy
 Group project learning about LLM in course 204203 Chiang Mai university
 
 ## installation
@@ -16,13 +16,13 @@ streamlit run main.py
 
 ## adding books
 - get a json from hardcover-api
-- extract into \[title].md (look at [src/scrape.py](https://github.com/nacs-970/book-finder/blob/main/src/scrape.py) for example)
+- extract into \[title].md (look at [src/scrape.py](https://github.com/nacs-970/book-buddy/blob/main/src/scrape.py) for example)
 ```bash
 python src/build.py
 ```
 
 ## link
-[demo-website](https://bookfinder-cs.streamlit.app/) (streamlit)
+[demo-website](https://bookbuddy-cs.streamlit.app/) (streamlit)
 
 [hardcover-api](https://docs.hardcover.app/api/getting-started/) **(API is currently in development)**
 

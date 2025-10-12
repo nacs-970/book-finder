@@ -146,8 +146,6 @@ def handle_prompt(prompt):
         Based on the following information from the knowledge base, please answer the user's question:
         Your job is book buddy talk to user with neutral friendly tone, chatting
         User Question: {prompt}
-        Please provide a comprehensive answer based on the information provided above. If the information is not sufficient or not found in the knowledge base, please mention that clearly.
-
         """
         messages.append({"role": "user", "content": enhanced_prompt})
         return st.session_state.llm_client.chat(messages)
@@ -317,21 +315,24 @@ def main():
         st.markdown("### 📖 ABOUT")
         st.markdown("""
         **Features:**
-        - Displays the title of the recommended book
+        - Recommended book with details
         - Shows average reader rating or review score
         - Shows the official publication date of the book
         - Provides the total number of pages for quick reference
         - Highlights the main categories or themes
         - Indicates the overall tone or emotional atmosphere of the book
         - A concise summary or blurb giving you the essence of the book
+        - Create reading schedule
+        - Just chatting
                 
         **How to use:**
-        - Enter a genre or theme, for example romantic sci-fi, classic mystery, or self-help.
+        - For recommendation enter trigger keyword, genre or theme, ex: recommend me some romance, sci-fi, classic mystery, or self-help.
         - Provide a short summary or blurb that describes the type of story or topic you're looking for.
         - (Optional) Specify the number of books you'd like to get — up to 5 titles.
         - The system will then suggest similar books most closely related to your input.
+        - For reading schedule enter trigger keyword, title and time period, ex: plan me dune reading schedule
+        - For chatting, just don't trigger any keyword above
         """)
-        
 
     # Main chat interface
     if not st.session_state.llm_client or not st.session_state.rag_system:
