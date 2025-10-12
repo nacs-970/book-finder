@@ -155,7 +155,7 @@ def handle_prompt(prompt):
 
 def main():
     st.set_page_config(
-        page_title="Book Finder",
+        page_title="Book Buddy",
         page_icon="📚",
         layout="wide"
     )
@@ -200,7 +200,7 @@ def main():
     background: -webkit-linear-gradient(#2962FF, #5ACAF9);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;">
-    ✨ BOOK FINDER
+    ✨ BOOK BUDDY
     </h1>
     """, unsafe_allow_html=True)
 
