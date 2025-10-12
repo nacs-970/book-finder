@@ -205,7 +205,7 @@ def main():
     st.markdown(
     """
     <p style='text-align: center; font-size:20px; color:#1565C0; font-weight:500;'>
-        Discover books you’ll love with just a few words, and let every search lead you to new adventures
+        Because every great story deserves a giggling, gasping, book buddy
     </p>
     """,
     unsafe_allow_html=True
