@@ -5,8 +5,8 @@ Group project learning about LLM in course 204203 Chiang Mai university
 
 #### optional venv
 ```bash
-python -m venv venv
-source venv/bin/activate 
+python -m venv .venv
+source .venv/bin/activate 
 ```
 #### run
 ```bash
@@ -15,10 +15,14 @@ streamlit run main.py
 ```
 
 ## adding books
-- get a json from hardcover-api
-- extract into \[title].md (look at [src/scrape.py](https://github.com/nacs-970/book-buddy/blob/main/src/scrape.py) for example)
+- get a json from hardcover-api [example](https://github.com/nacs-970/book-buddy/blob/main/.src/graphq.py)
 ```bash
-python src/build.py
+python .src/graphq.py
+```
+
+- extract into \[title].md [example](https://github.com/nacs-970/book-buddy/blob/main/.src/scrape.py)
+```bash
+python .src/build.py
 ```
 
 ## link
