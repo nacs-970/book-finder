@@ -197,8 +197,8 @@ def main():
     <h1 style="text-align:center;
     background: -webkit-linear-gradient(#2962FF, #5ACAF9);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;">
-    ✨ BOOK BUDDY
+    -webkit-text-fill-color: transparent;"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    ✨ BOOK BUDDY</a>
     </h1>
     """, unsafe_allow_html=True)
 
